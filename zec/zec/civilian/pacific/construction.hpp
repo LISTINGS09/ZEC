@@ -1,12 +1,12 @@
     class ConstructionLarge
     {
-        name = "Construction (Large)";
+        name = $STR_ZEC_ConstructionLarge;
     };
     class ConstructionMedium
     {
-        name = "Construction (Medium)";
-		class M_Building1 {
-			name = "[M] Building Site #1"; // Credit: 2600K
+        name = $STR_ZEC_ConstructionMedium;
+		class BuildingSite1 {
+			name = $STR_ZEC_CivilianPacific_ConstructionLarge_BuildingSite1; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\busstop_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_NetFence_01_m_8m_F"; rank = ""; position[] = {-16.2421,-20.5298,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shed_05_F"; rank = ""; position[] = {-22.3791,2.02051,0}; dir = 90;};
@@ -62,8 +62,8 @@
 			class Object52 {side = 8; vehicle = "Land_CinderBlocks_F"; rank = ""; position[] = {16.7606,24.0005,0}; dir = 150;};
 			class Object53 {side = 8; vehicle = "Land_Pipes_small_F"; rank = ""; position[] = {17.4861,19.6904,0}; dir = 289.503;};
 		};
-		class M_Building2 {
-			name = "[M] Building Site #2"; // Credit: 2600K
+		class BuildingSite2 {
+			name = $STR_ZEC_CivilianPacific_ConstructionLarge_BuildingSite2; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\busstop_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Wall_Tin_4"; rank = ""; position[] = {-1.44568,-29.3345,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_Wall_Tin_4"; rank = ""; position[] = {-21.4457,-29.3345,0}; dir = 0;};
@@ -144,14 +144,14 @@
     };
     class ConstructionSmall
     {
-        name = "Construction (Small)";
+        name = $STR_ZEC_ConstructionSmall;
     };
 
     class ConstructionSuppliesLarge
     {
-        name = "Construction Supplies (Large)";
-		class WallsApex {
-			name = "Walls"; // Credit: 2600K
+        name = $STR_ZEC_ConstructionSuppliesLarge;
+		class AllWalls {
+			name = $STR_ZEC_CivilianPacific_ConstructionSuppliesLarge_AllWalls; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_SlumWall_01_s_2m_F"; rank = ""; position[] = {-13.375,-16.197,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_SlumWall_01_s_4m_F"; rank = ""; position[] = {-14.3745,-14.25,0}; dir = 270;};
@@ -251,8 +251,8 @@
 			class Object96 {side = 8; vehicle = "Land_PillboxWall_01_6m_F"; rank = ""; position[] = {3.75012,25.1526,0}; dir = 0;};
 			class Object97 {side = 8; vehicle = "Land_PillboxWall_01_3m_F"; rank = ""; position[] = {6.47858,23.5967,0}; dir = 270;};
 		};
-		class JunkFiller {
-			name = "Filler - Junk"; // Credit: 2600K
+		class FillerJunk {
+			name = $STR_ZEC_CivilianPacific_ConstructionSuppliesLarge_FillerJunk; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Wreck_Truck_F"; rank = ""; position[] = {-7.19019,-18.73,0}; dir = 120;};
 			class Object1 {side = 8; vehicle = "Land_Tyre_F"; rank = ""; position[] = {-18.5851,-7.8584,0}; dir = 191.759;};
@@ -414,8 +414,8 @@
 			class Object158 {side = 8; vehicle = "Land_WoodenCrate_01_F"; rank = ""; position[] = {14,11.5,0}; dir = 15.0001;};
 			class Object159 {side = 8; vehicle = "Land_Garbage_square3_F"; rank = ""; position[] = {5.15173,6.29004,0}; dir = 0;};
 		};
-		class BoxFiller1 {
-			name = "Filler - Boxes #1"; // Credit: 2600K
+		class FillerBox1 {
+			name = $STR_ZEC_CivilianPacific_ConstructionSuppliesLarge_FillerBox1; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Pallets_F"; rank = ""; position[] = {-7.73206,-14.2397,0}; dir = 29.158;};
 			class Object1 {side = 8; vehicle = "Land_Pallets_F"; rank = ""; position[] = {-2.67993,-4.74365,0}; dir = 149.158;};
@@ -514,8 +514,8 @@
 			class Object95 {side = 8; vehicle = "Land_WoodenCrate_01_stack_x5_F"; rank = ""; position[] = {5.50146,17.0298,0}; dir = 180;};
 			class Object96 {side = 8; vehicle = "Land_GarbageHeap_03_F"; rank = ""; position[] = {15.1548,6.68164,0}; dir = 225;};
 		};
-		class BoxFiller2 {
-			name = "Filler - Boxes #2"; // Credit: 2600K
+		class FillerBox2 {
+			name = $STR_ZEC_CivilianPacific_ConstructionSuppliesLarge_FillerBox2; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Garbage_square3_F"; rank = ""; position[] = {-15.6365,-2.84668,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_GarbageBags_F"; rank = ""; position[] = {-17.463,-3.06934,0}; dir = 0;};
@@ -637,8 +637,8 @@
 			class Object118 {side = 8; vehicle = "Land_WoodenCrate_01_stack_x5_F"; rank = ""; position[] = {5.45056,18.291,0}; dir = 360;};
 			class Object119 {side = 8; vehicle = "Land_GarbageHeap_03_F"; rank = ""; position[] = {14.6776,17.0908,0}; dir = 90;};
 		};
-		class BoxFillerSmall {
-			name = "Filler - Boxes (Small)"; // Credit: 2600K
+		class FillerBoxSmall {
+			name = $STR_ZEC_CivilianPacific_ConstructionSuppliesLarge_FillerBoxSmall; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Pallets_F"; rank = ""; position[] = {-15.152,-3.47314,0}; dir = 184.74;};
 			class Object1 {side = 8; vehicle = "Land_Pallets_F"; rank = ""; position[] = {-15.214,-15.4028,0}; dir = 249.076;};
@@ -702,8 +702,8 @@
 			class Object60 {side = 8; vehicle = "Land_WoodenCrate_01_stack_x3_F"; rank = ""; position[] = {4.88,7.62744,0}; dir = 180;};
 			class Object61 {side = 8; vehicle = "Land_Pallets_F"; rank = ""; position[] = {16.0778,4.07959,0}; dir = 279.076;};
 		};
-		class Wrecks {
-			name = "Wrecks"; // Credit: 2600K
+		class AllWrecks {
+			name = $STR_ZEC_CivilianPacific_ConstructionSuppliesLarge_AllWrecks; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_HistoricalPlaneWreck_02_rear_F"; rank = ""; position[] = {-23.3234,-13.9028,0}; dir = 345.058;};
 			class Object1 {side = 8; vehicle = "Land_HistoricalPlaneWreck_02_front_F"; rank = ""; position[] = {-22.3932,-29.2356,0}; dir = 0.0109076;};
@@ -728,9 +728,9 @@
     };
     class ConstructionSuppliesMedium
     {
-        name = "Construction Supplies (Medium)";
+        name = $STR_ZEC_ConstructionSuppliesMedium;
     };
     class ConstructionSuppliesSmall
     {
-        name = "Construction Supplies (Small)";
+        name = $STR_ZEC_ConstructionSuppliesSmall;
     };

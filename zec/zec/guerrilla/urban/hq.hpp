@@ -1,12 +1,12 @@
     class HQLarge
     {
-        name = "HQ (Large)";
+        name = $STR_ZEC_HqLarge;
     };
     class HQMedium
     {
-        name = "HQ (Medium)";
-		class M_RuinFortified {
-			name = "Ruin (Fortified)"; // Credit: 2600K
+        name = $STR_ZEC_HqMedium;
+		class RuinFortified {
+			name = $STR_ZEC_Guerrilla_HQMedium_RuinFortified; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object1 {side = 8; vehicle = "Land_JunkPile_F"; rank = ""; position[] = {-3.37305,-9.79688,0}; dir = 320;};
 			class Object2 {side = 8; vehicle = "Land_WheelCart_F"; rank = ""; position[] = {4.12109,-12.2148,0}; dir = 165.085;};
@@ -52,8 +52,8 @@
 			class Object42 {side = 8; vehicle = "Land_CanOpener_F"; rank = ""; position[] = {16.1699,-2.63672,0}; dir = 193.621;};
 			class Object43 {side = 8; vehicle = "Land_cargo_addon02_V2_F"; rank = ""; position[] = {13.668,-4.92773,0}; dir = 271.247;};
 		};
-		class M_HangarFortified {
-			name = "Hangar (Fortified)"; // Credit: 2600K
+		class HangarFortified {
+			name = $STR_ZEC_Guerrilla_HQMedium_HangarFortified; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object1 {side = 8; vehicle = "Land_HBarrier_Big_F"; rank = ""; position[] = {-5.70386,-6.51648,0}; dir = 180;};
 			class Object2 {side = 8; vehicle = "Land_HBarrier_Big_F"; rank = ""; position[] = {-11.2461,-3.49829,0}; dir = 90;};
@@ -141,8 +141,8 @@
 			class Object84 {side = 8; vehicle = "Land_BarrelTrash_grey_F"; rank = ""; position[] = {4.88464,9.17883,0}; dir = 359.994;};
 			class Object85 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {3.67285,17.9235,0}; dir = 205;};
 		};
-		class M_ShedSandbags {
-			name = "Shed (Sandbags)"; // Credit: 2600K
+		class ShedSandbags {
+			name = $STR_ZEC_Guerrilla_HQMedium_ShedSandbags; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object1 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-7.45068,-17.719,0}; dir = 0;};
 			class Object3 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {0.508057,-21.2095,0}; dir = 313.717;};
@@ -210,6 +210,6 @@
     };
     class HQSmall
     {
-        name = "HQ (Small)";
+        name = $STR_ZEC_HqSmall;
 
     };

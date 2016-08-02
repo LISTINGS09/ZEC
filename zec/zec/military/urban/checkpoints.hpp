@@ -1,8 +1,8 @@
-    class Checkpoints_BarricadesLarge
+    class CheckpointsBarricadesLarge
     {
-        name = "Checkpoints & Barricades (Large)";
-		class L_CheckpointWatchtower {
-			name = "Heavy Checkpoint (Watchtower)"; // Credit: 2600K
+        name = $STR_ZEC_CheckpointsBarricadesLarge;
+		class CheckpointWatchtower {
+			name = $STR_ZEC_Military_CheckpointsBarricadesLarge_CheckpointWatchtower; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
 			class Object0 {side = 8; vehicle = "Land_HBarrier_Big_F"; rank = ""; position[] = {-1.6748,-8.30859,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_HBarrier_Big_F"; rank = ""; position[] = {-1.08105,-15.0449,0}; dir = 150;};
@@ -46,8 +46,8 @@
 			class Object40 {side = 8; vehicle = "Land_Cargo20_light_green_F"; rank = ""; position[] = {10.624,17.5942,0}; dir = 360;};
 			class Object41 {side = 8; vehicle = "Land_Cargo20_red_F"; rank = ""; position[] = {10.499,14.7192,0}; dir = 3.06067e-005;};
 		};
-		class L_CheckpointBunker {
-			name = "Heavy Checkpoint (Bunker)"; // Credit: 2600K
+		class CheckpointBunker {
+			name = $STR_ZEC_Military_CheckpointsBarricadesLarge_CheckpointBunker; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object1 {side = 8; vehicle = "Land_BagBunker_Large_F"; rank = ""; position[] = {12.3707,-6.45142,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_BarGate_F"; rank = ""; position[] = {3.43774,1.75,0}; dir = 0;};
@@ -76,8 +76,8 @@
 			class Object25 {side = 8; vehicle = "Land_BagFence_Short_F"; rank = ""; position[] = {-10.0105,12.7515,0}; dir = 6.83019e-006;};
 			class Object26 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {4.45992,2.49268,0}; dir = 135;};
 		};
-		class L_CheckpointHBarrier {
-			name = "Heavy Checkpoint (HBarrier)"; // Credit: 2600K
+		class CheckpointHBarrier {
+			name = $STR_ZEC_Military_CheckpointsBarricadesLarge_CheckpointHBarrier; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object1 {side = 8; vehicle = "Land_HBarrierTower_F"; rank = ""; position[] = {-17.5754,-13.1592,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_HBarrier_Big_F"; rank = ""; position[] = {-10.8397,-12.0427,0}; dir = 180;};
@@ -158,8 +158,8 @@
 			class Object77 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {14.9999,1.125,0}; dir = 345;};
 			class Object78 {side = 8; vehicle = "Land_BarrelSand_F"; rank = ""; position[] = {12.2499,7.25,0}; dir = 359.998;};
 		};
-		class L_NatoCheckpoint {
-			name = "Checkpoint (Heavy) [N]"; // Credit: 2600K
+		class Checkpoint_BLU_F {
+			name = $STR_ZEC_Military_CheckpointsBarricadesLarge_Checkpoint_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Mil_ConcreteWall_F"; rank = ""; position[] = {-4.5,-21.3708,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Cargo_Patrol_V1_F"; rank = ""; position[] = {-10.0028,-6.87183,0}; dir = 0;};
@@ -236,8 +236,8 @@
 			class Object73 {side = 8; vehicle = "Land_Pallets_stack_F"; rank = ""; position[] = {14.375,-1.875,0}; dir = 75.0009;};
 			class Object74 {side = 8; vehicle = "Land_BarrelTrash_grey_F"; rank = ""; position[] = {20.4999,5.5,0}; dir = 359.998;};
 		};
-		class L_CsatCheckpoint {
-			name = "Checkpoint (Heavy) [C]"; // Credit: 2600K
+		class Checkpoint_OPF_F {
+			name = $STR_ZEC_Military_CheckpointsBarricadesLarge_Checkpoint_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object1 {side = 8; vehicle = "CamoNet_OPFOR_open_F"; rank = ""; position[] = {-10.3874,-3.65112,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_Cargo_Patrol_V3_F"; rank = ""; position[] = {-13.2528,5.37817,0}; dir = 0;};
@@ -305,8 +305,8 @@
 			class Object64 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {17.9494,-2.87354,0}; dir = 165;};
 			class Object65 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {12.5315,18.0327,0}; dir = 0;};
 		};
-		class L_AafCheckpoint {
-			name = "Checkpoint (Heavy) [A]"; // Credit: 2600K
+		class Checkpoint_IND_F {
+			name = $STR_ZEC_Military_CheckpointsBarricadesLarge_Checkpoint_IND_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\aaf_ca.paa";
 			class Object1 {side = 8; vehicle = "CamoNet_INDP_open_F"; rank = ""; position[] = {-11.8627,3.77612,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_HBarrier_Big_F"; rank = ""; position[] = {-7.0824,7.16016,0}; dir = 90;};
@@ -377,11 +377,11 @@
 			class Object67 {side = 8; vehicle = "Land_Pallets_F"; rank = ""; position[] = {15.9594,14.26,0}; dir = 75;};
 		};
     };
-    class Checkpoints_BarricadesMedium
+    class CheckpointsBarricadesMedium
     {
-        name = "Checkpoints & Barricades (Medium)";
-		class M_CheckpointConcrete {
-			name = "Checkpoint (Concrete)"; // Credit: 2600K
+        name = $STR_ZEC_CheckpointsBarricadesMedium
+		class CheckpointConcrete {
+			name = $STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointConcrete; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object1 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {-17.8174,5.89624,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_CncBarrierMedium4_F"; rank = ""; position[] = {-16.3927,7.47583,0}; dir = 270;};
@@ -438,8 +438,8 @@
 			class Object53 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {8.49989,1.75,0}; dir = 359.995;};
 			class Object54 {side = 8; vehicle = "Land_BarrelSand_F"; rank = ""; position[] = {-11.5001,9.125,0}; dir = 359.998;};
 		};
-		class M_CheckpointTowers {
-			name = "Checkpoint (Towers)"; // Credit: 2600K
+		class CheckpointTowers {
+			name = $STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointTowers; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object1 {side = 8; vehicle = "Land_BagBunker_Tower_F"; rank = ""; position[] = {13.2305,-0.516846,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_BagBunker_Tower_F"; rank = ""; position[] = {-11.3919,0.394531,0}; dir = 0;};
@@ -477,8 +477,8 @@
 			class Object34 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {5.23819,0.374756,0}; dir = 240;};
 			class Object35 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {16.5638,6.22681,0}; dir = 0;};
 		};
-		class M_CheckpointBunker {
-			name = "Checkpoint (Bunker)"; // Credit: 2600K
+		class CheckpointBunker {
+			name = $STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointBunker; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object1 {side = 8; vehicle = "Land_BarGate_F"; rank = ""; position[] = {3.56274,1.125,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_BagBunker_Small_F"; rank = ""; position[] = {11.6249,-3.30542,0}; dir = 0;};
@@ -513,8 +513,8 @@
 			class Object32 {side = 8; vehicle = "Land_BagFence_Short_F"; rank = ""; position[] = {9.74855,7.9895,0}; dir = 270;};
 			class Object33 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {15.8138,5.10181,0}; dir = 0;};
 		};
-		class M_CheckpointWatchtower {
-			name = "Checkpoint (Watchtower)"; // Credit: 2600K
+		class CheckpointWatchtower {
+			name = $STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointWatchtower; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_Corner_F"; rank = ""; position[] = {-2.36475,-6.76465,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-4.69727,-6.67041,0}; dir = 0;};
@@ -558,8 +558,8 @@
 			class Object40 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {7.125,4.625,0}; dir = 360;};
 			class Object41 {side = 8; vehicle = "Land_HBarrier_Big_F"; rank = ""; position[] = {7.2832,10.2378,0}; dir = 90;};
 		};
-		class M_AafCheckpoint {
-			name = "Checkpoint [A]"; // Credit: 2600K
+		class Checkpoint_IND_F {
+			name = $STR_ZEC_Military_CheckpointsBarricadesMedium_Checkpoint_IND_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\aaf_ca.paa";
 			class Object1 {side = 8; vehicle = "CamoNet_INDP_F"; rank = ""; position[] = {-9.44945,1.47583,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_BagBunker_Small_F"; rank = ""; position[] = {-7.75011,-6.05542,0}; dir = 0;};
@@ -612,8 +612,8 @@
 			class Object49 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {-5.23819,6.75024,0}; dir = 60;};
 			class Object50 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {5.63681,1.87524,0}; dir = 60;};
 		};
-		class M_NatoCheckpoint {
-			name = "Checkpoint [N]"; // Credit: 2600K
+		class Checkpoint_BLU_F {
+			name = $STR_ZEC_Military_CheckpointsBarricadesMedium_Checkpoint_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object1 {side = 8; vehicle = "CamoNet_BLUFOR_F"; rank = ""; position[] = {-7.82445,2.22583,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {-11.0576,3.85376,0}; dir = 90;};
@@ -666,8 +666,8 @@
 			class Object49 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {4.74997,-6.125,0}; dir = 135.001;};
 			class Object50 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {4.875,-8.75,0}; dir = 90.0011;};
 		};
-		class M_CsatCheckpoint {
-			name = "Checkpoint [C]"; // Credit: 2600K
+		class Checkpoint_OPF_F {
+			name = $STR_ZEC_Military_CheckpointsBarricadesMedium_Checkpoint_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object1 {side = 8; vehicle = "CamoNet_OPFOR_open_F"; rank = ""; position[] = {-10.1126,0.651123,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {-5.30762,10.4788,0}; dir = 90;};
@@ -715,11 +715,11 @@
 			class Object44 {side = 8; vehicle = "Land_BarrelTrash_grey_F"; rank = ""; position[] = {12.4999,2.25,0}; dir = 359.997;};
 		};
     };
-    class Checkpoints_BarricadesSmall
+    class CheckpointsBarricadesSmall
     {
-        name = "Checkpoints & Barricades (Small)";
-		class S_CheckpointSandbags2 {
-			name = "Light Checkpoint (Sandbags) #2"; // Credit: 2600K
+        name = $STR_ZEC_CheckpointsBarricadesSmall
+		class CheckpointSandbags2 {
+			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointSandbags2; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
 			class Object0 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-2.26367,-13.0444,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {-4.05078,-6.37354,0}; dir = 165;};
@@ -754,8 +754,8 @@
 			class Object31 {side = 8; vehicle = "RoadBarrier_F"; rank = ""; position[] = {3.22852,7.57275,0}; dir = 269.99;};
 			class Object32 {side = 8; vehicle = "RoadBarrier_small_F"; rank = ""; position[] = {2.98438,10.8228,0}; dir = 75.0013;};
 		};
-		class S_CheckpointTower {
-			name = "Light Checkpoint (Tower)"; // Credit: 2600K
+		class CheckpointTower {
+			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointTower; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
 			class Object0 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-3.62695,-14.3828,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-7.2583,-7.60938,0}; dir = 0;};
@@ -795,8 +795,8 @@
 			class Object36 {side = 8; vehicle = "RoadBarrier_F"; rank = ""; position[] = {3.24414,9.375,0}; dir = 269.991;};
 			class Object37 {side = 8; vehicle = "RoadBarrier_small_F"; rank = ""; position[] = {3,12.625,0}; dir = 75.0005;};
 		};
-		class S_CheckpointBunkers {
-			name = "Light Checkpoint (Bunkers)"; // Credit: 2600K
+		class CheckpointBunkers {
+			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointBunkers; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
 			class Object0 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-0.376953,-14.3828,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-9.9917,-13.1406,0}; dir = 180;};
@@ -843,8 +843,8 @@
 			class Object43 {side = 8; vehicle = "RoadBarrier_F"; rank = ""; position[] = {6.49414,9.375,0}; dir = 269.991;};
 			class Object44 {side = 8; vehicle = "RoadBarrier_small_F"; rank = ""; position[] = {6.25,12.625,0}; dir = 75.0012;};
 		};
-		class S_CheckpointHBarrier {
-			name = "Light Checkpoint (HBarrier)"; // Credit: 2600K
+		class CheckpointHBarrier {
+			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointHBarrier; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_Corner_F"; rank = ""; position[] = {-9.88525,-10.4854,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-7.47168,-10.5156,0}; dir = 180;};
@@ -891,8 +891,8 @@
 			class Object43 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {3.25,4.875,0}; dir = 360;};
 			class Object44 {side = 8; vehicle = "Land_CncBarrier_stripes_F"; rank = ""; position[] = {7.01221,13.75,0}; dir = 90;};
 		};
-		class S_CheckpointSandbags1 {
-			name = "Light Checkpoint (Sandbags) #1"; // Credit: 2600K
+		class CheckpointSandbags1 {
+			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointSandbags1; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object1 {side = 8; vehicle = "Land_BarGate_F"; rank = ""; position[] = {3.56274,1,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Pallets_F"; rank = ""; position[] = {6.98834,4.15625,0}; dir = 135;};
@@ -919,8 +919,8 @@
 			class Object23 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-4.75002,8.625,0}; dir = 135;};
 			class Object24 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-4.62502,-3.25,0}; dir = 135;};
 		};
-		class S_NatoCheckpoint {
-			name = "Checkpoint (Light) [N]"; // Credit: 2600K
+		class Checkpoint_BLU_F {
+			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_Checkpoint_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-7.12694,0.742188,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-4.49997,-2.25,0}; dir = 0.00152531;};
@@ -958,8 +958,8 @@
 			class Object34 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {3.87498,10.875,0}; dir = 195;};
 			class Object35 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {3.99997,-2.125,0}; dir = 135.001;};
 		};
-		class S_CsatCheckpoint {
-			name = "Checkpoint (Light) [C]"; // Credit: 2600K
+		class Checkpoint_OPF_F {
+			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_Checkpoint_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {-7.19238,3.77124,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-4.75,-1.125,0}; dir = 135.001;};
@@ -986,8 +986,8 @@
 			class Object23 {side = 8; vehicle = "Land_BagFence_Short_F"; rank = ""; position[] = {4.63553,2.87354,0}; dir = 180;};
 			class Object24 {side = 8; vehicle = "Land_BagFence_Short_F"; rank = ""; position[] = {4.48947,-1.99854,0}; dir = 1.36604e-005;};
 		};
-		class S_AafCheckpoint {
-			name = "Checkpoint (Light) [A]"; // Credit: 2600K
+		class Checkpoint_IND_F {
+			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_Checkpoint_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\aaf_ca.paa";
 			class Object1 {side = 8; vehicle = "CamoNet_INDP_F"; rank = ""; position[] = {-9.07445,0.22583,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {-5.04558,-5.24902,0}; dir = 315;};

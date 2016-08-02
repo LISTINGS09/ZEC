@@ -1,14 +1,14 @@
     class FuelLarge
     {
-      name = "Fuel (Large)";
+      name = $STR_ZEC_FuelLarge;
     };
     class FuelMedium
     {
-        name = "Fuel (Medium)";
+        name = $STR_ZEC_FuelMedium;
     };
     class FuelSmall
     {
-        name = "Fuel (Small)";
+        name = $STR_ZEC_FuelSmall;
     };
 
 

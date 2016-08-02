@@ -1,12 +1,12 @@
     class SuppliesLarge
     {
-        name = "Supplies (Large)";
+        name = $STR_ZEC_SuppliesLarge;
     };
     class SuppliesMedium
     {
-        name = "Supplies (Medium)";
+        name = $STR_ZEC_SuppliesMedium;
 	};
     class SuppliesSmall
     {
-		name = "Supplies (Small)";
+		name = $STR_ZEC_SuppliesSmall;
 	};

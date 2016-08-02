@@ -1,16 +1,16 @@
     class ConstructionSuppliesLarge
     {
-        name = "Construction Supplies (Large)";
-		class EdenBunkers {
-			name = "Bunkers"; // Credit: 2600K
+        name = $STR_ZEC_ConstructionSuppliesLarge;
+		class Bunkers {
+			name = $STR_ZEC_Military_ConstructionSuppliesLarge_Bunkers; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_BagBunker_Large_F"; rank = ""; position[] = {7.99568,8.42358,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_BagBunker_Tower_F"; rank = ""; position[] = {-8.01686,9.01953,0}; dir = 0;};
 			class Object3 {side = 8; vehicle = "Land_BagBunker_Small_F"; rank = ""; position[] = {5.99989,-5.55542,0}; dir = 0;};
 			class Object5 {side = 8; vehicle = "Land_HBarrierTower_F"; rank = ""; position[] = {-7.95042,-6.03418,0}; dir = 0;};
 		};
-		class EdenMilitary {
-			name = "Military Fortifications"; // Credit: 2600K
+		class MilitaryFortifications {
+			name = $STR_ZEC_Military_ConstructionSuppliesLarge_MilitaryFortifications; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Cargo_House_V3_F"; rank = ""; position[] = {-36,-11.0215,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_Cargo_Tower_V1_F"; rank = ""; position[] = {-51.6782,-26.395,0}; dir = 0;};
@@ -64,8 +64,8 @@
 			class Object50 {side = 8; vehicle = "CamoNet_OPFOR_big_F"; rank = ""; position[] = {37.9546,23.7356,0}; dir = 0;};
 			class Object51 {side = 8; vehicle = "CamoNet_INDP_big_F"; rank = ""; position[] = {57.9546,23.7356,0}; dir = 0;};
 		};
-		class EdenSupports {
-			name = "Comms & Supports"; // Credit: 2600K
+		class CommsSupports {
+			name = $STR_ZEC_Military_ConstructionSuppliesLarge_CommsSupports; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Medevac_house_V1_F"; rank = ""; position[] = {-30,-11.0215,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_Radar_Small_F"; rank = ""; position[] = {-31.4429,11.3974,0}; dir = 0;};
@@ -77,8 +77,8 @@
 			class Object8 {side = 8; vehicle = "Land_TTowerSmall_1_F"; rank = ""; position[] = {30.019,12.0116,0}; dir = 0;};
 			class Object9 {side = 8; vehicle = "Land_TTowerSmall_2_F"; rank = ""; position[] = {18.3848,11.4698,0}; dir = 0;};
 		};
-		class EdenMilitaryItems {
-			name = "Military Items"; // Credit: 2600K
+		class MilitaryItems {
+			name = $STR_ZEC_Military_ConstructionSuppliesLarge_MilitaryItems; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {-17.4425,-9.03455,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Cargo20_military_green_F"; rank = ""; position[] = {-23.6379,-5.02405,0}; dir = 360;};
@@ -140,7 +140,7 @@
 			class Object58 {side = 8; vehicle = "Land_HelicopterWheels_01_disassembled_F"; rank = ""; position[] = {8.74988,6.75037,0}; dir = 45.0038;};
 		};
 		class Sandbags {
-			name = "Sandbags"; // Credit: 2600K
+			name = $STR_ZEC_Military_ConstructionSuppliesLarge_Sandbags; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_Short_F"; rank = ""; position[] = {9.70935,-15.5774,0}; dir = 90;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_Short_F"; rank = ""; position[] = {3.19739,-1.83643,0}; dir = 0;};
@@ -259,24 +259,24 @@
 			class Object115 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {14.8485,19.791,0}; dir = 90;};
 			class Object116 {side = 8; vehicle = "Land_BagFence_Corner_F"; rank = ""; position[] = {14.8433,21.7727,0}; dir = 0;};
 		};
-		class EdenCargoBrown {
-			name = "Cargo Houses (Brown)"; // Credit: 2600K
+		class CargoBrown {
+			name = $STR_ZEC_Military_ConstructionSuppliesLarge_CargoBrown; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Cargo_Tower_V3_F"; rank = ""; position[] = {11.322,11.605,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Cargo_HQ_V3_F"; rank = ""; position[] = {-10.2051,13.7732,0}; dir = 0;};
 			class Object3 {side = 8; vehicle = "Land_Cargo_House_V3_F"; rank = ""; position[] = {-7.99997,-9.02148,0}; dir = 0;};
 			class Object4 {side = 8; vehicle = "Land_Cargo_Patrol_V3_F"; rank = ""; position[] = {8.99722,-8.24683,0}; dir = 0;};
 		};
-		class EdenCargoGreen {
-			name = "Cargo Houses (Green)"; // Credit: 2600K
+		class CargoGreen {
+			name = $STR_ZEC_Military_ConstructionSuppliesLarge_CargoGreen; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Cargo_Tower_V1_F"; rank = ""; position[] = {11.322,10.605,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Cargo_HQ_V1_F"; rank = ""; position[] = {-12.2051,12.7732,0}; dir = 0;};
 			class Object3 {side = 8; vehicle = "Land_Cargo_House_V1_F"; rank = ""; position[] = {-8.99997,-8.02148,0}; dir = 0;};
 			class Object4 {side = 8; vehicle = "Land_Cargo_Patrol_V1_F"; rank = ""; position[] = {8.99722,-10.2468,0}; dir = 0;};
 		};
-		class EdenCargoRusty {
-			name = "Cargo Houses (Rusty)"; // Credit: 2600K
+		class CargoRusty {
+			name = $STR_ZEC_Military_ConstructionSuppliesLarge_CargoRusty; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Cargo_HQ_V2_F"; rank = ""; position[] = {-11.205,11.7732,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Cargo_Patrol_V2_F"; rank = ""; position[] = {8.99722,-12.2468,0}; dir = 0;};
@@ -286,9 +286,9 @@
     };
     class ConstructionSuppliesMedium
     {
-        name = "Construction Supplies (Medium)";
+        name = $STR_ZEC_ConstructionSuppliesMedium;
     };
     class ConstructionSuppliesSmall
     {
-        name = "Construction Supplies (Small)";
+        name = $STR_ZEC_ConstructionSuppliesSmall;
     };

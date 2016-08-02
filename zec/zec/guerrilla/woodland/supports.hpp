@@ -1,12 +1,12 @@
     class SupportsLarge
     {
-        name = "Supply & Support (Large)";
+        name = $STR_ZEC_SupportsLarge;
     };
     class SupportsMedium
     {
-        name = "Supply & Support (Medium)";
+        name = $STR_ZEC_SupportsMedium;
     };
     class SupportsSmall
     {
-        name = "Supply & Support (Small)";
+        name = $STR_ZEC_SupportsSmall;
     };

@@ -1,8 +1,8 @@
     class AirportsLarge
     {
-        name = "Airports (Large)";
-		class L_CSAT_Hangar {
-			name = "Hangar [C]"; // Credit: 2600K
+        name = $STR_ZEC_AirportsLarge;
+		class Hangar_OPF_F {
+			name = $STR_ZEC_MilitaryPacific_AirportsLarge_Hangar_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Pallets_stack_F"; rank = ""; position[] = {5.00525,-22.8447,0}; dir = 282.463;};
 			class Object1 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {4.34814,-26.7334,0}; dir = 180;};
@@ -63,8 +63,8 @@
 			class Object57 {side = 8; vehicle = "Land_Wreck_Car_F"; rank = ""; position[] = {24.7567,-0.0107422,0}; dir = 30;};
 			class Object58 {side = 8; vehicle = "Land_LampShabby_F"; rank = ""; position[] = {28.5116,-11.2671,0}; dir = 270;};
 		};
-		class L_NATO_Hangar {
-			name = "Hangar [N]"; // Credit: 2600K
+		class Hangar_BLU_F {
+			name = $STR_ZEC_MilitaryPacific_AirportsLarge_Hangar_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_PaperBox_closed_F"; rank = ""; position[] = {-6.26251,-30.3774,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_round_green_F"; rank = ""; position[] = {-7.03699,-25.9922,0}; dir = 45;};
@@ -119,10 +119,10 @@
     };
     class AirportsMedium
     {
-        name = "Airports (Medium)";
+        name = $STR_ZEC_AirportsMedium;
 
     };
     class AirportsSmall
     {
-        name = "Airports (Small)";
+        name = $STR_ZEC_AirportsSmall;
     };

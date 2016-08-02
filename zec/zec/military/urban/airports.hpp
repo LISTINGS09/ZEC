@@ -1,12 +1,12 @@
     class AirportsLarge
     {
-        name = "Airports (Large)";
+        name = $STR_ZEC_AirportsLarge;
     };
     class AirportsMedium
     {
-        name = "Airports (Medium)";
-		class M_CSAT_HangarConverted {
-			name = "Hangar (Converted) [C]"; // Credit: 2600K
+        name = $STR_ZEC_AirportsMedium;
+		class HangarConverted_OPF_F {
+			name = $STR_ZEC_Military_HangarConverted_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_HBarrierWall6_F"; rank = ""; position[] = {-5.35205,-11.4375,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_CratesWooden_F"; rank = ""; position[] = {-2.02441,-3.68701,0}; dir = 265.842;};
@@ -81,8 +81,8 @@
 			class Object71 {side = 8; vehicle = "Land_Screwdriver_V1_F"; rank = ""; position[] = {0.542847,5.09045,0}; dir = 89.8416;};
 			class Object72 {side = 8; vehicle = "Land_ToolTrolley_01_F"; rank = ""; position[] = {1.12866,5.92847,0}; dir = 195.001;};
 		};
-		class M_NATO_HangarConverted {
-			name = "Hangar (Converted) [N]"; // Credit: 2600K
+		class HangarConverted_BLU_F {
+			name = $STR_ZEC_Military_HangarConverted_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_TentHangar_V1_F"; rank = ""; position[] = {-3.26056,0.549316,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "B_Truck_01_mover_F"; rank = ""; position[] = {-7.75,-7.00635,0}; dir = 180.001;};
@@ -142,8 +142,8 @@
 			class Object56 {side = 8; vehicle = "B_MRAP_01_F"; rank = ""; position[] = {3.87494,14.249,0}; dir = 15.0001;};
 			class Object57 {side = 8; vehicle = "Land_Pallet_vertical_F"; rank = ""; position[] = {2.62506,4.50122,0}; dir = 0.0022646;};
 		};
-		class M_GUER_HangarConverted {
-			name = "Hangar (Converted) [A]"; // Credit: 2600K
+		class HangarConverted_IND_F {
+			name = $STR_ZEC_Military_HangarConverted_IND_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\aaf_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Cargo20_light_green_F"; rank = ""; position[] = {-13,-10.625,0}; dir = 165;};
 			class Object2 {side = 8; vehicle = "Land_Cargo10_brick_red_F"; rank = ""; position[] = {-7.25,-13.125,0}; dir = 135;};
@@ -214,5 +214,5 @@
     };
     class AirportsSmall
     {
-        name = "Airports (Small)";
+        name = $STR_ZEC_AirportsSmall;
     };

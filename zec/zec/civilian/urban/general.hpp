@@ -1,8 +1,8 @@
     class GeneralLarge
     {
-        name = "General (Large)";
-		class L_KSports {
-			name = "[L] Sports Ground"; // Credit: 2600K
+        name = $STR_ZEC_GeneralLarge;
+		class SportsGround {
+			name = $STR_ZEC_Civilian_GeneralLarge_SportsGround; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\busstop_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Stadium_p6_F"; rank = ""; position[] = {4.14392,-9.13257,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Stadium_p7_F"; rank = ""; position[] = {4.13074,-9.17969,0}; dir = 0;};
@@ -14,8 +14,8 @@
 			class Object8 {side = 8; vehicle = "Land_Stadium_p1_F"; rank = ""; position[] = {3.97241,-9.17822,0}; dir = 0;};
 			class Object9 {side = 8; vehicle = "Land_Stadium_p3_F"; rank = ""; position[] = {3.67871,-9.12939,0}; dir = 0;};
 		};
-		class L_GhostHotel {
-			name = "[L] Ghost Hotel"; // Credit: 2600K
+		class GhostHotel {
+			name = $STR_ZEC_Civilian_GeneralLarge_GhostHotel; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\busstop_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_GH_MainBuilding_right_F"; rank = ""; position[] = {0.0170593,2.13867,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_GH_MainBuilding_middle_F"; rank = ""; position[] = {-0.0101624,2.21899,0}; dir = 0;};
@@ -25,9 +25,9 @@
     };
     class GeneralMedium
     {
-        name = "General (Medium)";
-		class M_Church {
-			name = "[M] Church"; // Credit: 2600K
+        name = $STR_ZEC_GeneralMedium;
+		class Church {
+			name = $STR_ZEC_Civilian_GeneralMedium_Church; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\church_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Chapel_V1_F"; rank = ""; position[] = {11.3921,-9.02563,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_City_8m_F"; rank = ""; position[] = {-12.125,-10.9092,0}; dir = 270;};
@@ -73,8 +73,8 @@
 			class Object42 {side = 8; vehicle = "Land_City_8m_F"; rank = ""; position[] = {19.125,13.3408,0}; dir = 270;};
 			class Object43 {side = 8; vehicle = "Land_City_8m_F"; rank = ""; position[] = {19.125,-0.65918,0}; dir = 270;};
 		};
-		class M_BBall {
-			name = "[M] Basketball Court"; // Credit: 2600K
+		class BasketballCourt {
+			name = $STR_ZEC_Civilian_GeneralMedium_BasketballCourt; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\busstop_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_SportGround_fence_F"; rank = ""; position[] = {-14.5134,-16.9814,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_SportGround_fence_F"; rank = ""; position[] = {-17.0186,15.4866,0}; dir = 270;};
@@ -151,5 +151,5 @@
     };
     class GeneralSmall
     {
-        name = "General (Small)";
+        name = $STR_ZEC_GeneralSmall;
     };

@@ -1,12 +1,12 @@
     class FuelLarge
     {
-      name = "Fuel (Large)";
+      name = $STR_ZEC_FuelLarge;
     };
     class FuelMedium
     {
-        name = "Fuel (Medium)";
-		class M_CSAT_FuelDepot {
-			name = "Fuel Depot [C]"; // Credit: 2600K
+        name = $STR_ZEC_FuelMedium;
+		class FuelDepot_OPF_F {
+			name = $STR_ZEC_Military_FuelMedium_FuelDepot_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_BarrelTrash_F"; rank = ""; position[] = {-14.562,2.87524,0}; dir = 359.996;};
 			class Object2 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-15.6211,-1.24878,0}; dir = 270;};
@@ -51,8 +51,8 @@
 			class Object42 {side = 8; vehicle = "Land_CanisterFuel_F"; rank = ""; position[] = {-11.375,6.12476,0}; dir = 44.9921;};
 			class Object43 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {4.37207,8.57056,0}; dir = 60;};
 		};
-		class M_NATO_FuelDepot {
-			name = "Fuel Depot [N]"; // Credit: 2600K
+		class FuelDepot_BLU_F {
+			name = $STR_ZEC_Military_FuelMedium_FuelDepot_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object1 {side = 8; vehicle = "CamoNet_BLUFOR_open_F"; rank = ""; position[] = {1.76221,3.40112,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Tank_rust_F"; rank = ""; position[] = {-5.24854,1.90918,0}; dir = 180;};
@@ -98,8 +98,8 @@
 			class Object43 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {-9.74854,18.0505,0}; dir = 255;};
 			class Object44 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-9.51563,15.7461,0}; dir = 270;};
 		};
-		class M_GUER_FuelDepot {
-			name = "Fuel Depot [A]"; // Credit: 2600K
+		class FuelDepot_IND_F {
+			name = $STR_ZEC_Military_FuelMedium_FuelDepot_IND_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\aaf_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_HBarrier_3_F"; rank = ""; position[] = {-9.36377,4.85205,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-8.75391,-3.98438,0}; dir = 360;};
@@ -141,7 +141,7 @@
     };
     class FuelSmall
     {
-        name = "Fuel (Small)";
+        name = $STR_ZEC_FuelSmall;
     };
 
 

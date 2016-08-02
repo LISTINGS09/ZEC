@@ -1,6 +1,6 @@
     class FuelLarge
     {
-      name = "Fuel (Large)";
+      name = $STR_ZEC_FuelLarge;
 		class M_FuelModern {
 			name = "Fuel Station - Modern"; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\fuelstation_ca.paa";
@@ -125,11 +125,11 @@
     };
     class FuelMedium
     {
-        name = "Fuel (Medium)";
+        name = $STR_ZEC_FuelMedium;
     };
     class FuelSmall
     {
-        name = "Fuel (Small)";
+        name = $STR_ZEC_FuelSmall;
     };
 
 

@@ -17,7 +17,7 @@
 			STRING - The name of a class you wish to ignore (I use 'Land_Garbage_line_F' as I put this script in that item);
 			
 	Example:
-	_nul = [this,25,1,"My Export"] execVM "zec_compBuilder.sqf";
+	_nul = [this,25,1,"My Export"] execVM "ZEC_CompBuilder.sqf";
 */
 params [["_keyObj",nil],["_radius",25,[0]],["_delay",1,[0]],["_className","Unknown"],["_ignoreClass","Land_Garbage_line_F"]];
 

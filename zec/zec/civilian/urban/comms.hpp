@@ -1,16 +1,16 @@
     class CommunicationsLarge
     {
-        name = "Communications (Large)";
+        name = $STR_ZEC_CommunicationsLarge;
     };
     class CommunicationsMedium
     {
-        name = "Communications (Medium)";
+        name = $STR_ZEC_CommunicationsMedium;
     };
     class CommunicationsSmall
     {
-        name = "Communications (Small)";
-		class S_Transmitter {
-			name = "[S] Transmitter Tower"; // Credit: 2600K
+        name = $STR_ZEC_CommunicationsSmall;
+		class TransmitterTower {
+			name = $STR_ZEC_Civilian_CommunicationsSmall_TransmitterTower; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\transmitter_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Net_Fence_4m_F"; rank = ""; position[] = {-7.86902,-4.77832,0}; dir = 240;};
 			class Object2 {side = 8; vehicle = "Land_Net_Fence_4m_F"; rank = ""; position[] = {-5.86304,-8.25,0}; dir = 180;};

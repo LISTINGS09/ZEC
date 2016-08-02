@@ -1,8 +1,8 @@
     class FieldHQLarge
     {
-        name = "Field HQ (Large)";
-		class L_GUER_ObservationTower {
-			name = "Observation Tower [S]"; // Credit: 2600K
+        name = $STR_ZEC_FieldHQLarge;
+		class ObservationTower_GUER {
+			name = $STR_ZEC_GuerrillaPacific_FieldHQLarge_ObservationTower; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_HBarrier_01_big_4_green_F"; rank = ""; position[] = {-0.326172,-11.7222,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_HBarrier_01_big_4_green_F"; rank = ""; position[] = {-11.7222,-6.42383,0}; dir = 270;};
@@ -38,9 +38,9 @@
     };
     class FieldHQMedium
     {
-        name = "Field HQ (Medium)";
-		class M_GUER_FieldHQ {
-			name = "Field HQ"; // Credit: 2600K
+        name = $STR_ZEC_FieldHQMedium;
+		class FieldHQ_GUER {
+			name = $STR_ZEC_GuerrillaPacific_FieldHQMedium_FieldHQ; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {-4.505,-3.10341,0}; dir = 359.963;};
 			class Object1 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {-5.6051,-3.08197,0}; dir = 329.976;};
@@ -90,8 +90,8 @@
 			class Object46 {side = 8; vehicle = "Land_HBarrier_01_line_1_green_F"; rank = ""; position[] = {-3.86133,14.297,0}; dir = 120;};
 			class Object47 {side = 8; vehicle = "Land_Cargo_House_V4_F"; rank = ""; position[] = {6.52002,5.52159,0}; dir = 0;};
 		};
-		class M_GUER_ObservationTower {
-			name = "Observation Tower [S]"; // Credit: 2600K
+		class ObservationTower_GUER {
+			name = $STR_ZEC_GuerrillaPacific_FieldHQMedium_ObservationTower; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_PaperBox_open_full_F"; rank = ""; position[] = {-4.1698,3.41565,0}; dir = 150;};
 			class Object1 {side = 8; vehicle = "Land_Cargo_Tower_V4_F"; rank = ""; position[] = {-4.58313,0.977539,0}; dir = 270;};
@@ -121,8 +121,8 @@
 			class Object26 {side = 8; vehicle = "Land_BagFence_01_round_green_F"; rank = ""; position[] = {10.1351,13.7004,0}; dir = 255;};
 			class Object27 {side = 8; vehicle = "Land_HBarrier_01_line_1_green_F"; rank = ""; position[] = {5.25378,14.7565,0}; dir = 210;};
 		};
-		class M_GUER_ObservationPost {
-			name = "Observation Post [S]"; // Credit: 2600K
+		class ObservationPost_GUER {
+			name = $STR_ZEC_GuerrillaPacific_FieldHQMedium_ObservationPost; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {-5.32202,-0.75473,0}; dir = 104.968;};
 			class Object1 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {-5.94714,-0.254822,0}; dir = 359.963;};
@@ -151,6 +151,6 @@
     };
     class FieldHQSmall
     {
-        name = "Field HQ (Small)";
+        name = $STR_ZEC_FieldHQSmall;
 
     };

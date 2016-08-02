@@ -1,12 +1,12 @@
     class HeliportsLarge
     {
-        name = "Heliports (Large)";
+        name = $STR_ZEC_HeliportsLarge;
     };
     class HeliportsMedium
     {
-        name = "Heliports (Medium)";
-		class M_Heliport {
-			name = "[M] Heliport - Civilian"; // Credit: 2600K
+        name = $STR_ZEC_HeliportsMedium;
+		class Heliport {
+			name = $STR_ZEC_Civilian_HeliportsMedium_Heliport; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\c_air.paa";
 			class Object1 {side = 8; vehicle = "Land_Concrete_SmallWall_8m_F"; rank = ""; position[] = {-7.74402,-12.99,0}; dir = 180;};
 			class Object2 {side = 8; vehicle = "Land_Concrete_SmallWall_8m_F"; rank = ""; position[] = {-11.74,-1.7561,0}; dir = 270;};
@@ -67,5 +67,5 @@
     };
     class HeliportsSmall
     {
-        name = "Heliports (Small)";
+        name = $STR_ZEC_HeliportsSmall;
     };

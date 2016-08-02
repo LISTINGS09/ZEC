@@ -4,7 +4,7 @@
 
 #include "pacific\checkpoints.hpp"
 
-#include "pacific\constructionsupplies.hpp"
+#include "pacific\construction.hpp"
 
 #include "pacific\comms.hpp"
 

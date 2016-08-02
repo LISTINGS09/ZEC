@@ -1,12 +1,12 @@
-    class ConstructionSuppliesLarge
+    class ConstructionLarge
     {
-        name = "Construction Supplies (Large)";
+        name = $STR_ZEC_ConstructionLarge;
     };
-    class ConstructionSuppliesMedium
+    class ConstructionMedium
     {
-        name = "Construction Supplies (Medium)";
-		class M_ConstructionFortified1 {
-			name = "Construction (Fortified) #1"; // Credit: 2600K
+        name = $STR_ZEC_ConstructionMedium;
+		class ConstructionFortified1 {
+			name = $STR_ZEC_Guerrilla_ConstructionMedium_ConstructionFortified1; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object1 {side = 8; vehicle = "Land_Scaffolding_F"; rank = ""; position[] = {-12.5547,-6.55859,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_Long_F"; rank = ""; position[] = {3.41211,-8.73242,0}; dir = 270;};
@@ -89,8 +89,8 @@
 			class Object80 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {7.9668,0.09375,0}; dir = 88.2446;};
 			class Object81 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {7.44141,2.95703,0}; dir = 222.772;};
 		};
-		class M_ConstructionFortified2 {
-			name = "Construction (Fortified) #2"; // Credit: 2600K
+		class ConstructionFortified2 {
+			name = $STR_ZEC_Guerrilla_ConstructionMedium_ConstructionFortified2; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object1 {side = 8; vehicle = "Land_Pallet_F"; rank = ""; position[] = {-21.4863,-18.0156,0}; dir = 125;};
 			class Object2 {side = 8; vehicle = "Land_Bricks_V1_F"; rank = ""; position[] = {-19.7832,-18.6914,0}; dir = 185.001;};
@@ -155,11 +155,11 @@
 			class Object61 {side = 8; vehicle = "Land_ConcretePipe_F"; rank = ""; position[] = {4.83398,-3.66406,0}; dir = 258.279;};
 		};
     };
-    class ConstructionSuppliesSmall
+    class ConstructionSmall
     {
-        name = "Construction Supplies (Small)";
-		class M_FIA_StorageShed {
-			name = "Storage Shed [F]"; // Credit: 2600K
+        name = $STR_ZEC_ConstructionSmall;
+		class StorageShed_FIA {
+			name = $STR_ZEC_Guerrilla_ConstructionSmall_StorageShed; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_WaterTank_F"; rank = ""; position[] = {-6.11401,-4.64636,0.1}; dir = 0.00149886;};
 			class Object2 {side = 8; vehicle = "Land_Sacks_heap_F"; rank = ""; position[] = {-10.614,-2.39624,0.1}; dir = 270;};
@@ -174,8 +174,8 @@
 			class Object11 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {0.0378418,0.0717773,0.1}; dir = 0;};
 			class Object12 {side = 8; vehicle = "Land_Cargo20_grey_F"; rank = ""; position[] = {5.13599,1.60376,0.1}; dir = 7.30419e-005;};
 		};
-		class S_FIA_CacheAmmo {
-			name = "Cache (Ammo Boxes) [F]"; // Credit: 2600K
+		class CacheAmmoBoxes_FIA {
+			name = $STR_ZEC_Guerrilla_ConstructionSmall_CacheAmmoBoxes; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object1 {side = 8; vehicle = "CamoNet_BLUFOR_open_F"; rank = ""; position[] = {0.598755,-0.112549,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {0.0377197,0.0717773,0}; dir = 0;};
@@ -199,8 +199,8 @@
 			class Object20 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {4.75,4.74976,0}; dir = 254.993;};
 			class Object21 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {5.24988,4.25,0}; dir = 315.008;};
 		};
-		class S_FIA_CacheHiddenAmmo {
-			name = "Cache - Hidden (Ammo Box) [F]"; // Credit: 2600K
+		class CacheHiddenAmmoBox_FIA {
+			name = $STR_ZEC_Guerrilla_ConstructionSmall_CacheHiddenAmmoBox; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Cargo_House_V2_F"; rank = ""; position[] = {-2.97839,-4,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_Tank_rust_F"; rank = ""; position[] = {-3.53003,-8.37012,0}; dir = 0;};

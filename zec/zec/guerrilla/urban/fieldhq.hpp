@@ -1,17 +1,17 @@
     class FieldHQLarge
     {
-        name = "Field HQ (Large)";
+        name = $STR_ZEC_FieldHQLarge;
     };
     class FieldHQMedium
     {
-        name = "Field HQ (Medium)";
+        name = $STR_ZEC_FieldHQMedium;
 
     };
     class FieldHQSmall
     {
-        name = "Field HQ (Small)";
-		class S_FIA_FieldHQ {
-			name = "Field HQ [F]"; // Credit: 2600K
+        name = $STR_ZEC_FieldHQSmall;
+		class FieldHQ_FIA {
+			name = $STR_ZEC_Guerrilla_FieldHQSmall_FieldHQ; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object1 {side = 8; vehicle = "CamoNet_BLUFOR_F"; rank = ""; position[] = {-0.225827,-1.69946,0}; dir = 180;};
 			class Object2 {side = 8; vehicle = "Land_i_Stone_Shed_V3_F"; rank = ""; position[] = {-1.43765,4.18701,0}; dir = 0;};

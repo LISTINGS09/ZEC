@@ -1,8 +1,8 @@
-    class Mining_OilLarge
+    class MiningOilLarge
     {
-        name = "Mining, Refining & Oil (Large)";
-		class L_Refinery {
-			name = "[L] Refinery"; // Credit: 2600K
+        name = $STR_ZEC_MiningOilLarge;
+		class Refinery {
+			name = $STR_ZEC_Civilian_MiningOilLarge_Refinery; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\busstop_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Concrete_SmallWall_8m_F"; rank = ""; position[] = {-34.8691,-44.49,0}; dir = 180;};
 			class Object2 {side = 8; vehicle = "Land_Concrete_SmallWall_8m_F"; rank = ""; position[] = {-26.8691,-44.49,0}; dir = 180;};
@@ -118,12 +118,12 @@
 			class Object113 {side = 8; vehicle = "Land_GarbagePallet_F"; rank = ""; position[] = {41.9565,46.3667,0}; dir = 225;};
 		};
     };
-    class Mining_OilMedium
+    class MiningOilMedium
     {
-        name = "Mining, Refining & Oil (Medium)";
+        name = $STR_ZEC_MiningOilMedium;
     };
-    class Mining_OilSmall
+    class MiningOilSmall
     {
-        name = "Mining, Refining & Oil (Small)";
+        name = $STR_ZEC_MiningOilSmall;
 
     };

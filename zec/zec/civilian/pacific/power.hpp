@@ -1,8 +1,8 @@
     class PowerLarge
     {
-        name = "Power (Large)";
-		class L_Diesel1 {
-			name = "[L] Diesel Plant #1"; // Credit: 2600K
+        name = $STR_ZEC_PowerLarge;
+		class DieselPlant1 {
+			name = $STR_ZEC_CivilianPacific_PowerLarge_DieselPlant1; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\power_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Wall_IndCnc_4_F"; rank = ""; position[] = {-36.2561,-38.2358,0}; dir = 90;};
 			class Object1 {side = 8; vehicle = "Land_Wall_IndCnc_4_D_F"; rank = ""; position[] = {-36.2656,-32.1709,0}; dir = 90;};
@@ -103,8 +103,8 @@
 			class Object97 {side = 8; vehicle = "Land_Wall_IndCnc_4_F"; rank = ""; position[] = {34.1311,56.4858,0}; dir = 270;};
 			class Object98 {side = 8; vehicle = "Land_Wall_IndCnc_4_F"; rank = ""; position[] = {32.1394,60.5059,0}; dir = 180;};
 		};
-		class L_Diesel2 {
-			name = "[L] Diesel Plant #2"; // Credit: 2600K
+		class DieselPlant2 {
+			name = $STR_ZEC_CivilianPacific_PowerLarge_DieselPlant2; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\power_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {-29.0438,-24.5684,0}; dir = 185;};
 			class Object1 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {-24.2645,-27.667,0}; dir = 185;};
@@ -211,13 +211,13 @@
     };
     class PowerMedium
     {
-        name = "Power (Medium)";
+        name = $STR_ZEC_PowerMedium;
     };
     class PowerSmall
     {
-        name = "Power (Small)";
-		class S_DieselPlant {
-			name = "[S] Diesel Plant"; // Credit: 2600K
+        name = $STR_ZEC_PowerSmall;
+		class DieselPlant {
+			name = $STR_ZEC_CivilianPacific_PowerSmall_DieselPlant; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\power_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_GarbagePallet_F"; rank = ""; position[] = {-16.9501,-14.8755,0}; dir = 47.871;};
 			class Object1 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {-19.0718,-13.4624,0}; dir = 270;};

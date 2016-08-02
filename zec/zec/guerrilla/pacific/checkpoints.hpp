@@ -1,12 +1,12 @@
-    class Checkpoints_BarricadesLarge
+    class CheckpointsBarricadesLarge
     {
-        name = "Checkpoints & Barricades (Large)";
+        name = $STR_ZEC_CheckpointsBarricadesLarge;
     };
-    class Checkpoints_BarricadesMedium
+    class CheckpointsBarricadesMedium
     {
-        name = "Checkpoints & Barricades (Medium)";
-		class M_Barricade1 {
-			name = "Road Barricade #1"; // Credit: 2600K
+        name = $STR_ZEC_CheckpointsBarricadesMedium
+		class Barricade1 {
+			name = $STR_ZEC_GuerrillaPacific_CheckpointsBarricadesMedium_Barricade1; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {-5.7373,-1.48828,0}; dir = 75;};
 			class Object1 {side = 8; vehicle = "Land_GarbageHeap_03_F"; rank = ""; position[] = {-9.64453,-0.524414,0}; dir = 0;};
@@ -38,8 +38,8 @@
 			class Object28 {side = 8; vehicle = "Land_Wreck_Truck_dropside_F"; rank = ""; position[] = {4.36035,1.51758,0}; dir = 270;};
 			class Object29 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-2.87305,3.38281,0}; dir = 180;};
 		};
-		class M_Barricade2 {
-			name = "Road Barricade #2"; // Credit: 2600K
+		class Barricade2 {
+			name = $STR_ZEC_GuerrillaPacific_CheckpointsBarricadesMedium_Barricade2; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
 			class Object0 {side = 8; vehicle = "Land_Excavator_01_wreck_F"; rank = ""; position[] = {-1.70801,0.492676,0}; dir = 75;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_short_green_F"; rank = ""; position[] = {-5.87402,-1.7583,0}; dir = 255;};
@@ -75,8 +75,8 @@
 			class Object32 {side = 8; vehicle = "Land_Wreck_Truck_F"; rank = ""; position[] = {0.568848,2.7627,0}; dir = 90;};
 			class Object33 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {12.7285,4.42334,0}; dir = 0;};
 		};
-		class M_Barricade3 {
-			name = "Road Barricade #3"; // Credit: 2600K
+		class Barricade3 {
+			name = $STR_ZEC_GuerrillaPacific_CheckpointsBarricadesMedium_Barricade3; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_round_green_F"; rank = ""; position[] = {-14.5117,0.161133,0}; dir = 105;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_round_green_F"; rank = ""; position[] = {-13.5361,-1.63672,0}; dir = 15;};
@@ -105,8 +105,8 @@
 			class Object24 {side = 8; vehicle = "Land_Wreck_HMMWV_F"; rank = ""; position[] = {1.08105,1.6543,0}; dir = 60;};
 			class Object25 {side = 8; vehicle = "Land_Wreck_Hunter_F"; rank = ""; position[] = {-2.81641,0.560059,0}; dir = 135;};
 		};
-		class M_Barricade4 {
-			name = "Road Barricade #4"; // Credit: 2600K
+		class Barricade4 {
+			name = $STR_ZEC_GuerrillaPacific_CheckpointsBarricadesMedium_Barricade4; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
 			class Object0 {side = 8; vehicle = "Land_Bulldozer_01_abandoned_F"; rank = ""; position[] = {-1.74268,-5.72363,0}; dir = 195;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {-11.2354,-0.634277,0}; dir = 150;};
@@ -149,8 +149,8 @@
 			class Object39 {side = 8; vehicle = "Land_Wreck_Truck_F"; rank = ""; position[] = {9.68115,2.2373,0}; dir = 270;};
 			class Object40 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {8.50195,4.25781,0}; dir = 180;};
 		};
-		class M_Barricade5 {
-			name = "Road Barricade #5"; // Credit: 2600K
+		class Barricade5 {
+			name = $STR_ZEC_GuerrillaPacific_CheckpointsBarricadesMedium_Barricade5; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
 			class Object0 {side = 8; vehicle = "Land_Tyres_F"; rank = ""; position[] = {-7.03564,-1.20801,0}; dir = 210;};
 			class Object1 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-4.4292,-2.61719,0}; dir = 180;};
@@ -178,7 +178,7 @@
 			class Object23 {side = 8; vehicle = "Land_WoodenCrate_01_stack_x5_F"; rank = ""; position[] = {1.34521,0.375977,0}; dir = 90;};
 		};
     };
-    class Checkpoints_BarricadesSmall
+    class CheckpointsBarricadesSmall
     {
-        name = "Checkpoints & Barricades (Small)";
+        name = $STR_ZEC_CheckpointsBarricadesSmall
     };

@@ -1,8 +1,8 @@
     class HeliportsLarge
     {
-        name = "Heliports (Large)";
-		class L_HeliportTemp {
-			name = "Heliport (Temp)"; // Credit: 2600K
+        name = $STR_ZEC_HeliportsLarge;
+		class HeliportTemp {
+			name = $STR_ZEC_MilitaryPacific_HeliportsLarge_HeliportTemp; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_air.paa";
 			class Object0 {side = 8; vehicle = "Land_PaperBox_open_empty_F"; rank = ""; position[] = {-5.37549,-15.2499,0}; dir = 285;};
 			class Object1 {side = 8; vehicle = "Land_PaperBox_open_empty_F"; rank = ""; position[] = {-12.5,-2.99976,0}; dir = 345;};
@@ -50,8 +50,8 @@
 			class Object44 {side = 8; vehicle = "PortableHelipadLight_01_white_F"; rank = ""; position[] = {6.75,6,0}; dir = 0.00231336;};
 			class Object45 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {13.9844,-2.63318,0}; dir = 270;};
 		};
-		class L_CSAT_Helipad {
-			name = "Helipad (Square) [C]"; // Credit: 2600K
+		class HelipadSquare_OPF_T_F {
+			name = $STR_ZEC_MilitaryPacific_HeliportsLarge_HelipadSquare_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_round_green_F"; rank = ""; position[] = {-4.11719,9.53711,0}; dir = 135;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {-4.89063,7.1167,0}; dir = 270;};
@@ -105,8 +105,8 @@
 			class Object50 {side = 8; vehicle = "O_CargoNet_01_ammo_F"; rank = ""; position[] = {16.375,-4.25,0}; dir = 0.000134892;};
 			class Object51 {side = 8; vehicle = "Land_HBarrier_01_line_1_green_F"; rank = ""; position[] = {0.00390625,10.2437,0}; dir = 330;};
 		};
-		class L_CTRG_Helipad {
-			name = "Helipad (Square) [N]"; // Credit: 2600K
+		class HelipadSquare_BLU_CTRG_F {
+			name = $STR_ZEC_MilitaryPacific_HeliportsLarge_HelipadSquare_CTRG; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\ctrg_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_corner_green_F"; rank = ""; position[] = {-19.9932,-2.90967,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_round_green_F"; rank = ""; position[] = {-19.0371,-9.86719,0}; dir = 45;};
@@ -177,8 +177,8 @@
 			class Object67 {side = 8; vehicle = "Land_CampingChair_V1_F"; rank = ""; position[] = {9.5,1.375,0}; dir = 314.995;};
 			class Object68 {side = 8; vehicle = "Land_CampingChair_V1_F"; rank = ""; position[] = {11.0361,0.597656,0}; dir = 179.977;};
 		};
-		class L_HeliportFortified {
-			name = "Heliport (Fortified)"; // Credit: 2600K
+		class HeliportFortified {
+			name = $STR_ZEC_MilitaryPacific_HeliportsLarge_HeliportFortified; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_air.paa";
 			class Object0 {side = 8; vehicle = "CargoNet_01_barrels_F"; rank = ""; position[] = {-16.125,-4.99988,0}; dir = 60.0013;};
 			class Object1 {side = 8; vehicle = "CargoNet_01_barrels_F"; rank = ""; position[] = {-15.875,-7.12488,0}; dir = 0.000740864;};
@@ -259,8 +259,8 @@
 			class Object77 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {19.9844,7.36682,0}; dir = 270;};
 			class Object78 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {14.8906,1.25818,0}; dir = 90;};
 		};
-		class L_HeliportDual {
-			name = "Heliport (Dual)"; // Credit: 2600K
+		class HeliportDual {
+			name = $STR_ZEC_MilitaryPacific_HeliportsLarge_HeliportDual; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_air.paa";
 			class Object0 {side = 8; vehicle = "CargoNet_01_box_F"; rank = ""; position[] = {-23.583,-0.0610352,0}; dir = 225;};
 			class Object1 {side = 8; vehicle = "CargoNet_01_barrels_F"; rank = ""; position[] = {-3.58301,-11.561,0}; dir = 0.000165036;};
@@ -333,9 +333,9 @@
     };
     class HeliportsMedium
     {
-        name = "Heliports (Medium)";
-		class M_HelipadSquare {
-			name = "Helipad (Square)"; // Credit: 2600K
+        name = $STR_ZEC_HeliportsMedium;
+		class HelipadSquare {
+			name = $STR_ZEC_MilitaryPacific_HeliportsMedium_HelipadSquare; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_air.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_corner_green_F"; rank = ""; position[] = {-9.75671,-9.96545,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_HelipadSquare_F"; rank = ""; position[] = {0,-0.125,0}; dir = 0;};
@@ -378,8 +378,8 @@
 			class Object39 {side = 8; vehicle = "Land_HelicopterWheels_01_disassembled_F"; rank = ""; position[] = {7.24939,9.12561,0}; dir = 45.0066;};
 			class Object40 {side = 8; vehicle = "CargoNet_01_barrels_F"; rank = ""; position[] = {8.625,0.875,0}; dir = 255.001;};
 		};
-		class M_CTRG_Helipad {
-			name = "Helipad (Square) [N]"; // Credit: 2600K
+		class HelipadSquare_BLU_CTRG_F {
+			name = $STR_ZEC_MilitaryPacific_HeliportsMedium_HelipadSquare_BLU_CTRG_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object0 {side = 8; vehicle = "B_CTRG_Heli_Transport_01_tropic_F"; rank = ""; position[] = {1.12158,-0.377441,0}; dir = 44.9996;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_corner_green_F"; rank = ""; position[] = {-9.61816,-2.78467,0}; dir = 0;};
@@ -428,8 +428,8 @@
 			class Object45 {side = 8; vehicle = "PortableHelipadLight_01_green_F"; rank = ""; position[] = {6.29102,5.43701,0}; dir = 358.99;};
 			class Object46 {side = 8; vehicle = "Land_BagFence_01_end_green_F"; rank = ""; position[] = {12.5962,2.34326,0}; dir = 345;};
 		};
-		class M_CSAT_Helipad {
-			name = "Helipad (Square) [C]"; // Credit: 2600K
+		class HelipadSquare_OPF_T_F {
+			name = $STR_ZEC_MilitaryPacific_HeliportsMedium_HelipadSquare_OPF_T_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_round_green_F"; rank = ""; position[] = {-9.33789,-2.75781,0}; dir = 225;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_round_green_F"; rank = ""; position[] = {-7.86719,8.66211,0}; dir = 135;};
@@ -480,9 +480,9 @@
     };
     class HeliportsSmall
     {
-        name = "Heliports (Small)";
-		class S_HelipadCircle {
-			name = "Helipad (Circle)"; // Credit: 2600K
+        name = $STR_ZEC_HeliportsSmall;
+		class HelipadCircle {
+			name = $STR_ZEC_MilitaryPacific_HeliportsSmall_HelipadCircle; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_air.paa";
 			class Object0 {side = 8; vehicle = "Land_Portable_generator_F"; rank = ""; position[] = {-5.89709,-5.53577,0}; dir = 242.429;};
 			class Object1 {side = 8; vehicle = "FlexibleTank_01_forest_F"; rank = ""; position[] = {-5.50049,-6.37451,0}; dir = 360;};
@@ -521,8 +521,8 @@
 			class Object35 {side = 8; vehicle = "Land_BagFence_01_short_green_F"; rank = ""; position[] = {4.11853,6.00549,0}; dir = 30;};
 			class Object36 {side = 8; vehicle = "Land_BagFence_01_short_green_F"; rank = ""; position[] = {6.99927,2.00842,0}; dir = 75;};
 		};
-		class S_HelipadSquare {
-			name = "Helipad (Square)"; // Credit: 2600K
+		class HelipadSquare {
+			name = $STR_ZEC_MilitaryPacific_HeliportsSmall_HelipadSquare; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_air.paa";
 			class Object0 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {-7.25024,-7.49988,0}; dir = 38.7715;};
 			class Object1 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {-7.75024,-6.75,0}; dir = 353.752;};

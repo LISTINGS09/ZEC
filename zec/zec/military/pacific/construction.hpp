@@ -1,8 +1,8 @@
     class ConstructionSuppliesLarge
     {
-        name = "Construction Supplies (Large)";
-		class MilBaseBuilder {
-			name = "Military Fortifications"; // Credit: 2600K
+        name = $STR_ZEC_ConstructionSuppliesLarge;
+		class MilitaryFortifications {
+			name = $STR_ZEC_MilitaryPacific_ConstructionSuppliesLarge_MilitaryFortifications; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Cargo_Tower_V1_F"; rank = ""; position[] = {-47.5532,-2.27002,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_Cargo_HQ_V1_F"; rank = ""; position[] = {-47.0801,20.8984,0}; dir = 0;};
@@ -88,7 +88,7 @@
 			class Object82 {side = 8; vehicle = "Land_Cargo_Patrol_V4_F"; rank = ""; position[] = {56.1221,34.8784,0}; dir = 0;};
 		};
 		class MilitaryApex {
-			name = "Military Items"; // Credit: 2600K
+			name = $STR_ZEC_MilitaryPacific_ConstructionSuppliesLarge_MilitaryItems; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_CargoBox_V1_F"; rank = ""; position[] = {-14.125,-9.125,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_TimberPile_01_F"; rank = ""; position[] = {-16.1414,-6.12598,0}; dir = 0;};
@@ -130,7 +130,7 @@
 			class Object38 {side = 8; vehicle = "Land_CratesWooden_F"; rank = ""; position[] = {-2.125,1.375,0}; dir = 270;};
 		};
 		class Sandbags {
-			name = "Sandbags"; // Credit: 2600K
+			name = $STR_ZEC_MilitaryPacific_ConstructionSuppliesLarge_Sandbags; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {-8.6167,-20.6405,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {-5.8667,-20.6405,0}; dir = 180;};
@@ -252,9 +252,9 @@
     };
     class ConstructionSuppliesMedium
     {
-        name = "Construction Supplies (Medium)";
+        name = $STR_ZEC_ConstructionSuppliesMedium;
     };
     class ConstructionSuppliesSmall
     {
-        name = "Construction Supplies (Small)";
+        name = $STR_ZEC_ConstructionSuppliesSmall;
     };

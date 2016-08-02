@@ -1,8 +1,8 @@
     class CommunicationsLarge
     {
-        name = "Communications (Large)";
-		class L_TransmitterFortified {
-			name = "Transmitter (Fortified)"; // Credit: 2600K
+        name = $STR_ZEC_CommunicationsLarge;
+		class FortifiedCommsTower_GUER {
+			name = $STR_ZEC_GuerrillaPacific_CommunicationsLarge_FortifiedCommsTower; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_service.paa";
 			class Object0 {side = 8; vehicle = "Land_Cargo10_orange_F"; rank = ""; position[] = {-20.25,-7.62512,0}; dir = 180.001;};
 			class Object1 {side = 8; vehicle = "Land_HBarrier_01_wall_6_green_F"; rank = ""; position[] = {-20.0254,-22.2915,0}; dir = 180;};
@@ -77,8 +77,8 @@
 			class Object71 {side = 8; vehicle = "Land_BagFence_01_round_green_F"; rank = ""; position[] = {25.0371,12.3673,0}; dir = 225;};
 			class Object72 {side = 8; vehicle = "Land_Garbage_square3_F"; rank = ""; position[] = {22.8008,10.463,0}; dir = 0;};
 		};
-		class L_GUER_RadarDome {
-			name = "Radar Dome [S]"; // Credit: 2600K
+		class RadarDome_GUER {
+			name = $STR_ZEC_GuerrillaPacific_CommunicationsLarge_RadarDome; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "CamoNet_INDP_open_F"; rank = ""; position[] = {-9.52637,1.51221,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_HBarrier_01_tower_green_F"; rank = ""; position[] = {0.76709,0.21875,0}; dir = 180;};
@@ -142,8 +142,8 @@
 			class Object60 {side = 8; vehicle = "Land_CampingChair_V2_F"; rank = ""; position[] = {10.375,8.625,0}; dir = 14.9947;};
 			class Object61 {side = 8; vehicle = "Land_CampingChair_V2_F"; rank = ""; position[] = {10.022,6.85693,0}; dir = 240.005;};
 		};
-		class L_GUER_CommunicationsPost {
-			name = "Communications Post [S]"; // Credit: 2600K
+		class CommunicationsPost_GUER {
+			name = $STR_ZEC_GuerrillaPacific_CommunicationsLarge_CommunicationsPost; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_NetFence_01_m_4m_F"; rank = ""; position[] = {-9.63135,0.375488,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_NetFence_01_m_4m_F"; rank = ""; position[] = {-7.62549,2.36865,0}; dir = 270;};
@@ -208,9 +208,9 @@
     };
     class CommunicationsMedium
     {
-        name = "Communications (Medium)";
-		class M_GUER_RadioPost {
-			name = "Radio Post (Bunker) [S]"; // Credit: 2600K
+        name = $STR_ZEC_CommunicationsMedium;
+		class RadioPost_GUER {
+			name = $STR_ZEC_GuerrillaPacific_CommunicationsMedium_RadioPost; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {-5.85451,-10.9211,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {-8.06789,-8.46753,0}; dir = 270;};
@@ -247,8 +247,8 @@
 			class Object32 {side = 8; vehicle = "Land_SatelliteAntenna_01_F"; rank = ""; position[] = {5.12502,2.37476,0}; dir = 344.999;};
 			class Object34 {side = 8; vehicle = "Land_WoodenCrate_01_stack_x5_F"; rank = ""; position[] = {3.59511,-2.37354,0}; dir = 90;};
 		};
-		class M_GUER_UAVDepot {
-			name = "UAV Depot [S]"; // Credit: 2600K
+		class UAVDepot_GUER {
+			name = $STR_ZEC_GuerrillaPacific_CommunicationsMedium_UAVDepot; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_FieldToilet_F"; rank = ""; position[] = {-8.25,2.75006,0}; dir = 0.00200015;};
 			class Object1 {side = 8; vehicle = "Land_FieldToilet_F"; rank = ""; position[] = {-6.875,2.75006,0}; dir = 0.00209818;};
@@ -298,9 +298,9 @@
     };
     class CommunicationsSmall
     {
-        name = "Communications (Small)";
-		class S_GUER_DataTerminal {
-			name = "Data Terminal [S]"; // Credit: 2600K
+        name = $STR_ZEC_CommunicationsSmall;
+		class DataTerminal_GUER {
+			name = $STR_ZEC_GuerrillaPacific_CommunicationsSmall_DataTerminal; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_PaperBox_closed_F"; rank = ""; position[] = {-5.84195,-2.78076,0}; dir = 195;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_end_green_F"; rank = ""; position[] = {-8.75208,-3.6665,0}; dir = 0;};
@@ -349,8 +349,8 @@
 			class Object45 {side = 8; vehicle = "Land_Ground_sheet_folded_yellow_F"; rank = ""; position[] = {13.491,0.511963,0}; dir = 210.005;};
 			class Object46 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {10.3224,1.51978,0}; dir = 225;};
 		};
-		class S_GUER_OperationsArea {
-			name = "Operations Area [S]"; // Credit: 2600K
+		class OperationsArea_GUER {
+			name = $STR_ZEC_GuerrillaPacific_CommunicationsSmall_OperationsArea; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_round_green_F"; rank = ""; position[] = {-5.16202,-3.99243,0}; dir = 45;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {0.116821,-4.60962,0}; dir = 0;};
@@ -379,8 +379,8 @@
 			class Object25 {side = 8; vehicle = "Land_SatelliteAntenna_01_F"; rank = ""; position[] = {5.74979,2.12476,0}; dir = 45.0005;};
 			class Object26 {side = 8; vehicle = "Land_TripodScreen_01_large_F"; rank = ""; position[] = {0.755127,1.72388,0}; dir = 178.487;};
 		};
-		class S_RadioPostHidden {
-			name = "Radio Post (Hidden)"; // Credit: 2600K
+		class RadioPostHidden {
+			name = $STR_ZEC_GuerrillaPacific_CommunicationsSmall_RadioPostHidden; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_service.paa";
 			class Object0 {side = 8; vehicle = "Land_WoodenCrate_01_stack_x3_F"; rank = ""; position[] = {-6.25635,1.8208,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_GarbagePallet_F"; rank = ""; position[] = {-6.2417,-3.04358,0}; dir = 135;};
@@ -397,8 +397,8 @@
 			class Object13 {side = 8; vehicle = "Land_CampingTable_small_F"; rank = ""; position[] = {-2.57544,5.44104,0}; dir = 29.9998;};
 			class Object14 {side = 8; vehicle = "Land_GarbageBags_F"; rank = ""; position[] = {5.03943,4.35327,0}; dir = 150;};
 		};
-		class S_RadioPostTemp {
-			name = "Radio Post (Temp)"; // Credit: 2600K
+		class RadioPostTemp {
+			name = $STR_ZEC_GuerrillaPacific_CommunicationsSmall_RadioPostTemp; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_service.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {-4.23438,1.38318,0}; dir = 90;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {-3.2417,-3.6405,0}; dir = 180;};

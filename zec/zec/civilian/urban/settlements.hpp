@@ -1,8 +1,8 @@
     class SettlementsLarge
     {
-        name = "Settlements (Large)";
-		class L_Shanty {
-			name = "[L] Shanty Town"; // Credit: 2600K
+        name = $STR_ZEC_SettlementsLarge;
+		class ShantyTown {
+			name = $STR_ZEC_Civilian_SettlementsLarge_ShantyTown; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\busstop_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Slum_House03_F"; rank = ""; position[] = {-18.3867,-20.4414,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_cargo_house_slum_F"; rank = ""; position[] = {-22.9133,-7.64648,0}; dir = 255;};
@@ -201,13 +201,13 @@
     };
     class SettlementsMedium
     {
-        name = "Settlements (Medium)";
+        name = $STR_ZEC_SettlementsMedium;
     };
     class SettlementsSmall
     {
-        name = "Settlements (Small)";
-		class S_CampSite {
-			name = "[S] Camp Site"; // Credit: 2600K
+        name = $STR_ZEC_SettlementsSmall;
+		class CampSite {
+			name = $STR_ZEC_Civilian_SettlementsSmall_CampSite; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\busstop_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {-2.13727,3.88806,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {-2.112,-0.743164,0}; dir = 0;};
@@ -266,8 +266,8 @@
 			class Object55 {side = 8; vehicle = "Land_FoodContainer_01_F"; rank = ""; position[] = {3.28241,-3.70386,0}; dir = 0.00475474;};
 			class Object56 {side = 8; vehicle = "Land_Rope_01_F"; rank = ""; position[] = {4.09882,5.96899,0}; dir = 97.3859;};
 		};
-		class S_WalledStoneHouse {
-			name = "[S] Walled Stone House"; // Credit: 2600K
+		class WalledStoneHouse {
+			name = $STR_ZEC_Civilian_SettlementsSmall_WalledStoneHouse; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\busstop_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_u_House_Small_02_V1_F"; rank = ""; position[] = {-9.57169,-9.85522,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Stone_8m_F"; rank = ""; position[] = {-8.14325,-16.6262,0}; dir = 0;};

@@ -1,8 +1,8 @@
     class PowerLarge
     {
-        name = "Power (Large)";
-		class L_SolarPlant {
-			name = "[L] Solar Plant"; // Credit: 2600K
+        name = $STR_ZEC_PowerLarge;
+		class SolarPlant {
+			name = $STR_ZEC_Civilian_PowerLarge_SolarPlant; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\powersolar_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_IndFnc_9_F"; rank = ""; position[] = {-52.0024,-44.0654,0}; dir = 180;};
 			class Object2 {side = 8; vehicle = "Land_Wall_IndCnc_4_D_F"; rank = ""; position[] = {-52.7324,-47.4995,0}; dir = 180;};
@@ -171,9 +171,9 @@
     };
     class PowerMedium
     {
-        name = "Power (Medium)";
-		class M_DieselPowerPlant {
-			name = "[M] Diesel Power Plant"; // Credit: 2600K
+        name = $STR_ZEC_PowerMedium;
+		class DieselPowerPlant {
+			name = $STR_ZEC_Civilian_PowerLarge_DieselPowerPlant; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\power_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Wall_IndCnc_4_D_F"; rank = ""; position[] = {-16.6895,-17.4902,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Wall_IndCnc_4_F"; rank = ""; position[] = {-16.6311,-23.4856,0}; dir = 90;};
@@ -250,8 +250,8 @@
 			class Object73 {side = 8; vehicle = "Land_CanisterFuel_F"; rank = ""; position[] = {-7.87523,17.75,0}; dir = 104.999;};
 			class Object74 {side = 8; vehicle = "Land_ConcretePipe_F"; rank = ""; position[] = {8.57054,19.5662,0}; dir = 135.008;};
 		};
-		class M_PowerPlant1 {
-			name = "[M] Power Plant #1"; // Credit: 2600K
+		class PowerPlant1 {
+			name = $STR_ZEC_Civilian_PowerLarge_PowerPlant1; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\power_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Wall_IndCnc_4_F"; rank = ""; position[] = {-1.76416,-23.8811,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_IndPipe1_90degR_F"; rank = ""; position[] = {-15.5508,-13.1658,0}; dir = 270;};
@@ -297,8 +297,8 @@
 			class Object43 {side = 8; vehicle = "Land_CratesPlastic_F"; rank = ""; position[] = {21.2764,4.11035,0}; dir = 265;};
 			class Object44 {side = 8; vehicle = "Land_Sack_F"; rank = ""; position[] = {6.8457,6.47461,0}; dir = 300;};
 		};
-		class M_PowerPlant2 {
-			name = "[M] Power Plant #2"; // Credit: 2600K
+		class PowerPlant2 {
+			name = $STR_ZEC_Civilian_PowerLarge_PowerPlant2; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\power_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_dp_smallFactory_F"; rank = ""; position[] = {-22.6973,-0.247803,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_dp_smallTank_F"; rank = ""; position[] = {0.198242,-7.67456,0}; dir = 75;};
@@ -330,9 +330,9 @@
     };
     class PowerSmall
     {
-        name = "Power (Small)";
-		class S_PowerTransformer {
-			name = "[S] Power Transformers"; // Credit: 2600K
+        name = $STR_ZEC_PowerSmall;
+		class PowerTransformer {
+			name = $STR_ZEC_Civilian_PowerSmall_PowerTransformer; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\busstop_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_HighVoltageEnd_F"; rank = ""; position[] = {-10.748,0.0695801,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_IndFnc_9_F"; rank = ""; position[] = {-5.68359,-8.37622,0}; dir = 180;};

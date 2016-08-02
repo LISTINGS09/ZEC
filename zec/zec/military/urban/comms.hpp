@@ -1,12 +1,12 @@
     class CommunicationsLarge
     {
-        name = "Communications (Large)";
+        name = $STR_ZEC_CommunicationsLarge;
     };
     class CommunicationsMedium
     {
-        name = "Communications (Medium)";
-		class M_CSAT_RadarDome {
-			name = "Radar Dome [C]"; // Credit: 2600K
+        name = $STR_ZEC_CommunicationsMedium;
+		class RadarDome_OPF_F {
+			name = $STR_ZEC_Military_CommunicationsMedium_RadarDome_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Radar_Small_F"; rank = ""; position[] = {2.30042,5.93115,0}; dir = 300;};
 			class Object2 {side = 8; vehicle = "Land_HBarrierWall6_F"; rank = ""; position[] = {-0.900146,-7.79102,0}; dir = 180;};
@@ -41,8 +41,8 @@
 			class Object31 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {9.64624,5.06738,0}; dir = 0;};
 			class Object32 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {9.89624,-6.80762,0}; dir = 0;};
 		};
-		class M_CSAT_CommPost {
-			name = "Comm Post [C]"; // Credit: 2600K
+		class CommPost_OPF_F {
+			name = $STR_ZEC_Military_CommunicationsMedium_CommPost_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-14.5771,-2.39844,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {-15.4023,2.44873,0}; dir = 0;};
@@ -96,8 +96,8 @@
 			class Object51 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {-7.18994,13.377,0}; dir = 224.974;};
 			class Object52 {side = 8; vehicle = "Land_Cargo_House_V3_F"; rank = ""; position[] = {11.4351,9.23047,0}; dir = 0;};
 		};
-		class M_NATO_RadarDome {
-			name = "Radar Dome [N]"; // Credit: 2600K
+		class RadarDome_BLU_F {
+			name = $STR_ZEC_Military_CommunicationsMedium_RadarDome_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Radar_Small_F"; rank = ""; position[] = {-5.80042,-6.43115,0}; dir = 120;};
 			class Object2 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {-9.48898,-13.7292,0}; dir = 0;};
@@ -156,8 +156,8 @@
 			class Object55 {side = 8; vehicle = "Land_CampingChair_V1_folded_F"; rank = ""; position[] = {-2.23846,-1.12939,0}; dir = 270;};
 			class Object56 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {0.0377197,0.0717773,0}; dir = 0;};
 		};
-		class M_NATO_CommPost {
-			name = "Comm Post [N]"; // Credit: 2600K
+		class CommPost_BLU_F {
+			name = $STR_ZEC_Military_CommunicationsMedium_CommPost_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Cargo_House_V1_F"; rank = ""; position[] = {-3.08643,2.62695,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Cargo_House_V1_F"; rank = ""; position[] = {3.43506,3.14844,0}; dir = 180;};
@@ -195,8 +195,8 @@
 			class Object35 {side = 8; vehicle = "Land_Cargo20_sand_F"; rank = ""; position[] = {10.5601,13.877,0}; dir = 270;};
 			class Object36 {side = 8; vehicle = "B_MRAP_01_F"; rank = ""; position[] = {-1.81494,16.6255,0}; dir = 315;};
 		};
-		class M_GUER_RadarDome {
-			name = "Radar Dome [A]"; // Credit: 2600K
+		class RadarDome_IND_F{
+			name = $STR_ZEC_Military_CommunicationsMedium_RadarDome_IND_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\aaf_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_HBarrier_Big_F"; rank = ""; position[] = {-5.6676,-14.9102,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {-4.427,-19.6899,0}; dir = 0;};
@@ -258,8 +258,8 @@
 			class Object58 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {14.1303,-4.41211,0}; dir = 180;};
 			class Object59 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {0.0377197,0.0717773,0}; dir = 0;};
 		};
-		class M_GUER_CommPost {
-			name = "Comm Post [A]"; // Credit: 2600K
+		class CommPost_IND_F {
+			name = $STR_ZEC_Military_CommunicationsMedium_CommPost_IND_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\aaf_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-9.23828,-1.94141,0}; dir = 75;};
 			class Object2 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-9.37891,3.24854,0}; dir = 90;};
@@ -294,8 +294,8 @@
 			class Object31 {side = 8; vehicle = "Land_Pallets_stack_F"; rank = ""; position[] = {5.375,6.75,0}; dir = 315;};
 			class Object32 {side = 8; vehicle = "Land_CratesPlastic_F"; rank = ""; position[] = {5.37598,5.25391,0}; dir = 255;};
 		};
-		class M_CSAT_TransTower {
-			name = "Tall Transmitter Tower [C]"; // Credit: 2600K
+		class TransTower_OPF_F {
+			name = $STR_ZEC_Military_CommunicationsMedium_TransTower_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object1 {side = 8; vehicle = "CamoNet_OPFOR_F"; rank = ""; position[] = {3.27441,-7.82446,0}; dir = 180;};
 			class Object2 {side = 8; vehicle = "Land_Wreck_Ural_F"; rank = ""; position[] = {8.16357,3.11304,0}; dir = 150;};
@@ -336,8 +336,8 @@
 			class Object38 {side = 8; vehicle = "Land_BagFence_Short_F"; rank = ""; position[] = {5.26074,12.9985,0}; dir = 180;};
 			class Object39 {side = 8; vehicle = "Land_TTowerBig_1_F"; rank = ""; position[] = {-1.25,5.51001,0}; dir = 0;};
 		};
-		class M_NATO_TransTower {
-			name = "Tall Transmitter Tower [N]"; // Credit: 2600K
+		class TransTower_BLU_F {
+			name = $STR_ZEC_Military_CommunicationsMedium_TransTower_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-18.2539,0.748779,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-18.2539,6.24878,0}; dir = 90;};
@@ -383,8 +383,8 @@
 			class Object43 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {-4.13037,13.0684,0}; dir = 360;};
 			class Object44 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {0.253906,11.3594,0}; dir = 180;};
 		};
-		class M_GUER_TransTower {
-			name = "Tall Transmitter Tower [A]"; // Credit: 2600K
+		class TransTower_IND_F {
+			name = $STR_ZEC_Military_CommunicationsMedium_TransTower_IND_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\aaf_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_TTowerBig_1_F"; rank = ""; position[] = {-1.125,3.38501,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {0.333984,1.04053,0}; dir = 45;};
@@ -434,9 +434,9 @@
     };
     class CommunicationsSmall
     {
-        name = "Communications (Small)";
-		class S_CSAT_OpsControl1 {
-			name = "Ops Control [C1]"; // Credit: 2600K
+        name = $STR_ZEC_CommunicationsSmall;
+		class OpsControl1_OPF_F {
+			name = $STR_ZEC_Military_CommunicationsSmall_OpsControl1_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_CargoBox_V1_F"; rank = ""; position[] = {-2.2821,-6.25928,0}; dir = 150;};
 			class Object1 {side = 8; vehicle = "Land_CampingChair_V1_F"; rank = ""; position[] = {1.71851,-3.1333,0}; dir = 285.115;};
@@ -465,8 +465,8 @@
 			class Object25 {side = 8; vehicle = "Land_GarbageBags_F"; rank = ""; position[] = {7.67773,-1.89941,0}; dir = 0;};
 			class Object26 {side = 8; vehicle = "Land_CratesShabby_F"; rank = ""; position[] = {7.59131,0.857666,0}; dir = 0;};
 		};
-		class S_CSAT_OpsControl2 {
-			name = "Ops Control [C2]"; // Credit: 2600K
+		class OpsControl2_OPF_F {
+			name = $STR_ZEC_Military_CommunicationsSmall_OpsControl2_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_CampingChair_V1_folded_F"; rank = ""; position[] = {2.37463,-3.12451,0}; dir = 135;};
 			class Object1 {side = 8; vehicle = "Land_CampingChair_V1_folded_F"; rank = ""; position[] = {3.12476,-3.12451,0}; dir = 150;};
@@ -495,8 +495,8 @@
 			class Object25 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {6.12415,3.70435,0}; dir = 225;};
 			class Object26 {side = 8; vehicle = "MapBoard_stratis_F"; rank = ""; position[] = {4.63257,1.88232,0}; dir = 45.021;};
 		};
-		class S_NATO_OpsControl1 {
-			name = "Ops Control [N1]"; // Credit: 2600K
+		class OpsControl1_BLU_F {
+			name = STR_ZEC_Military_CommunicationsSmall_OpsControl1_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_CampingChair_V2_F"; rank = ""; position[] = {-2.24927,-3.49951,0}; dir = 180.01;};
 			class Object1 {side = 8; vehicle = "MapBoard_stratis_F"; rank = ""; position[] = {5.00439,-3.25269,0}; dir = 119.945;};
@@ -525,8 +525,8 @@
 			class Object25 {side = 8; vehicle = "Land_CratesWooden_F"; rank = ""; position[] = {6.625,-3.625,0}; dir = 75;};
 			class Object26 {side = 8; vehicle = "Land_Basket_F"; rank = ""; position[] = {5.125,-4.5,0}; dir = 359.948;};
 		};
-		class S_NATO_OpsControl2 {
-			name = "Ops Control [N2]"; // Credit: 2600K
+		class OpsControl2_BLU_F {
+			name = $STR_ZEC_Military_CommunicationsSmall_OpsControl2_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {3.17554,-3.62646,0}; dir = 345;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {0.996094,-3.85962,0}; dir = 0;};
@@ -554,8 +554,8 @@
 			class Object24 {side = 8; vehicle = "Land_WoodenBox_F"; rank = ""; position[] = {5.51147,3.75171,0}; dir = 60.0002;};
 			class Object25 {side = 8; vehicle = "Land_WaterBarrel_F"; rank = ""; position[] = {6.875,2.25,0}; dir = 359.996;};
 		};
-		class S_GUER_OpsControl1 {
-			name = "Ops Control [A1]"; // Credit: 2600K
+		class OpsControl1_IND_F {
+			name = $STR_ZEC_Military_CommunicationsSmall_OpsControl1_IND_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\aaf_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Pallets_F"; rank = ""; position[] = {-3.63672,-4.59375,0}; dir = 135;};
 			class Object1 {side = 8; vehicle = "Land_CampingChair_V2_F"; rank = ""; position[] = {2.17896,-1.76147,0}; dir = 180.004;};
@@ -577,8 +577,8 @@
 			class Object18 {side = 8; vehicle = "Land_CampingChair_V2_F"; rank = ""; position[] = {6.09644,1.39258,0}; dir = 120.003;};
 			class Object19 {side = 8; vehicle = "Land_WoodenTable_large_F"; rank = ""; position[] = {5.375,1.375,0}; dir = 209.863;};
 		};
-		class S_GUER_OpsControl2 {
-			name = "Ops Control [A2]"; // Credit: 2600K
+		class OpsControl2_IND_F {
+			name = $STR_ZEC_Military_CommunicationsSmall_OpsControl2_IND_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\aaf_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_CampingChair_V1_folded_F"; rank = ""; position[] = {-0.875244,-0.999512,0}; dir = 150;};
 			class Object1 {side = 8; vehicle = "Land_CampingChair_V1_folded_F"; rank = ""; position[] = {-2.62512,0.000488281,0}; dir = 135;};
@@ -604,8 +604,8 @@
 			class Object22 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-4.99878,3.74609,0}; dir = 0;};
 			class Object23 {side = 8; vehicle = "MapBoard_altis_F"; rank = ""; position[] = {4.88049,-2,0}; dir = 90.0122;};
 		};
-		class S_RadarDome {
-			name = "Radar Dome"; // Credit: 2600K
+		class RadarDome {
+			name = $STR_ZEC_Military_CommunicationsSmall_RadarDome; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_service.paa";
 			class Object1 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-9.41687,-7.82275,0}; dir = 246.753;};
 			class Object2 {side = 8; vehicle = "Land_HBarrier_3_F"; rank = ""; position[] = {-6.75977,-8.2605,0}; dir = 200.986;};
@@ -625,8 +625,8 @@
 			class Object16 {side = 8; vehicle = "Land_BagFence_Short_F"; rank = ""; position[] = {1.19348,4.00244,0}; dir = 90;};
 			class Object17 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-6.18323,6.35083,0}; dir = 195;};
 		};
-		class S_RadioShed {
-			name = "Radio Shed"; // Credit: 2600K
+		class RadioShed {
+			name = $STR_ZEC_Military_CommunicationsSmall_RadioShed; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_service.paa";
 			class Object1 {side = 8; vehicle = "Land_Metal_Shed_F"; rank = ""; position[] = {0.129028,-2.24512,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_TBox_F"; rank = ""; position[] = {3.61694,-2.09473,0}; dir = 90;};
@@ -644,8 +644,8 @@
 			class Object14 {side = 8; vehicle = "Land_GarbageBags_F"; rank = ""; position[] = {5.33502,-2.26489,0}; dir = 0;};
 			class Object15 {side = 8; vehicle = "Land_GarbageBags_F"; rank = ""; position[] = {5.03943,1.22827,0}; dir = 150;};
 		};
-		class S_RadioPostCargoBrown {
-			name = "Radio Post (Brown)"; // Credit: 2600K
+		class RadioPostCargoBrown {
+			name = $STR_ZEC_Military_CommunicationsSmall_RadioPostCargoBrown; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_service.paa";
 			class Object1 {side = 8; vehicle = "Land_Communication_F"; rank = ""; position[] = {-0.387802,5.38965,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-3.75385,6.12378,0}; dir = 90;};
@@ -668,8 +668,8 @@
 			class Object19 {side = 8; vehicle = "Land_JunkPile_F"; rank = ""; position[] = {7.97198,-0.926514,0}; dir = 300;};
 			class Object20 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {1.50125,7.37109,0}; dir = 0;};
 		};
-		class S_RadioPostCargoGreen {
-			name = "Radio Post (Green)"; // Credit: 2600K
+		class RadioPostCargoGreen {
+			name = $STR_ZEC_Military_CommunicationsSmall_RadioPostCargoGreen; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_service.paa";
 			class Object1 {side = 8; vehicle = "Land_Communication_F"; rank = ""; position[] = {0.112183,4.26465,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Cargo_House_V1_F"; rank = ""; position[] = {-2.875,2.60352,0}; dir = 0;};
@@ -691,8 +691,8 @@
 			class Object18 {side = 8; vehicle = "Land_Bucket_painted_F"; rank = ""; position[] = {-4.75,-0.5,0}; dir = 0.00556168;};
 			class Object19 {side = 8; vehicle = "Land_CanisterFuel_F"; rank = ""; position[] = {0.250244,0.374756,0}; dir = 300.001;};
 		};
-		class S_RadioTowerTemp {
-			name = "Radio Tower (Temp)"; // Credit: 2600K
+		class RadioTowerTemp {
+			name = $; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_service.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {-4.56116,-3.51306,0}; dir = 29.65;};
 			class Object1 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {-4.35425,-7.56799,0}; dir = 359.657;};

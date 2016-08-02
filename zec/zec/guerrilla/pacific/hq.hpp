@@ -1,8 +1,8 @@
     class HQLarge
     {
-        name = "HQ (Large)";
-		class Syn_MainHQ {
-			name = "Main HQ - Lynx [S]"; // Credit: 2600K
+        name = $STR_ZEC_HqLarge;
+		class MainHQ_GUER {
+			name = $STR_ZEC_GuerrillaPacific_HQLarge_MainHQ; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_HBarrier_01_line_5_green_F"; rank = ""; position[] = {-2.62109,-18.7687,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Cargo10_light_blue_F"; rank = ""; position[] = {-9.125,11.875,0}; dir = 246.078;};
@@ -69,10 +69,10 @@
     };
     class HQMedium
     {
-        name = "HQ (Medium)";
+        name = $STR_ZEC_HqMedium;
     };
     class HQSmall
     {
-        name = "HQ (Small)";
+        name = $STR_ZEC_HqSmall;
 
     };

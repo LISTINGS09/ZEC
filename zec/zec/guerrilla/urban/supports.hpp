@@ -1,16 +1,16 @@
     class SupportsLarge
     {
-        name = "Supply & Support (Large)";
+        name = $STR_ZEC_SupportsLarge;
     };
     class SupportsMedium
     {
-        name = "Supply & Support (Medium)";
+        name = $STR_ZEC_SupportsMedium;
     };
     class SupportsSmall
     {
-        name = "Supply & Support (Small)";
-		class S_FIA_Workshop {
-			name = "Vehicle Workshop [F]"; // Credit: 2600K
+        name = $STR_ZEC_SupportsSmall;
+		class Workshop_FIA {
+			name = $STR_ZEC_Guerrilla_SupportsSmall_Workshop; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object1 {side = 8; vehicle = "B_G_Quadbike_01_F"; rank = ""; position[] = {1.37164,-2.99927,0}; dir = 105;};
 			class Object2 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {-4.74915,-5.20447,0}; dir = 45;};
@@ -49,8 +49,8 @@
 			class Object35 {side = 8; vehicle = "Land_ButaneCanister_F"; rank = ""; position[] = {-4.50348,1.43542,0}; dir = 344.952;};
 			class Object36 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {-2.34003,-1.16504,0}; dir = 0;};
 		};
-		class S_FIA_ServiceStation {
-			name = "Service Station [F]"; // Credit: 2600K
+		class ServiceStation_FIA {
+			name = $STR_ZEC_Guerrilla_SupportsSmall_ServiceStation; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object1 {side = 8; vehicle = "WaterPump_01_forest_F"; rank = ""; position[] = {-1.25,-5.24976,0}; dir = 270.001;};
 			class Object2 {side = 8; vehicle = "Land_HBarrier_3_F"; rank = ""; position[] = {-2.86389,-7.27295,0}; dir = 0;};

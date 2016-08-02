@@ -1,12 +1,12 @@
     class CampsLarge
     {
-        name = "Camps (Large)";
+        name = $STR_ZEC_CampsLarge;
     };
     class CampsMedium
     {
-        name = "Camps (Medium)";
-		class S_CampJungle1 {
-			name = "Camp (Jungle) #1"; // Credit: 2600K
+        name = $STR_ZEC_CampsMedium;
+		class CampJungle1 {
+			name = $STR_ZEC_GuerrillaPacific_CampsMedium_CampJungle1; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_recon.paa";
 			class Object0 {side = 8; vehicle = "Land_Pallet_F"; rank = ""; position[] = {1.75,10.75,0}; dir = 283.513;};
 			class Object1 {side = 8; vehicle = "Land_Pallets_F"; rank = ""; position[] = {5.62744,1.59607,0}; dir = 270;};
@@ -46,8 +46,8 @@
 			class Object36 {side = 8; vehicle = "Land_PaperBox_closed_F"; rank = ""; position[] = {7.62891,-0.487915,0}; dir = 30;};
 			class Object37 {side = 8; vehicle = "Land_PaperBox_closed_F"; rank = ""; position[] = {8.2627,1.24915,0}; dir = 105;};
 		};
-		class S_CampJungle2 {
-			name = "Camp (Jungle) #2"; // Credit: 2600K
+		class CampJungle2 {
+			name = $STR_ZEC_GuerrillaPacific_CampsMedium_CampJungle2; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_recon.paa";
 			class Object0 {side = 8; vehicle = "Land_Pallet_F"; rank = ""; position[] = {-12.8823,-2.00964,0}; dir = 118.718;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_end_green_F"; rank = ""; position[] = {-12.8882,13.041,0}; dir = 105;};
@@ -86,8 +86,8 @@
 			class Object35 {side = 8; vehicle = "Land_CampingTable_F"; rank = ""; position[] = {-10.25,3.875,0}; dir = 195;};
 			class Object36 {side = 8; vehicle = "Land_CampingChair_V1_F"; rank = ""; position[] = {-2.4585,4.84241,0}; dir = 104.984;};
 		};
-		class S_CampJungle3 {
-			name = "Camp (Jungle) #3"; // Credit: 2600K
+		class CampJungle3 {
+			name = $STR_ZEC_GuerrillaPacific_CampsMedium_CampJungle3; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_recon.paa";
 			class Object0 {side = 8; vehicle = "Land_CanisterPlastic_F"; rank = ""; position[] = {-12.1997,-1.59058,0}; dir = 183.386;};
 			class Object1 {side = 8; vehicle = "Land_Campfire_F"; rank = ""; position[] = {-5.125,1.875,0}; dir = 27.42;};
@@ -130,8 +130,8 @@
 			class Object39 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {2.3125,-16.1323,0}; dir = 345;};
 			class Object40 {side = 8; vehicle = "Land_Wreck_Plane_Transport_01_F"; rank = ""; position[] = {6.5,3.375,0}; dir = 135;};
 		};
-		class S_CampJungle4 {
-			name = "Camp (Jungle) #4"; // Credit: 2600K
+		class CampJungle4 {
+			name = $STR_ZEC_GuerrillaPacific_CampsMedium_CampJungle4; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_recon.paa";
 			class Object0 {side = 8; vehicle = "Land_WoodenCrate_01_stack_x3_F"; rank = ""; position[] = {0.179199,-7.74219,0}; dir = 165;};
 			class Object1 {side = 8; vehicle = "Land_CratesWooden_F"; rank = ""; position[] = {-0.75,-6.375,0}; dir = 345;};
@@ -166,8 +166,8 @@
 			class Object31 {side = 8; vehicle = "Land_UWreck_Heli_Attack_02_F"; rank = ""; position[] = {5.44141,-4.03259,0}; dir = 15;};
 			class Object32 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {4.79199,20.124,0}; dir = 195;};
 		};
-		class S_CampJungle5 {
-			name = "Camp (Jungle) #5"; // Credit: 2600K
+		class CampJungle5 {
+			name = $STR_ZEC_GuerrillaPacific_CampsMedium_CampJungle5; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_recon.paa";
 			class Object0 {side = 8; vehicle = "Land_CanisterPlastic_F"; rank = ""; position[] = {-7.25,-3.625,0}; dir = 329.047;};
 			class Object1 {side = 8; vehicle = "Land_Campfire_F"; rank = ""; position[] = {-4.625,1.875,0}; dir = 329.89;};
@@ -205,9 +205,9 @@
     };
     class CampsSmall
     {
-        name = "Camps (Small)";
-		class S_GUER_CampSite {
-			name = "Camp Site [S]"; // Credit: 2600K
+        name = $STR_ZEC_CampsSmall;
+		class CampSite1 {
+			name = $STR_ZEC_GuerrillaPacific_CampsSmall_CampSite; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {-2.29883,-0.189697,0}; dir = 189.408;};
 			class Object1 {side = 8; vehicle = "Land_Sacks_heap_F"; rank = ""; position[] = {-5.75,-1.5,0}; dir = 195;};
@@ -227,8 +227,8 @@
 			class Object15 {side = 8; vehicle = "FirePlace_burning_F"; rank = ""; position[] = {0,0,0}; dir = 0;};
 			class Object16 {side = 8; vehicle = "Land_TentDome_F"; rank = ""; position[] = {3.03662,3.81348,0}; dir = 300;};
 		};
-		class S_GUER_Picnic {
-			name = "Picnic Site - Toggle [S]"; // Credit: 2600K
+		class PicnicSite {
+			name = $STR_ZEC_GuerrillaPacific_CampsSmall_Picnic; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Cliff_stoneCluster_F"; rank = ""; position[] = {0.495117,6.88098,0}; dir = 300;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_short_green_F"; rank = ""; position[] = {-6.04443,-8.93311,0}; dir = 105;};
@@ -263,8 +263,8 @@
 			class Object31 {side = 8; vehicle = "Land_WoodenLog_F"; rank = ""; position[] = {-3.375,1.25,0}; dir = 77.2296;};
 			class Object32 {side = 8; vehicle = "Land_Basket_F"; rank = ""; position[] = {-2.625,-7.25,0}; dir = 161.752;};
 		};
-		class S_GUER_Camping {
-			name = "Camping Site - Rainbow [S]"; // Credit: 2600K
+		class CampSite2 {
+			name = $STR_ZEC_GuerrillaPacific_CampsSmall_CampSite2; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Campfire_F"; rank = ""; position[] = {-2.125,4.375,0}; dir = 27.42;};
 			class Object1 {side = 8; vehicle = "Land_Cliff_stone_big_F"; rank = ""; position[] = {5.37402,7.99414,0}; dir = 300;};
@@ -296,8 +296,8 @@
 			class Object28 {side = 8; vehicle = "Land_WaterTank_03_F"; rank = ""; position[] = {-2.75146,-3.74438,0}; dir = 0;};
 			class Object29 {side = 8; vehicle = "Land_Pallets_F"; rank = ""; position[] = {-2.11523,-2.38269,0}; dir = 330;};
 		};
-		class S_GUER_Camp {
-			name = "Camp (Jungle) - Mascot [S]"; // Credit: 2600K
+		class JungleCamp {
+			name = $STR_ZEC_GuerrillaPacific_CampsSmall_JungleCamp; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\syndicat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Campfire_F"; rank = ""; position[] = {-7.25,-2.625,0}; dir = 26.9091;};
 			class Object1 {side = 8; vehicle = "Land_Cliff_boulder_F"; rank = ""; position[] = {3.71387,6.03943,0}; dir = 210;};

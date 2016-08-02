@@ -17,8 +17,8 @@
 	BOOL
 			
 	Example:
-	_nul = [MYTABLE1] execVM "scripts\zec\scripts\zec_fillTable.sqf";
-	_nul = [MYTABLE1,["Land_RiceBox_F","Land_BottlePlastic_V2_F"],20] execVM "scripts\zec\scripts\zec_fillTable.sqf";
+	_nul = [MYTABLE1] execVM "scripts\zec\scripts\ZEC_FillTable.sqf";
+	_nul = [MYTABLE1,["Land_RiceBox_F","Land_BottlePlastic_V2_F"],20] execVM "scripts\zec\scripts\ZEC_FillTable.sqf";
 */
 
 private ["_itemArray","_fromEdge","_offSet","_objBB"];
