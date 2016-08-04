@@ -656,7 +656,7 @@
 			class Object26 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {6.55432,-0.60376,0}; dir = 270;};
 		};
 		class StorageArea3_BLU_F {
-			name = STR_ZEC_MilitaryPacific_SupportsSmall_StorageArea3_BLU_F; // Credit: 2600K
+			name = $STR_ZEC_MilitaryPacific_SupportsSmall_StorageArea3_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {-1.48212,-2.0459,0}; dir = 345;};
 			class Object1 {side = 8; vehicle = "CamoNet_BLUFOR_open_F"; rank = ""; position[] = {-0.723785,-2.26245,0}; dir = 180;};

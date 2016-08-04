@@ -496,7 +496,7 @@
 			class Object26 {side = 8; vehicle = "MapBoard_stratis_F"; rank = ""; position[] = {4.63257,1.88232,0}; dir = 45.021;};
 		};
 		class OpsControl1_BLU_F {
-			name = STR_ZEC_Military_CommunicationsSmall_OpsControl1_BLU_F; // Credit: 2600K
+			name = $STR_ZEC_Military_CommunicationsSmall_OpsControl1_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_CampingChair_V2_F"; rank = ""; position[] = {-2.24927,-3.49951,0}; dir = 180.01;};
 			class Object1 {side = 8; vehicle = "MapBoard_stratis_F"; rank = ""; position[] = {5.00439,-3.25269,0}; dir = 119.945;};
@@ -692,7 +692,7 @@
 			class Object19 {side = 8; vehicle = "Land_CanisterFuel_F"; rank = ""; position[] = {0.250244,0.374756,0}; dir = 300.001;};
 		};
 		class RadioTowerTemp {
-			name = $; // Credit: 2600K
+			name = $STR_ZEC_Military_CommunicationsSmall_RadioTowerTemp; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_service.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {-4.56116,-3.51306,0}; dir = 29.65;};
 			class Object1 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {-4.35425,-7.56799,0}; dir = 359.657;};

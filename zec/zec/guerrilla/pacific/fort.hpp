@@ -192,7 +192,7 @@
     {
         name = $STR_ZEC_FortMedium;
 		class OldWarBunker {
-			name = "Old War Bunker"; // Credit: 2600K
+			name = $STR_ZEC_GuerrillaPacific_FortMedium_OldWarBunker; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object0 {side = 8; vehicle = "Land_PillboxBunker_01_hex_F"; rank = ""; position[] = {-27.7544,-1.50439,0}; dir = 315;};
 			class Object1 {side = 8; vehicle = "Land_PillboxWall_01_6m_round_F"; rank = ""; position[] = {-26.8938,4.125,0}; dir = 270;};

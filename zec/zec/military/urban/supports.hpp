@@ -2,7 +2,7 @@
     {
         name = $STR_ZEC_SupportsLarge;
 		class MilitaryLabs {
-			name = $; // Credit: 2600K
+			name = $STR_ZEC_Military_SupportsLarge_MilitaryLabs; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object0 {side = 8; vehicle = "Land_Mil_WallBig_Corner_F"; rank = ""; position[] = {-40.4729,-28.9722,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {-32.957,-28.944,0}; dir = 0;};
@@ -115,7 +115,7 @@
 			class Object109 {side = 8; vehicle = "Land_GarbagePallet_F"; rank = ""; position[] = {4.11426,35.733,0}; dir = 296.333;};
 		};
 		class MilitaryOffice1 {
-			name = $; // Credit: 2600K
+			name = $STR_ZEC_Military_SupportsLarge_MilitaryOffice1; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object0 {side = 8; vehicle = "Land_Mil_WallBig_Corner_F"; rank = ""; position[] = {-33.447,-17.8854,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {-25.9312,-17.8572,0}; dir = 0;};
@@ -244,7 +244,7 @@
 			class Object125 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {19.9844,-5.62891,0}; dir = 270;};
 		};
 		class MilitaryOffice2 {
-			name = $; // Credit: 2600K
+			name = $STR_ZEC_Military_SupportsLarge_MilitaryOffice2; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_service.paa";
 			class Object1 {side = 8; vehicle = "Land_Wall_IndCnc_4_F"; rank = ""; position[] = {-17.0059,-3.9856,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Wall_IndCnc_4_F"; rank = ""; position[] = {-17.0059,-15.8606,0}; dir = 90;};
@@ -285,7 +285,7 @@
 			class Object38 {side = 8; vehicle = "Land_TBox_F"; rank = ""; position[] = {17.1172,13.5303,0}; dir = 90;};
 		};
 		class MilitaryQuarters {
-			name = $; // Credit: 2600K
+			name = $STR_ZEC_Military_SupportsLarge_MilitaryQuarters; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object0 {side = 8; vehicle = "Land_Cargo40_military_green_F"; rank = ""; position[] = {-20.125,-22.375,0}; dir = 90;};
 			class Object1 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {-25.354,-31.3309,0}; dir = 30;};
@@ -456,7 +456,7 @@
 			class Object167 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {31.3728,23.1635,0}; dir = 255;};
 		};
 		class ResearchOutpost {
-			name = $; // Credit: 2600K
+			name = $STR_ZEC_Military_SupportsLarge_ResearchOutpost; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
 			class Object0 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {-29.0308,-20.4149,0}; dir = 75;};
 			class Object1 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {-26.8208,-23.4542,0}; dir = 30;};
@@ -551,7 +551,7 @@
 			class Object91 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {23.3711,-9.73444,0}; dir = 0;};
 		};
 		class ServiceDepot_OPF_F {
-			 name = $; // Credit: 2600K
+			 name = $STR_ZEC_Military_SupportsLarge_ServiceDepot_OPF_F; // Credit: 2600K
 			 icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			 class Object1 {side = 8; vehicle = "CamoNet_OPFOR_big_F"; rank = ""; position[] = {-5.95477,-9.3606,0}; dir = 180;};
 			 class Object2 {side = 8; vehicle = "O_MRAP_02_F"; rank = ""; position[] = {-7.12476,-4.50317,0}; dir = 345;};
@@ -617,7 +617,7 @@
 			 class Object62 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {2.37494,2.125,0}; dir = 89.9929;};
 		 };
 		class ServiceDepot_BLU_F {
-			 name = $; // Credit: 2600K
+			 name = $STR_ZEC_Military_SupportsLarge_ServiceDepot_BLU_F; // Credit: 2600K
 			 icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			 class Object1 {side = 8; vehicle = "CamoNet_BLUFOR_big_F"; rank = ""; position[] = {-3.11011,-12.3569,0}; dir = 173.438;};
 			 class Object2 {side = 8; vehicle = "B_MRAP_01_F"; rank = ""; position[] = {-3.47369,-9.35229,0}; dir = 340;};
@@ -708,7 +708,7 @@
 			 class Object87 {side = 8; vehicle = "Land_Workbench_01_F"; rank = ""; position[] = {14.9645,-4.48267,0}; dir = 133.615;};
 		 };
 		class ServiceDepot_IND_F {
-			 name = $; // Credit: 2600K
+			 name = $STR_ZEC_Military_SupportsLarge_ServiceDepot_IND_F; // Credit: 2600K
 			 icon = "\a3\Ui_f\data\Map\Markers\Flags\aaf_ca.paa";
 			 class Object1 {side = 8; vehicle = "CamoNet_INDP_big_F"; rank = ""; position[] = {-2.57968,-12.9861,0}; dir = 180;};
 			 class Object2 {side = 8; vehicle = "I_Truck_02_box_F"; rank = ""; position[] = {-1.7377,-8.45313,0}; dir = 315.024;};
@@ -793,7 +793,7 @@
 			 class Object81 {side = 8; vehicle = "Land_CratesShabby_F"; rank = ""; position[] = {13.7475,6.13184,0}; dir = 150;};
 		 };
 		class BarracksCamo {
-			name = $; // Credit: 2600K
+			name = $STR_ZEC_Military_SupportsLarge_BarracksCamo; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_inf.paa";
 			class Object1 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-22.6212,-10.4988,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-20.9533,-0.673096,0}; dir = 285;};
@@ -883,7 +883,7 @@
 			class Object86 {side = 8; vehicle = "Land_Axe_F"; rank = ""; position[] = {-4.875,5.875,0}; dir = 120;};
 		};
 		class BarracksWhite {
-			name = $; // Credit: 2600K
+			name = $STR_ZEC_Military_SupportsLarge_BarracksWhite; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_inf.paa";
 			class Object1 {side = 8; vehicle = "Land_Wall_IndCnc_2deco_F"; rank = ""; position[] = {-21.75,-14.5,0}; dir = 240;};
 			class Object2 {side = 8; vehicle = "Land_Wall_IndCnc_2deco_F"; rank = ""; position[] = {-22.875,-11.75,0}; dir = 255;};
@@ -963,7 +963,7 @@
 			class Object76 {side = 8; vehicle = "Land_WoodPile_F"; rank = ""; position[] = {13.2214,-2.77759,0}; dir = 0;};
 		};
 		class ResearchComplex {
-			name = $; // Credit: 2600K
+			name = $STR_ZEC_Military_SupportsLarge_ResearchComplex; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_support.paa";
 			class Object0 {side = 8; vehicle = "Land_Pallets_F"; rank = ""; position[] = {-22.0077,-10.3846,0}; dir = 60;};
 			class Object1 {side = 8; vehicle = "Land_LampHalogen_F"; rank = ""; position[] = {-25.2303,-16.7217,0}; dir = 135;};
@@ -1053,7 +1053,7 @@
 			class Object86 {side = 8; vehicle = "Land_Pallets_stack_F"; rank = ""; position[] = {1.28296,15.64,0}; dir = 345;};
 		};
 		class DetentionCentrePrison {
-			name = $; // Credit: 2600K
+			name = $STR_ZEC_Military_SupportsLarge_DetentionCentrePrison; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_service.paa";
 			class Object0 {side = 8; vehicle = "Land_Mil_WiredFence_F"; rank = ""; position[] = {-19.4399,-21.2747,0}; dir = 0.783559;};
 			class Object1 {side = 8; vehicle = "Land_Mil_WiredFence_F"; rank = ""; position[] = {-22.938,-17.7683,0}; dir = 89.7835;};

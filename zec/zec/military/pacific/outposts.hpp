@@ -131,7 +131,7 @@
 			class Object82 {side = 8; vehicle = "Land_ConcreteWall_01_l_pole_F"; rank = ""; position[] = {18.5,-0.5,0}; dir = 90;};
 		};
 		class Villa_OPF_F {
-			name = "Villa - Venom [C]"; // Credit: 2600K
+			name = $STR_ZEC_MilitaryPacific_OutpostsLarge_Villa_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_short_green_F"; rank = ""; position[] = {-5.25928,-11.8257,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_CratesWooden_F"; rank = ""; position[] = {7.23242,-3.82422,0}; dir = 0;};

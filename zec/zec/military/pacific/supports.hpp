@@ -293,7 +293,7 @@
 			class Object77 {side = 8; vehicle = "Land_Concrete_SmallWall_8m_F"; rank = ""; position[] = {4.61902,-7.13501,0}; dir = 0;};
 		};
 		class BarracksCamo {
-			name = STR_ZEC_MilitaryPacific_SupportsLarge_BarracksCamo; // Credit: 2600K
+			name = $STR_ZEC_MilitaryPacific_SupportsLarge_BarracksCamo; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_inf.paa";
 			class Object0 {side = 8; vehicle = "Land_HBarrier_01_line_5_green_F"; rank = ""; position[] = {-31.1211,-3.7688,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_HBarrier_01_line_3_green_F"; rank = ""; position[] = {-30.231,-7.11157,0}; dir = 225;};
@@ -774,7 +774,7 @@
 			class Object28 {side = 8; vehicle = "Land_HBarrier_01_line_5_green_F"; rank = ""; position[] = {4.1189,5.85681,0}; dir = 300;};
 		};
 		class ResearchCompound {
-			name = "Research Compound"; // Credit: 2600K
+			name = $STR_ZEC_MilitaryPacific_SupportsMedium_ResearchCompound; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_support.paa";
 			class Object0 {side = 8; vehicle = "Land_PowerGenerator_F"; rank = ""; position[] = {3.49976,-11.2344,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {-1.5,-12.1249,0}; dir = 89.9758;};

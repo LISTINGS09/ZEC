@@ -1,8 +1,8 @@
     class FuelLarge
     {
       name = $STR_ZEC_FuelLarge;
-		class M_FuelModern {
-			name = "Fuel Station - Modern"; // Credit: 2600K
+		class FuelStationNew {
+			name = $STR_ZEC_Civilian_FuelLarge_FuelStationNew; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\fuelstation_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Mound02_8m_F"; rank = ""; position[] = {-13.38,-10.8401,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Crash_barrier_F"; rank = ""; position[] = {-2.0625,-10.7117,0}; dir = 0;};
@@ -72,8 +72,8 @@
 			class Object66 {side = 8; vehicle = "Land_Basket_F"; rank = ""; position[] = {18.5,4,0}; dir = 359.993;};
 			class Object67 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {9.25,-2.5,0}; dir = 240.014;};
 		};
-		class M_FuelOld {
-			name = "Fuel Station - Old"; // Credit: 2600K
+		class FuelStationOld {
+			name = $STR_ZEC_Civilian_FuelLarge_FuelStationOld; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\fuelstation_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_FuelStation_Feed_F"; rank = ""; position[] = {-5.50049,-6.00244,0}; dir = -89.9995;};
 			class Object2 {side = 8; vehicle = "Land_FuelStation_Feed_F"; rank = ""; position[] = {-12.5005,-6.00244,0}; dir = -89.9995;};

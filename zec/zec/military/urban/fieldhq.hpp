@@ -294,7 +294,7 @@
 			class Object89 {side = 8; vehicle = "Land_HBarrierWall6_F"; rank = ""; position[] = {42.106,6.88055,0}; dir = 62;};
 		};
 		class ObservationTowerGreen {
-			name = "Observation Tower (Green)"; // Credit: 2600K
+			name = $STR_ZEC_Military_FieldHQLarge_ObservationTowerGreen; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_recon.paa";
 			class Object0 {side = 8; vehicle = "Land_CratesWooden_F"; rank = ""; position[] = {-4.5,-4.25,0}; dir = 90;};
 			class Object1 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {-9.17377,6.34814,0}; dir = 194.994;};
@@ -335,7 +335,7 @@
 			class Object37 {side = 8; vehicle = "Land_HBarrier_1_F"; rank = ""; position[] = {14.5,4.86743,0}; dir = 2.73208e-005;};
 		};
 		class ObservationTowerBrown {
-			name = "Observation Tower (Brown)"; // Credit: 2600K
+			name = $STR_ZEC_Military_FieldHQLarge_ObservationTowerBrown; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_recon.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-26.3711,-0.140625,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_HBarrier_Big_F"; rank = ""; position[] = {-23.7926,-3.41016,0}; dir = 270;};
@@ -636,7 +636,7 @@
 			class Object36 {side = 8; vehicle = "I_Truck_02_transport_F"; rank = ""; position[] = {11.375,7.74561,0}; dir = 14.9999;};
 		};
 		class ForwardOP {
-			name = "Forward OP"; // Credit: 2600K
+			name = $STR_ZEC_Military_FieldHQSmall_ForwardOP; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_support.paa";
 			class Object0 {side = 8; vehicle = "Land_HBarrier_5_F"; rank = ""; position[] = {-8.24878,0.121094,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_TTowerSmall_1_F"; rank = ""; position[] = {-2.73096,-2.61328,0}; dir = 0;};
