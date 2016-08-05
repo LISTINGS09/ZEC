@@ -2934,7 +2934,7 @@
 			class Object33 {side = 8; vehicle = "Land_Tyres_F"; rank = ""; position[] = {11.8307,-0.948242,0}; dir = 255;};
 		};
 		class DamagedHouse_IND_F {
-			name = STR_ZEC_Military_OutpostsSmall_DamagedHouse_IND_F; // Credit: 2600K
+			name = $STR_ZEC_Military_OutpostsSmall_DamagedHouse_IND_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\aaf_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_PaperBox_open_empty_F"; rank = ""; position[] = {-3.00037,-3.49976,0}; dir = 315;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_Corner_F"; rank = ""; position[] = {-1.3374,-10.9836,0}; dir = 180;};

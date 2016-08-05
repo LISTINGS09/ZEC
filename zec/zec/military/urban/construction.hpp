@@ -1,14 +1,6 @@
     class ConstructionSuppliesLarge
     {
         name = $STR_ZEC_ConstructionSuppliesLarge;
-		class Bunkers {
-			name = $STR_ZEC_Military_ConstructionSuppliesLarge_Bunkers; // Credit: 2600K
-			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
-			class Object1 {side = 8; vehicle = "Land_BagBunker_Large_F"; rank = ""; position[] = {7.99568,8.42358,0}; dir = 0;};
-			class Object2 {side = 8; vehicle = "Land_BagBunker_Tower_F"; rank = ""; position[] = {-8.01686,9.01953,0}; dir = 0;};
-			class Object3 {side = 8; vehicle = "Land_BagBunker_Small_F"; rank = ""; position[] = {5.99989,-5.55542,0}; dir = 0;};
-			class Object5 {side = 8; vehicle = "Land_HBarrierTower_F"; rank = ""; position[] = {-7.95042,-6.03418,0}; dir = 0;};
-		};
 		class MilitaryFortifications {
 			name = $STR_ZEC_Military_ConstructionSuppliesLarge_MilitaryFortifications; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
@@ -63,19 +55,6 @@
 			class Object49 {side = 8; vehicle = "CamoNet_INDP_open_F"; rank = ""; position[] = {58.0986,-0.612549,0}; dir = 0;};
 			class Object50 {side = 8; vehicle = "CamoNet_OPFOR_big_F"; rank = ""; position[] = {37.9546,23.7356,0}; dir = 0;};
 			class Object51 {side = 8; vehicle = "CamoNet_INDP_big_F"; rank = ""; position[] = {57.9546,23.7356,0}; dir = 0;};
-		};
-		class CommsSupports {
-			name = $STR_ZEC_Military_ConstructionSuppliesLarge_CommsSupports; // Credit: 2600K
-			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
-			class Object0 {side = 8; vehicle = "Land_Medevac_house_V1_F"; rank = ""; position[] = {-30,-11.0215,0}; dir = 0;};
-			class Object1 {side = 8; vehicle = "Land_Radar_Small_F"; rank = ""; position[] = {-31.4429,11.3974,0}; dir = 0;};
-			class Object2 {side = 8; vehicle = "Land_HelipadCircle_F"; rank = ""; position[] = {6,-10,0}; dir = 0;};
-			class Object3 {side = 8; vehicle = "Land_Medevac_HQ_V1_F"; rank = ""; position[] = {-15.2051,-9.22681,0}; dir = 0;};
-			class Object5 {side = 8; vehicle = "Land_TTowerBig_1_F"; rank = ""; position[] = {-14,12.01,0}; dir = 0;};
-			class Object6 {side = 8; vehicle = "Land_Communication_F"; rank = ""; position[] = {5.9873,12.0145,0}; dir = 0;};
-			class Object7 {side = 8; vehicle = "Land_HelipadSquare_F"; rank = ""; position[] = {26,-10,0}; dir = 0;};
-			class Object8 {side = 8; vehicle = "Land_TTowerSmall_1_F"; rank = ""; position[] = {30.019,12.0116,0}; dir = 0;};
-			class Object9 {side = 8; vehicle = "Land_TTowerSmall_2_F"; rank = ""; position[] = {18.3848,11.4698,0}; dir = 0;};
 		};
 		class MilitaryItems {
 			name = $STR_ZEC_Military_ConstructionSuppliesLarge_MilitaryItems; // Credit: 2600K

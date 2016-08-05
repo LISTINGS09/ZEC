@@ -5,6 +5,19 @@
     class ConstructionMedium
     {
         name = $STR_ZEC_ConstructionMedium;
+		class CommsSupports {
+			name = $STR_ZEC_Civilian_ConstructionSuppliesLarge_CommsSupports; // Credit: 2600K
+			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
+			class Object0 {side = 8; vehicle = "Land_Medevac_house_V1_F"; rank = ""; position[] = {-30,-11.0215,0}; dir = 0;};
+			class Object1 {side = 8; vehicle = "Land_Radar_Small_F"; rank = ""; position[] = {-31.4429,11.3974,0}; dir = 0;};
+			class Object2 {side = 8; vehicle = "Land_HelipadCircle_F"; rank = ""; position[] = {6,-10,0}; dir = 0;};
+			class Object3 {side = 8; vehicle = "Land_Medevac_HQ_V1_F"; rank = ""; position[] = {-15.2051,-9.22681,0}; dir = 0;};
+			class Object5 {side = 8; vehicle = "Land_TTowerBig_1_F"; rank = ""; position[] = {-14,12.01,0}; dir = 0;};
+			class Object6 {side = 8; vehicle = "Land_Communication_F"; rank = ""; position[] = {5.9873,12.0145,0}; dir = 0;};
+			class Object7 {side = 8; vehicle = "Land_HelipadSquare_F"; rank = ""; position[] = {26,-10,0}; dir = 0;};
+			class Object8 {side = 8; vehicle = "Land_TTowerSmall_1_F"; rank = ""; position[] = {30.019,12.0116,0}; dir = 0;};
+			class Object9 {side = 8; vehicle = "Land_TTowerSmall_2_F"; rank = ""; position[] = {18.3848,11.4698,0}; dir = 0;};
+		};
 		class BuildingSite {
 			name = $STR_ZEC_Civilian_ConstructionMedium_BuildingSite; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\MapControl\busstop_ca.paa";

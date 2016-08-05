@@ -364,6 +364,9 @@
 <Key ID="STR_ZEC_Civilian_ConstructionSmall_ConstructionSite3">
     <Original>Construction Site #3</Original>
 </Key>
+<Key ID="STR_ZEC_Civilian_ConstructionSuppliesLarge_CommsSupports">
+    <Original>Comms &amp; Supports</Original>
+</Key>
 <Key ID="STR_ZEC_Civilian_ConstructionSuppliesLarge_FillerClutter1">
     <Original>Filler - Clutter #1</Original>
 </Key>
@@ -1699,14 +1702,8 @@
 
 <!-- Military - Names -->
 
-<Key ID="STR_ZEC_Military_ConstructionSuppliesLarge_Bunkers">
-    <Original>Bunkers</Original>
-</Key>
 <Key ID="STR_ZEC_Military_ConstructionSuppliesLarge_MilitaryItems">
     <Original>Military Items</Original>
-</Key>
-<Key ID="STR_ZEC_Military_ConstructionSuppliesLarge_CommsSupports">
-    <Original>Comms &amp; Supports</Original>
 </Key>
 <Key ID="STR_ZEC_Military_ConstructionSuppliesLarge_MilitaryFortifications">
     <Original>Military Fortifications</Original>
@@ -1956,6 +1953,9 @@
     <Original>Detention Centre (Prison)</Original>
 </Key>
 
+<Key ID="STR_ZEC_Military_SupportsMedium_DetentionCompound">
+    <Original>Detention Compound (Prison)</Original>
+</Key>
 <Key ID="STR_ZEC_Military_SupportsMedium_DomeResearch">
     <Original>Dome - Research</Original>
 </Key>
@@ -2002,6 +2002,9 @@
     <Original>Research Compound</Original>
 </Key>
 
+<Key ID="STR_ZEC_Military_SupportsSmall_DetentionCamp">
+    <Original>Detention Camp (Prison)</Original>
+</Key>
 <Key ID="STR_ZEC_Military_SupportsSmall_Canteen1">
     <Original>Canteen #1</Original>
 </Key>
@@ -2251,7 +2254,18 @@
 <Key ID="STR_ZEC_Military_SuppliesSmall_StorageFortified_IND_F">
     <Original>Fortified Supplies</Original>
 </Key>
-
+<Key ID="STR_ZEC_Military_SuppliesSmall_FencedCache">
+    <Original>Fenced Cache</Original>
+</Key>
+<Key ID="STR_ZEC_Military_SuppliesSmall_FencedCache_BLU_F">
+    <Original>Fenced Cache</Original>
+</Key>
+<Key ID="STR_ZEC_Military_SuppliesSmall_FencedCache_OPF_F">
+    <Original>Fenced Cache</Original>
+</Key>
+<Key ID="STR_ZEC_Military_SuppliesSmall_FencedCache_IND_F">
+    <Original>Fenced Cache</Original>
+</Key>
 
 
 <Key ID="STR_ZEC_Military_HQLarge_Headquarters">
