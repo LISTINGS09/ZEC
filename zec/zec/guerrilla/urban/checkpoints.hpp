@@ -4,7 +4,7 @@
     };
     class CheckpointsBarricadesMedium
     {
-        name = $STR_ZEC_CheckpointsBarricadesMedium
+        name = $STR_ZEC_CheckpointsBarricadesMedium;
 		class Checkpoint_BLU_G_F {
 			name = $STR_ZEC_Guerrilla_CheckpointsBarricadesMedium_Checkpoint; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
@@ -49,7 +49,7 @@
     };
     class CheckpointsBarricadesSmall
     {
-        name = $STR_ZEC_CheckpointsBarricadesSmall
+        name = $STR_ZEC_CheckpointsBarricadesSmall;
 		class CheckpointLight {
 			name = $STR_ZEC_Guerrilla_CheckpointsBarricadesSmall_CheckpointLight; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
@@ -262,7 +262,7 @@
 			class Object18 {side = 8; vehicle = "Land_WoodPile_large_F"; rank = ""; position[] = {0.783447,-0.53418,0}; dir = 105;};
 			class Object19 {side = 8; vehicle = "Land_Tyres_F"; rank = ""; position[] = {-4.13037,-3.1875,0}; dir = 210;};
 			class Object21 {side = 8; vehicle = "Land_JunkPile_F"; rank = ""; position[] = {-2.10864,9.6123,0}; dir = 285;};
-			class Object22 {side = 8; vehicle = "Land_JunkPile_F"; rank = ""; position[] = {-12.9744,-3.75732,0}; dir = 210;}
+			class Object22 {side = 8; vehicle = "Land_JunkPile_F"; rank = ""; position[] = {-12.9744,-3.75732,0}; dir = 210;};
 			class Object23 {side = 8; vehicle = "Land_JunkPile_F"; rank = ""; position[] = {-0.436768,-0.584473,0}; dir = 249.028;};
 			class Object24 {side = 8; vehicle = "Land_GarbageBags_F"; rank = ""; position[] = {-15.7368,-0.931641,0}; dir = 135;};
 			class Object25 {side = 8; vehicle = "Land_Cargo20_color_V2_ruins_F"; rank = ""; position[] = {9.93237,-2.04736,0}; dir = 0;};

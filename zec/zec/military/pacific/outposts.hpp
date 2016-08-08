@@ -2349,7 +2349,7 @@
 			class Object27 {side = 8; vehicle = "Land_GarbageHeap_03_F"; rank = ""; position[] = {1.43164,-8.77979,0}; dir = 315;};
 		};
 		class ShedSmall_BLU_F {
-			name = $STR_ZEC_MilitaryPacific_OutpostsSmall_ShedSmall_BLU_F // Credit: 2600K
+			name = $STR_ZEC_MilitaryPacific_OutpostsSmall_ShedSmall_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Boat_01_abandoned_red_F"; rank = ""; position[] = {6.37744,-6.49353,0}; dir = 60;};
 			class Object1 {side = 8; vehicle = "Land_Shed_05_F"; rank = ""; position[] = {-0.520508,-0.12915,0}; dir = 0;};
