@@ -1134,6 +1134,7 @@
 <Key ID="STR_ZEC_MilitaryPacific_SupportsSmall_StorageArea3_BLU_F">
     <Original>Storage Area #B3</Original>
 </Key>
+
 <Key ID="STR_ZEC_MilitaryPacific_OutpostsLarge_LargeBungalow_OPF_F">
     <Original>Large Bungalow</Original>
 </Key>
@@ -1167,6 +1168,7 @@
 <Key ID="STR_ZEC_MilitaryPacific_OutpostsLarge_OutpostConcrete">
     <Original>Outpost (Concrete)</Original>
 </Key>
+
 <Key ID="STR_ZEC_MilitaryPacific_OutpostsMedium_SimpleOutpost01">
     <Original>Simple Outpost #01</Original>
 </Key>
@@ -1239,9 +1241,6 @@
 <Key ID="STR_ZEC_MilitaryPacific_OutpostsMedium_Junkyard_OPF_F">
     <Original>Junkyard</Original>
 </Key>
-<Key ID="STR_ZEC_MilitaryPacific_OutpostsMedium_BunkerLarge_OPF_F">
-    <Original>Bunker (Large)</Original>
-</Key>
 <Key ID="STR_ZEC_MilitaryPacific_OutpostsMedium_Bungalow_BLU_F">
     <Original>Bungalow</Original>
 </Key>
@@ -1269,9 +1268,7 @@
 <Key ID="STR_ZEC_MilitaryPacific_OutpostsMedium_Junkyard_BLU_F">
     <Original>Junkyard</Original>
 </Key>
-<Key ID="STR_ZEC_MilitaryPacific_OutpostsMedium_BunkerLarge_BLU_F">
-    <Original>Bunker (Large)</Original>
-</Key>
+
 <Key ID="STR_ZEC_MilitaryPacific_OutpostsSmall_OldBungalow_BLU_F">
     <Original>Old Bungalow</Original>
 </Key>
@@ -1433,12 +1430,20 @@
 <Key ID="STR_ZEC_MilitaryPacific_CommunicationsLarge_UAVDepot_BLU_F">
     <Original>UAV Depot</Original>
 </Key>
+
 <Key ID="STR_ZEC_MilitaryPacific_CommunicationsMedium_BunkerListeningPost_OPF_F">
     <Original>Bunker Listening Post</Original>
 </Key>
 <Key ID="STR_ZEC_MilitaryPacific_CommunicationsMedium_BunkerListeningPost_BLU_F">
     <Original>Bunker Listening Post</Original>
 </Key>
+<Key ID="STR_ZEC_MilitaryPacific_CommunicationsMedium_BunkerLarge_BLU_F">
+    <Original>Radio Bunker</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_CommunicationsMedium_BunkerLarge_OPF_F">
+    <Original>Radio Bunker</Original>
+</Key>
+
 <Key ID="STR_ZEC_MilitaryPacific_CommunicationsSmall_RadioPostFortified">
     <Original>Radio Post (Fortified)</Original>
 </Key>
