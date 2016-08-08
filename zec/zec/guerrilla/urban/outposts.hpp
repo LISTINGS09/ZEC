@@ -5,7 +5,7 @@
     class OutpostsMedium
     {
         name = $STR_ZEC_OutpostsMedium;
-		class DestroyedHouse_FIA {
+		class DestroyedHouse_BLU_G_F {
 			name = $STR_ZEC_Guerrilla_OutpostsMedium_DestroyedHouse; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Sacks_heap_F"; rank = ""; position[] = {-6.75,-2.125,0}; dir = 345;};
@@ -36,7 +36,7 @@
 			class Object26 {side = 8; vehicle = "Flag_FIA_F"; rank = ""; position[] = {-2.10303,4.48633,0}; dir = 0;};
 			class Object27 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-0.496094,13.9844,0}; dir = 180;};
 		};
-		class LongHouse_FIA {
+		class LongHouse_BLU_G_F {
 			name = $STR_ZEC_Guerrilla_OutpostsMedium_LongHouse; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Stone_8m_F"; rank = ""; position[] = {-3.14325,-15.3762,0}; dir = 0;};
@@ -93,7 +93,7 @@
 			class Object52 {side = 8; vehicle = "Land_Portable_generator_F"; rank = ""; position[] = {12.8757,8.62378,0}; dir = 59.9986;};
 			class Object53 {side = 8; vehicle = "CamoNet_BLUFOR_open_F"; rank = ""; position[] = {6.47379,4.51245,0}; dir = 0;};
 		};
-		class HouseFortified_FIA {
+		class HouseFortified_BLU_G_F {
 			name = $STR_ZEC_Guerrilla_OutpostsMedium_HouseFortified; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Pallets_stack_F"; rank = ""; position[] = {2.625,-2.375,0}; dir = 255.001;};
@@ -133,7 +133,7 @@
     class OutpostsSmall
     {
         name = $STR_ZEC_OutpostsSmall;
-		class SmallHouse_FIA {
+		class SmallHouse_BLU_G_F {
 			name = $STR_ZEC_Guerrilla_OutpostsSmall_SmallHouse; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_WaterTank_F"; rank = ""; position[] = {-0.25,0.5,0}; dir = 0.00112158;};

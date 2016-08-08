@@ -1,7 +1,7 @@
     class SupportsLarge
     {
         name = $STR_ZEC_SupportsLarge;
-		class PumpingStation_CSAT {
+		class PumpingStation_OPF_F {
 			name = $STR_ZEC_MilitaryPacific_SupportsLarge_PumpingStation_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_corner_green_F"; rank = ""; position[] = {-0.995605,0.126953,0}; dir = 195;};
@@ -54,7 +54,7 @@
 			class Object48 {side = 8; vehicle = "Land_HBarrier_01_big_4_green_F"; rank = ""; position[] = {10.2222,-8.82617,0}; dir = 90;};
 			class Object49 {side = 8; vehicle = "Land_HBarrier_01_big_4_green_F"; rank = ""; position[] = {10.2222,7.17383,0}; dir = 90;};
 		};
-		class PumpingStation_NATO {
+		class PumpingStation_BLU_F {
 			name = $STR_ZEC_MilitaryPacific_SupportsLarge_PumpingStation_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {-0.359375,-2.4917,0}; dir = 90;};
@@ -104,7 +104,7 @@
 			class Object45 {side = 8; vehicle = "Land_WoodenCrate_01_stack_x5_F"; rank = ""; position[] = {7.37354,-1.65479,0}; dir = 0;};
 			class Object46 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {5.8667,5.51563,0}; dir = 0;};
 		};
-		class MotorPool_CSAT {
+		class MotorPool_OPF_F {
 			name = $STR_ZEC_MilitaryPacific_SupportsLarge_MotorPool_OPF_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_CratesShabby_F"; rank = ""; position[] = {-9.74121,-4.03696,0}; dir = 0;};
@@ -159,7 +159,7 @@
 			class Object50 {side = 8; vehicle = "Land_HBarrier_01_line_5_green_F"; rank = ""; position[] = {8.8938,-7.12115,0}; dir = 180;};
 			class Object51 {side = 8; vehicle = "Land_BagFence_01_round_green_F"; rank = ""; position[] = {-3.20264,13.2131,0}; dir = 225;};
 		};
-		class MotorPool_NATO {
+		class MotorPool_BLU_F {
 			name = $STR_ZEC_MilitaryPacific_SupportsLarge_MotorPool_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_PaperBox_open_empty_F"; rank = ""; position[] = {-3.30249,-7.99484,0}; dir = 75;};

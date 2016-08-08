@@ -5,7 +5,7 @@
     class CheckpointsBarricadesMedium
     {
         name = $STR_ZEC_CheckpointsBarricadesMedium
-		class Checkpoint_FIA {
+		class Checkpoint_BLU_G_F {
 			name = $STR_ZEC_Guerrilla_CheckpointsBarricadesMedium_Checkpoint; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Mound02_8m_F"; rank = ""; position[] = {-12.4602,-0.129883,0}; dir = 195;};

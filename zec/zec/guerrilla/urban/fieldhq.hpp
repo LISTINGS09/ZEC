@@ -10,7 +10,7 @@
     class FieldHQSmall
     {
         name = $STR_ZEC_FieldHQSmall;
-		class FieldHQ_FIA {
+		class FieldHQ_BLU_G_F {
 			name = $STR_ZEC_Guerrilla_FieldHQSmall_FieldHQ; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object1 {side = 8; vehicle = "CamoNet_BLUFOR_F"; rank = ""; position[] = {-0.225827,-1.69946,0}; dir = 180;};

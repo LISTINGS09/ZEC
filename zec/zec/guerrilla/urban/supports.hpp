@@ -9,7 +9,7 @@
     class SupportsSmall
     {
         name = $STR_ZEC_SupportsSmall;
-		class Workshop_FIA {
+		class Workshop_BLU_G_F {
 			name = $STR_ZEC_Guerrilla_SupportsSmall_Workshop; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object1 {side = 8; vehicle = "B_G_Quadbike_01_F"; rank = ""; position[] = {1.37164,-2.99927,0}; dir = 105;};
@@ -49,7 +49,7 @@
 			class Object35 {side = 8; vehicle = "Land_ButaneCanister_F"; rank = ""; position[] = {-4.50348,1.43542,0}; dir = 344.952;};
 			class Object36 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {-2.34003,-1.16504,0}; dir = 0;};
 		};
-		class ServiceStation_FIA {
+		class ServiceStation_BLU_G_F {
 			name = $STR_ZEC_Guerrilla_SupportsSmall_ServiceStation; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object1 {side = 8; vehicle = "WaterPump_01_forest_F"; rank = ""; position[] = {-1.25,-5.24976,0}; dir = 270.001;};

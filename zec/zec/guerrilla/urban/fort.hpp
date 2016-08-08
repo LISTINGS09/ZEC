@@ -1,7 +1,7 @@
     class FortLarge
     {
         name = $STR_ZEC_FortLarge;
-		class MortarBunker_FIA {
+		class MortarBunker_BLU_G_F {
 			name = $STR_ZEC_Guerrilla_FortLarge_MortarBunker; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_HBarrier_3_F"; rank = ""; position[] = {-2.17578,-10.3799,0}; dir = 35;};
@@ -53,7 +53,7 @@
     class FortMedium
     {
         name = $STR_ZEC_FortMedium;
-		class BunkerLarge_FIA {
+		class BunkerLarge_BLU_G_F {
 			name = $STR_ZEC_Guerrilla_FortMedium_BunkerLarge; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object1 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {-5.7735,-12.2795,0}; dir = 200;};
@@ -402,7 +402,7 @@
 			class Object24 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {2.5,5,0}; dir = 104.996;};
 			class Object25 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {1.75,4.75,0}; dir = 59.9933;};
 		};
-		class MortarSandbag_FIA {
+		class MortarSandbag_BLU_G_F {
 			name = $STR_ZEC_Guerrilla_FortSmall_MortarSandbag; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\fia_ca.paa";
 			class Object0 {side = 8; vehicle = "B_G_Mortar_01_F"; rank = ""; position[] = {-3.375,2.24976,0}; dir = 229.998;};
