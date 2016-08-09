@@ -4,7 +4,7 @@
     };
     class CheckpointsBarricadesMedium
     {
-        name = $STR_ZEC_CheckpointsBarricadesMedium
+        name = $STR_ZEC_CheckpointsBarricadesMedium;
 		class Barricade1 {
 			name = $STR_ZEC_GuerrillaPacific_CheckpointsBarricadesMedium_Barricade1; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
@@ -180,5 +180,5 @@
     };
     class CheckpointsBarricadesSmall
     {
-        name = $STR_ZEC_CheckpointsBarricadesSmall
+        name = $STR_ZEC_CheckpointsBarricadesSmall;
     };

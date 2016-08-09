@@ -1263,7 +1263,7 @@
 			class Object86 {side = 8; vehicle = "Land_Sacks_heap_F"; rank = ""; position[] = {9.125,13.25,0}; dir = 240;};
 			class Object87 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {15.375,12.2502,0}; dir = 75.0087;};
 			class Object88 {side = 8; vehicle = "Land_MetalBarrel_F"; rank = ""; position[] = {16.2912,12.0291,0}; dir = 300.005;};
-		};		
+		};
 		class DomeResearch {
 			name = $STR_ZEC_Military_SupportsMedium_DomeResearch; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_support.paa";
@@ -1888,7 +1888,7 @@
 			class Object8 {side = 8; vehicle = "Land_CampingChair_V2_F"; rank = ""; position[] = {-3.23419,-3.89941,0}; dir = 299.986;};
 			class Object9 {side = 8; vehicle = "Land_CratesPlastic_F"; rank = ""; position[] = {-2.9978,0.253662,0}; dir = 270;};
 			class Object10 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {-1.21228,-5.17822,0}; dir = 0;};
-			class Object11 {side = 8; vehicle = "Land_Sacks_heap_F"; rank = ""; position[] = {-0.625,2.5,0}; dir = 270;}
+			class Object11 {side = 8; vehicle = "Land_Sacks_heap_F"; rank = ""; position[] = {-0.625,2.5,0}; dir = 270;};
 			class Object13 {side = 8; vehicle = "Land_Garbage_square5_F"; rank = ""; position[] = {0.0377197,0.0717773,0}; dir = 0;};
 			class Object14 {side = 8; vehicle = "Land_WoodenTable_large_F"; rank = ""; position[] = {1.0296,-3.78064,0}; dir = 194.72;};
 			class Object15 {side = 8; vehicle = "Land_WoodenTable_large_F"; rank = ""; position[] = {3.50769,0.375,0}; dir = 179.993;};

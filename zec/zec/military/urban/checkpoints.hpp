@@ -379,7 +379,7 @@
     };
     class CheckpointsBarricadesMedium
     {
-        name = $STR_ZEC_CheckpointsBarricadesMedium
+        name = $STR_ZEC_CheckpointsBarricadesMedium;
 		class CheckpointConcrete {
 			name = $STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointConcrete; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
@@ -717,7 +717,7 @@
     };
     class CheckpointsBarricadesSmall
     {
-        name = $STR_ZEC_CheckpointsBarricadesSmall
+        name = $STR_ZEC_CheckpointsBarricadesSmall;
 		class CheckpointSandbags2 {
 			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointSandbags2; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";

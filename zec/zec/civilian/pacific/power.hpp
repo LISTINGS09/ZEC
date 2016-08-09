@@ -184,7 +184,7 @@
 			class Object76 {side = 8; vehicle = "Land_ConcreteWall_01_l_d_F"; rank = ""; position[] = {-4.24841,42.75,0}; dir = 180;};
 			class Object77 {side = 8; vehicle = "Land_Wreck_Ural_F"; rank = ""; position[] = {-12.8766,35.585,0}; dir = 225;};
 			class Object78 {side = 8; vehicle = "Land_SCF_01_chimney_F"; rank = ""; position[] = {17.2053,-23.625,0}; dir = 180;};
-			class Object79 {side = 8; vehicle = "Land_Unfinished_Building_01_F"; rank = ""; position[] = {32.7732,-28.6997,0}; dir = 180;}
+			class Object79 {side = 8; vehicle = "Land_Unfinished_Building_01_F"; rank = ""; position[] = {32.7732,-28.6997,0}; dir = 180;};
 			class Object80 {side = 8; vehicle = "Land_ConcreteWall_01_l_pole_F"; rank = ""; position[] = {40.75,-8.875,0}; dir = 270;};
 			class Object81 {side = 8; vehicle = "Land_ConcreteWall_01_l_pole_F"; rank = ""; position[] = {40.75,7.25,0}; dir = 270;};
 			class Object82 {side = 8; vehicle = "Land_ConcreteWall_01_l_pole_F"; rank = ""; position[] = {40.75,-0.75,0}; dir = 270;};
