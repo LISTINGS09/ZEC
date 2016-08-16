@@ -3271,6 +3271,157 @@
 <Key ID="STR_ZEC_Military_FortSmall_MortarSandbag_IND_F">
     <Original>Mortar (Sandbag)</Original>
 </Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerSmall1">
+    <Original>Bunker (Small) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerSmall2">
+    <Original>Bunker (Small) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerSmall3">
+    <Original>Bunker (Small) #3</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerSmall4">
+    <Original>Bunker (Small) #4</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerSmall5">
+    <Original>Bunker (Small) #5</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerSmall6">
+    <Original>Bunker (Small) #6</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerSmall7">
+    <Original>Bunker (Small) #7</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerSmall8">
+    <Original>Bunker (Small) #8</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerSmall9">
+    <Original>Bunker (Small) #9</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_BunkerLarge1">
+    <Original>Bunker (Large) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_BunkerLarge2">
+    <Original>Bunker (Large) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_BunkerLarge3">
+    <Original>Bunker (Large) #3</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_BunkerLarge4">
+    <Original>Bunker (Large) #4</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_BunkerLarge5">
+    <Original>Bunker (Large) #5</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_BunkerLarge6">
+    <Original>Bunker (Large) #6</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_BunkerLarge7">
+    <Original>Bunker (Large) #7</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_BunkerLarge8">
+    <Original>Bunker (Large) #8</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_BunkerLarge9">
+    <Original>Bunker (Large) #9</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_CargoPost1">
+    <Original>Cargo Post #1</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_CargoPost2">
+    <Original>Cargo Post #2</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_CargoPost3">
+    <Original>Cargo Post #3</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_CargoPost4">
+    <Original>Cargo Post #4</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_CargoPost5">
+    <Original>Cargo Post #5</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_CargoPost6">
+    <Original>Cargo Post #6</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_CargoPost7">
+    <Original>Cargo Post #7</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_CargoPost8">
+    <Original>Cargo Post #8</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_CargoPost9">
+    <Original>Cargo Post #9</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_Watchtower1">
+    <Original>Watchtower #1</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_Watchtower2">
+    <Original>Watchtower #2</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_Watchtower3">
+    <Original>Watchtower #3</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_Watchtower4">
+    <Original>Watchtower #4</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_Watchtower5">
+    <Original>Watchtower #5</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_Watchtower6">
+    <Original>Watchtower #6</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_Watchtower7">
+    <Original>Watchtower #7</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_Watchtower8">
+    <Original>Watchtower #8</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_Watchtower9">
+    <Original>Watchtower #9</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerTower1">
+    <Original>Bunker (Tower) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerTower2">
+    <Original>Bunker (Tower) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerTower3">
+    <Original>Bunker (Tower) #3</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerTower4">
+    <Original>Bunker (Tower) #4</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerTower5">
+    <Original>Bunker (Tower) #5</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerTower6">
+    <Original>Bunker (Tower) #6</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerTower7">
+    <Original>Bunker (Tower) #7</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerTower8">
+    <Original>Bunker (Tower) #8</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortSmall_BunkerTower9">
+    <Original>Bunker (Tower) #9</Original>
+</Key>
+
+<Key ID="STR_ZEC_Military_FortMedium_VehicleWatchtower">
+    <Original>Vehicle Watchtower</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_VehicleCargoPost">
+    <Original>Vehicle Cargo Post</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_VehicleLargeBunker">
+    <Original>Vehicle Bunker (Large)</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_VehicleTower">
+    <Original>Vehicle Tower</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FortMedium_VehicleSmallBunker">
+    <Original>Vehicle Bunker (Small)</Original>
+</Key>
 
 </Container></Package></Project>
 
