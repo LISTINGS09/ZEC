@@ -340,9 +340,12 @@
     <Original>Altis Terminal</Original>
 </Key>
 
+
 <Key ID="STR_ZEC_Civilian_CommunicationsSmall_TransmitterTower">
     <Original>Transmitter Tower</Original>
 </Key>
+
+
 <Key ID="STR_ZEC_Civilian_ConstructionMedium_BuildingSite">
     <Original>Building Site 1</Original>
 </Key>
@@ -352,6 +355,7 @@
 <Key ID="STR_ZEC_Civilian_ConstructionMedium_ConstructionSiteShed">
     <Original>Construction Site - Shed</Original>
 </Key>
+
 <Key ID="STR_ZEC_Civilian_ConstructionSmall_OneFloorRuin">
     <Original>Construction Site - Shed</Original>
 </Key>
@@ -364,6 +368,8 @@
 <Key ID="STR_ZEC_Civilian_ConstructionSmall_ConstructionSite3">
     <Original>Construction Site #3</Original>
 </Key>
+
+
 <Key ID="STR_ZEC_Civilian_ConstructionSuppliesLarge_CommsSupports">
     <Original>Comms &amp; Supports</Original>
 </Key>
@@ -406,27 +412,59 @@
 <Key ID="STR_ZEC_Civilian_ConstructionSuppliesLarge_EdenPipes">
     <Original>Pipes</Original>
 </Key>
+
+
 <Key ID="STR_ZEC_Civilian_FuelLarge_FuelStationNew">
     <Original>Fuel Station - Modern</Original>
 </Key>
 <Key ID="STR_ZEC_Civilian_FuelLarge_FuelStationOld">
     <Original>Fuel Station - Old</Original>
 </Key>
+<Key ID="STR_ZEC_Civilian_FuelLarge_FuelDepot">
+    <Original>Fuel Depot</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_FuelLarge_DieselStorage">
+    <Original>Diesel Storage</Original>
+</Key>
+
+<Key ID="STR_ZEC_Civilian_FuelMedium_TankerShed">
+    <Original>Tanker Shed</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_FuelMedium_FuelDepot">
+    <Original>Fuel Depot</Original>
+</Key>
+
+
+
 <Key ID="STR_ZEC_Civilian_GeneralLarge_SportsGround">
     <Original>Sports Ground</Original>
 </Key>
 <Key ID="STR_ZEC_Civilian_GeneralLarge_GhostHotel">
     <Original>Ghost Hotel</Original>
 </Key>
+
 <Key ID="STR_ZEC_Civilian_GeneralMedium_Church">
     <Original>Church</Original>
 </Key>
 <Key ID="STR_ZEC_Civilian_GeneralMedium_BasketballCourt">
     <Original>Basketball Court</Original>
 </Key>
+
+<Key ID="STR_ZEC_Civilian_GeneralSmall_MarketStall1">
+    <Original>Market Stall #1</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_GeneralSmall_MarketStall2">
+    <Original>Market Stall #2</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_GeneralSmall_MarketStall3">
+    <Original>Market Stall #3</Original>
+</Key>
+
 <Key ID="STR_ZEC_Civilian_HeliportsMedium_Heliport">
     <Original>Heliport</Original>
 </Key>
+
+
 <Key ID="STR_ZEC_Civilian_IndustrialLarge_IndustrialSite">
     <Original>Industrial Site</Original>
 </Key>
@@ -436,6 +474,7 @@
 <Key ID="STR_ZEC_Civilian_IndustrialLarge_StorageComplex">
     <Original>Storage Complex</Original>
 </Key>
+
 <Key ID="STR_ZEC_Civilian_IndustrialMedium_Factory1">
     <Original>Factory #1</Original>
 </Key>
@@ -457,24 +496,33 @@
 <Key ID="STR_ZEC_Civilian_IndustrialMedium_StorageShed3">
     <Original>Storage Shed #3</Original>
 </Key>
+
 <Key ID="STR_ZEC_Civilian_IndustrialSmall_TinShed">
     <Original>Tin Shed</Original>
 </Key>
 <Key ID="STR_ZEC_Civilian_IndustrialSmall_MetalSheds">
     <Original>Metal Sheds</Original>
 </Key>
+
+
 <Key ID="STR_ZEC_Civilian_MedicalLarge_Hospital">
     <Original>Hospital</Original>
 </Key>
 <Key ID="STR_ZEC_Civilian_MedicalMedium_MedicalCenter">
     <Original>Medical Center</Original>
 </Key>
+
+
 <Key ID="STR_ZEC_Civilian_MiningOilLarge_Refinery">
     <Original>Refinery</Original>
 </Key>
+
+
 <Key ID="STR_ZEC_Civilian_PowerLarge_SolarPlant">
     <Original>Solar Plant</Original>
 </Key>
+
+
 <Key ID="STR_ZEC_Civilian_PowerLarge_DieselPowerPlant">
     <Original>Diesel Power Plant</Original>
 </Key>
@@ -484,9 +532,12 @@
 <Key ID="STR_ZEC_Civilian_PowerLarge_PowerPlant2">
     <Original>Power Plant 2</Original>
 </Key>
+
 <Key ID="STR_ZEC_Civilian_PowerSmall_PowerTransformer">
     <Original>Power Transformer</Original>
 </Key>
+
+
 <Key ID="STR_ZEC_Civilian_SettlementsLarge_ShantyTown">
     <Original>Shanty Town</Original>
 </Key>
@@ -956,6 +1007,30 @@
 <Key ID="STR_ZEC_Guerrilla_FieldHQSmall_FieldHQ">
     <Original>Field HQ</Original>
 </Key>
+
+
+<Key ID="STR_ZEC_Guerrilla_FuelSmall_FuelDrop">
+    <Original>Fuel Drop</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FuelSmall_StorageArea">
+    <Original>Storage Area</Original>
+</Key>
+
+<Key ID="STR_ZEC_Guerrilla_FuelMedium_StorageTanks">
+    <Original>Storage Tanks</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FuelMedium_DieselStorage">
+    <Original>Diesel Storage</Original>
+</Key>
+
+<Key ID="STR_ZEC_Guerrilla_FuelLarge_Depot">
+    <Original>Depot</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FuelLarge_Refinery">
+    <Original>Refinery</Original>
+</Key>
+
+
 <Key ID="STR_ZEC_Guerrilla_FortLarge_MortarBunker">
     <Original>Mortar Bunker</Original>
 </Key>
@@ -1025,6 +1100,47 @@
 <Key ID="STR_ZEC_Guerrilla_HQMedium_ShedSandbags">
     <Original>Shed (Sandbags)</Original>
 </Key>
+
+
+<Key ID="STR_ZEC_Guerrilla_MedicalLarge_AirAmbulance">
+	<Original>Air Ambulance</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_MedicalLarge_MedicalLab">
+	<Original>Medical Laboratory</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_MedicalLarge_Hospital">
+	<Original>Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_MedicalLarge_EvacHospital">
+	<Original>Evacuation Hospital</Original>
+</Key>
+
+<Key ID="STR_ZEC_Guerrilla_MedicalMedium_FieldHospital">
+	<Original>Field Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_MedicalMedium_AirStationHospital">
+	<Original>Air Station Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_MedicalMedium_Surgery">
+	<Original>Surgery</Original>
+</Key>
+
+<Key ID="STR_ZEC_Guerrilla_MedicalSmall_UrbanSurgery">
+	<Original>Urban Surgery</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_MedicalSmall_FieldHospital">
+	<Original>Field Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_MedicalSmall_CollectionStation">
+	<Original>Collection Station</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_MedicalSmall_Surgery1">
+	<Original>Surgery #1</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_MedicalSmall_Surgery2">
+	<Original>Surgery #2</Original>
+</Key>
+
 
 <Key ID="STR_ZEC_Guerrilla_OutpostsMedium_DestroyedHouse">
     <Original>Destroyed House</Original>
@@ -2145,15 +2261,127 @@
     <Original>Ops Control #G2</Original>
 </Key>
 
+
 <Key ID="STR_ZEC_Military_MedicalLarge_MedicalComplex">
     <Original>Medical Complex</Original>
 </Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_AirAmbulance_BLU_F">
+	<Original>Air Ambulance</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_MedicalLab_BLU_F">
+	<Original>Medical Laboratory</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_Hospital_BLU_F">
+	<Original>Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_EvacHospital_BLU_F">
+	<Original>Evacuation Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_AirAmbulance_OPF_F">
+	<Original>Air Ambulance</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_MedicalLab_OPF_F">
+	<Original>Medical Laboratory</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_Hospital_OPF_F">
+	<Original>Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_EvacHospital_OPF_F">
+	<Original>Evacuation Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_AirAmbulance_IND_F">
+	<Original>Air Ambulance</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_MedicalLab_IND_F">
+	<Original>Medical Laboratory</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_Hospital_IND_F">
+	<Original>Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_EvacHospital_IND_F">
+	<Original>Evacuation Hospital</Original>
+</Key>
+
 <Key ID="STR_ZEC_Military_MedicalMedium_MedicalCompound">
     <Original>Medical Compound</Original>
 </Key>
+<Key ID="STR_ZEC_Military_MedicalMedium_FieldHospital_BLU_F">
+	<Original>Field Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalMedium_AirStationHospital_BLU_F">
+	<Original>Air Station Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalMedium_Surgery_BLU_F">
+	<Original>Surgery</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalMedium_FieldHospital_OPF_F">
+	<Original>Field Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalMedium_AirStationHospital_OPF_F">
+	<Original>Air Station Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalMedium_Surgery_OPF_F">
+	<Original>Surgery</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalMedium_FieldHospital_IND_F">
+	<Original>Field Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalMedium_AirStationHospital_IND_F">
+	<Original>Air Station Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalMedium_Surgery_IND_F">
+	<Original>Surgery</Original>
+</Key>
+
 <Key ID="STR_ZEC_Military_MedicalSmall_MedicalCentre">
     <Original>Medical Centre</Original>
 </Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_UrbanSurgery_BLU_F">
+	<Original>Urban Surgery</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_FieldHospital_BLU_F">
+	<Original>Field Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_CollectionStation_BLU_F">
+	<Original>Collection Station</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_Surgery1_BLU_F">
+	<Original>Surgery #B1</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_Surgery2_BLU_F">
+	<Original>Surgery #B2</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_UrbanSurgery_OPF_F">
+	<Original>Urban Surgery</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_FieldHospital_OPF_F">
+	<Original>Field Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_CollectionStation_OPF_F">
+	<Original>Collection Station</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_Surgery1_OPF_F">
+	<Original>Surgery #O1</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_Surgery2_OPF_F">
+	<Original>Surgery #O2</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_UrbanSurgery_IND_F">
+	<Original>Urban Surgery</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_FieldHospital_IND_F">
+	<Original>Field Hospital</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_CollectionStation_IND_F">
+	<Original>Collection Station</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_Surgery1_IND_F">
+	<Original>Surgery #I1</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_Surgery2_IND_F">
+	<Original>Surgery #I2</Original>
+</Key>
+
 
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_CheckpointWatchtower">
     <Original>Checkpoint Watchtower</Original>
@@ -2732,19 +2960,6 @@
 </Key>
 
 
-
-<Key ID="STR_ZEC_Military_FuelMedium_FuelDepot_OPF_F">
-    <Original>Fuel Depot</Original>
-</Key>
-<Key ID="STR_ZEC_Military_FuelMedium_FuelDepot_BLU_F">
-    <Original>Fuel Depot</Original>
-</Key>
-<Key ID="STR_ZEC_Military_FuelMedium_FuelDepot_IND_F">
-    <Original>Fuel Depot</Original>
-</Key>
-
-
-
 <Key ID="STR_ZEC_Military_OutpostsLarge_OutpostChain">
     <Original>Chain Fence Outpost</Original>
 </Key>
@@ -3298,6 +3513,7 @@
 <Key ID="STR_ZEC_Military_FortSmall_BunkerSmall9">
     <Original>Bunker (Small) #9</Original>
 </Key>
+
 <Key ID="STR_ZEC_Military_FortMedium_BunkerLarge1">
     <Original>Bunker (Large) #1</Original>
 </Key>
@@ -3325,6 +3541,7 @@
 <Key ID="STR_ZEC_Military_FortMedium_BunkerLarge9">
     <Original>Bunker (Large) #9</Original>
 </Key>
+
 <Key ID="STR_ZEC_Military_FortSmall_CargoPost1">
     <Original>Cargo Post #1</Original>
 </Key>
@@ -3421,6 +3638,64 @@
 </Key>
 <Key ID="STR_ZEC_Military_FortMedium_VehicleSmallBunker">
     <Original>Vehicle Bunker (Small)</Original>
+</Key>
+
+
+<Key ID="STR_ZEC_Military_FuelLarge_Depot_BLU_F">
+    <Original>Depot</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelLarge_Refinery_BLU_F">
+    <Original>Refinery</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelLarge_Depot_OPF_F">
+    <Original>Depot</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelLarge_Refinery_OPF_F">
+    <Original>Refinery</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelLarge_Depot_IND_F">
+    <Original>Depot</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelLarge_Refinery_IND_F">
+    <Original>Refinery</Original>
+</Key>
+
+<Key ID="STR_ZEC_Military_FuelMedium_StorageTanks_BLU_F">
+    <Original>Storage Tanks</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelMedium_DieselStorage_BLU_F">
+    <Original>Diesel Storage</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelMedium_StorageTanks_OPF_F">
+    <Original>Storage Tanks</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelMedium_DieselStorage_OPF_F">
+    <Original>Diesel Storage</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelMedium_StorageTanks_IND_F">
+    <Original>Storage Tanks</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelMedium_DieselStorage_IND_F">
+    <Original>Diesel Storage</Original>
+</Key>
+
+<Key ID="STR_ZEC_Military_FuelSmall_StorageArea_BLU_F">
+    <Original>Storage Area</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelSmall_StorageArea_OPF_F">
+    <Original>Storage Area</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelSmall_StorageArea_IND_F">
+    <Original>Storage Area</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelSmall_FuelDepot_OPF_F">
+    <Original>Fuel Depot</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelSmall_FuelDepot_BLU_F">
+    <Original>Fuel Depot</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FuelSmall_FuelDepot_IND_F">
+    <Original>Fuel Depot</Original>
 </Key>
 
 </Container></Package></Project>
