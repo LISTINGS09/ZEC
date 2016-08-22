@@ -593,7 +593,7 @@
 			class Object79 {side = 8; vehicle = "Land_PaperBox_closed_F"; rank = ""; position[] = {17.4976,7.26245,0}; dir = 0;};
 		};
 		class FillerClutter3 {
-			name = $STR_ZEC_Civilian_ConstructionSuppliesLarge_FillerClutter2; // Credit: 2600K
+			name = $STR_ZEC_Civilian_ConstructionSuppliesLarge_FillerClutter3; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_Sacks_goods_F"; rank = ""; position[] = {-3.76416,-15.0066,0}; dir = 116.097;};
 			class Object1 {side = 8; vehicle = "Land_Sacks_goods_F"; rank = ""; position[] = {-15.48,-13.7351,0}; dir = 360;};

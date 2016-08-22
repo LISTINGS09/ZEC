@@ -3692,7 +3692,7 @@
 			class Object17 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {9.05579,13.0685,0}; dir = 195;};
 			class Object18 {side = 8; vehicle = "Land_Razorwire_F"; rank = ""; position[] = {1.25714,14.5137,0}; dir = 180;};
 			class Object20 {side = 8; vehicle = "Land_BarrelSand_F"; rank = ""; position[] = {3.49994,3.37512,0}; dir = 0.000536669;};
-			class Object21 {side = 8; vehicle = "Land_BagFence_01_end_green_F"; rank = ""; position[] = {4.24213,-0.192139,0}; dir = 1.36604e-005;};
+			class Object21 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {4.24213,-0.192139,0}; dir = 1.36604e-005;};
 			class Object22 {side = 8; vehicle = "Land_Sacks_heap_F"; rank = ""; position[] = {2.875,-3.75,0}; dir = 0;};
 		};
 		class BunkerTower2 {
