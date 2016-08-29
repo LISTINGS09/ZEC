@@ -106,7 +106,7 @@
 			class Object51 {side = 8; vehicle = "Land_HBarrier_01_line_1_green_F"; rank = ""; position[] = {0.00390625,10.2437,0}; dir = 330;};
 		};
 		class HelipadSquare_BLU_CTRG_F {
-			name = $STR_ZEC_MilitaryPacific_HeliportsLarge_HelipadSquare_CTRG; // Credit: 2600K
+			name = $STR_ZEC_MilitaryPacific_HeliportsLarge_HelipadSquare_BLU_CTRG_F; // Credit: 2600K
 			icon = "\a3\UI_F_Exp\Data\CfgMarkers\ctrg_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_corner_green_F"; rank = ""; position[] = {-19.9932,-2.90967,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_round_green_F"; rank = ""; position[] = {-19.0371,-9.86719,0}; dir = 45;};

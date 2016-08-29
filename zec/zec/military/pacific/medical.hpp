@@ -372,7 +372,7 @@
 			class Object64 {side = 8; vehicle = "Land_GarbageHeap_04_F"; rank = ""; position[] = {15.2729,6.67236,0}; dir = 0;};
 		};
 		class AirAmbulance_OPF_T_F {
-			name = "Air Ambulance"; // Credit: 2600K
+			name = $STR_ZEC_MilitaryPacific_MedicalLarge_AirAmbulance_OPF_T_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\csat_ca.paa";
 			class Object0 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {-15.2583,-0.484375,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_BagFence_01_long_green_F"; rank = ""; position[] = {-12.3833,-0.484375,0}; dir = 2.73208e-005;};
