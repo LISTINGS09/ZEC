@@ -96,13 +96,13 @@
 <Key ID="STR_ZEC_ConstructionSuppliesSmall">
     <Original>Construction Supplies (Small)</Original>
 </Key>
-<Key ID="STR_ZEC_Crash SitesLarge">
+<Key ID="STR_ZEC_CrashsitesLarge">
     <Original>Crash Sites (Large)</Original>
 </Key>
-<Key ID="STR_ZEC_Crash SitesMedium">
+<Key ID="STR_ZEC_CrashsitesMedium">
     <Original>Crash Sites (Medium)</Original>
 </Key>
-<Key ID="STR_ZEC_Crash SitesSmall">
+<Key ID="STR_ZEC_CrashsitesSmall">
     <Original>Crash Sites (Small)</Original>
 </Key>
 <Key ID="STR_ZEC_FieldHQLarge">
