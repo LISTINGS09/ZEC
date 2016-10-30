@@ -1723,21 +1723,24 @@
 <Key ID="STR_ZEC_MilitaryPacific_FieldHQMedium_FieldHQ_OPF_T_F">
     <Original>Field HQ [OPF]</Original>
 </Key>
-<Key ID="STR_ZEC_MilitaryPacific_FieldHQMedium_ObservationTower_OPF_T_F">
-    <Original>Observation Tower [OPF]</Original>
-</Key>
 <Key ID="STR_ZEC_MilitaryPacific_FieldHQMedium_ObservationPost_OPF_T_F">
     <Original>Observation Post [OPF]</Original>
 </Key>
 <Key ID="STR_ZEC_MilitaryPacific_FieldHQMedium_FieldHQ_BLU_T_F">
     <Original>Field HQ [BLU]</Original>
 </Key>
-<Key ID="STR_ZEC_MilitaryPacific_FieldHQMedium_ObservationTower_BLU_T_F">
-    <Original>Observation Tower [BLU]</Original>
-</Key>
 <Key ID="STR_ZEC_MilitaryPacific_FieldHQMedium_ObservationPost_BLU_T_F">
     <Original>Observation Post [BLU]</Original>
 </Key>
+
+<Key ID="STR_ZEC_MilitaryPacific_FieldHQSmall_ObservationTower1">
+    <Original>Observation Tower #1</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_FieldHQSmall_ObservationTower2">
+    <Original>Observation Tower #2</Original>
+</Key>
+
+
 
 <Key ID="STR_ZEC_MilitaryPacific_FuelSmall_StorageArea_BLU_T_F">
     <Original>Storage Area [BLU]</Original>
@@ -2850,28 +2853,73 @@
 <Key ID="STR_ZEC_Military_FieldHQLarge_ObservationTowerBrown">
     <Original>Observation Tower (Brown)</Original>
 </Key>
-
-<Key ID="STR_ZEC_Military_FieldHQMedium_FieldReconPost_BLU_F">
-    <Original>Field Recon Post [BLU]</Original>
+<Key ID="STR_ZEC_Military_FieldHQLarge_CargoHQ1_IND_F">
+    <Original>Cargo HQ [IND] #1</Original>
 </Key>
-<Key ID="STR_ZEC_Military_FieldHQMedium_FieldReconPost_OPF_F">
-    <Original>Field Recon Post [OPF]</Original>
+<Key ID="STR_ZEC_Military_FieldHQLarge_CargoHQ2_IND_F">
+    <Original>Cargo HQ [IND] #2</Original>
 </Key>
-<Key ID="STR_ZEC_Military_FieldHQMedium_FieldReconPost_IND_F">
-    <Original>Field Recon Post [IND]</Original>
+<Key ID="STR_ZEC_Military_FieldHQLarge_CargoTower_IND_F">
+    <Original>Cargo Tower [IND]</Original>
 </Key>
-
-<Key ID="STR_ZEC_Military_FieldHQSmall_FieldHQ_BLU_F">
-    <Original>Field HQ [BLU]</Original>
+<Key ID="STR_ZEC_Military_FieldHQLarge_FieldDepot_IND_F">
+    <Original>Field Depot [IND]</Original>
 </Key>
-<Key ID="STR_ZEC_Military_FieldHQSmall_FieldHQ_OPF_F">
-    <Original>Field HQ [OPF]</Original>
-</Key>
-<Key ID="STR_ZEC_Military_FieldHQSmall_FieldHQ_IND_F">
+<Key ID="STR_ZEC_Military_FieldHQLarge_FieldHQ_IND_F">
     <Original>Field HQ [IND]</Original>
 </Key>
+<Key ID="STR_ZEC_Military_FieldHQLarge_CargoHQ1_BLU_F">
+    <Original>Cargo HQ [BLU] #1</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQLarge_CargoHQ2_BLU_F">
+    <Original>Cargo HQ [BLU] #2</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQLarge_CargoTower_BLU_F">
+    <Original>Cargo Tower [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQLarge_FieldDepot_BLU_F">
+    <Original>Field Depot [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQLarge_FieldHQ_BLU_F">
+    <Original>Field HQ [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQLarge_CargoHQ1_OPF_F">
+    <Original>Cargo HQ [OPF] #1</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQLarge_CargoHQ2_OPF_F">
+    <Original>Cargo HQ [OPF] #2</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQLarge_CargoTower_OPF_F">
+    <Original>Cargo Tower [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQLarge_FieldDepot_OPF_F">
+    <Original>Field Depot [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQLarge_FieldHQ_OPF_F">
+    <Original>Field HQ [OPF]</Original>
+</Key>
+
+<Key ID="STR_ZEC_Military_FieldHQMedium_FieldHQ_BLU_F">
+    <Original>Field HQ [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQMedium_FieldHQ_OPF_F">
+    <Original>Field HQ [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQMedium_FieldHQ_IND_F">
+    <Original>Field HQ [IND]</Original>
+</Key>
+
 <Key ID="STR_ZEC_Military_FieldHQSmall_ForwardOP">
     <Original>Forward OP Bunker OP</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQSmall_FieldReconPost_BLU_F">
+    <Original>Field Recon Post [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQSmall_FieldReconPost_OPF_F">
+    <Original>Field Recon Post [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_FieldHQSmall_FieldReconPost_IND_F">
+    <Original>Field Recon Post [IND]</Original>
 </Key>
 
 <Key ID="STR_ZEC_Military_SuppliesMedium_StorageShed">
