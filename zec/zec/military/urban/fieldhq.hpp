@@ -2142,7 +2142,6 @@
 			class Object16 {side = 8; vehicle = "Land_CratesWooden_F"; rank = ""; position[] = {-22.7065,-3.24609,0}; dir = 90;};
 			class Object17 {side = 8; vehicle = "Land_Tyres_F"; rank = ""; position[] = {-11.619,-17.6619,0}; dir = 180;};
 			class Object18 {side = 8; vehicle = "Land_Tyres_F"; rank = ""; position[] = {-18.869,-16.5369,0}; dir = 180;};
-			class Object19 {side = 8; vehicle = "Land_JunkPile_F"; rank = ""; position[] = {-10.9426,-14.1721,0}; dir = 300;};
 			class Object20 {side = 8; vehicle = "Land_GarbageBags_F"; rank = ""; position[] = {-13.7105,-16.2345,0}; dir = 180;};
 			class Object21 {side = 8; vehicle = "I_Truck_02_covered_F"; rank = ""; position[] = {-18.8296,4.01514,0}; dir = 285.001;};
 			class Object22 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {-9.43529,-22.3673,0}; dir = 270;};
