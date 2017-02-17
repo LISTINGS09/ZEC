@@ -380,6 +380,35 @@
     class CheckpointsBarricadesMedium
     {
         name = $STR_ZEC_CheckpointsBarricadesMedium;
+		class CheckpointCargoPosts {
+			name = $STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointCargoPosts; // Credit: 2600K
+			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
+			class Object0 {side = 8; vehicle = "Land_Mil_WallBig_Corner_F"; rank = ""; position[] = {-17.7552,-4.25781,0}; dir = 0;};
+			class Object1 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {-17.7294,3.23877,0}; dir = 90;};
+			class Object2 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {-17.7294,-0.76123,0}; dir = 90;};
+			class Object3 {side = 8; vehicle = "Land_CratesShabby_F"; rank = ""; position[] = {-10.1265,3.99219,0}; dir = 0;};
+			class Object4 {side = 8; vehicle = "Land_PaperBox_closed_F"; rank = ""; position[] = {10.6257,-1.9873,0}; dir = 15;};
+			class Object5 {side = 8; vehicle = "Land_BarGate_F"; rank = ""; position[] = {-3.68774,3.5,0}; dir = 180;};
+			class Object7 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-5.25,0.25,0}; dir = 90.0032;};
+			class Object8 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {4.75,4.5,0}; dir = 90.0032;};
+			class Object9 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-5.25,4.25,0}; dir = 90.0032;};
+			class Object10 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-5.25,-3.5,0}; dir = 90.0032;};
+			class Object11 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {4.75,0.5,0}; dir = 90.0032;};
+			class Object12 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {4.75,-3.25,0}; dir = 90.0032;};
+			class Object13 {side = 8; vehicle = "Land_Cargo_Patrol_V2_F"; rank = ""; position[] = {11.7473,-0.371582,0}; dir = 0;};
+			class Object14 {side = 8; vehicle = "Land_Cargo_Patrol_V2_F"; rank = ""; position[] = {-12.1277,-0.121582,0}; dir = 0;};
+			class Object15 {side = 8; vehicle = "Land_Mil_WallBig_Corner_F"; rank = ""; position[] = {-6.74219,-4.25537,0}; dir = 270;};
+			class Object16 {side = 8; vehicle = "Land_Mil_WallBig_Corner_F"; rank = ""; position[] = {6.11987,-4.50781,0}; dir = 0;};
+			class Object17 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {-6.77051,-0.73877,0}; dir = 270;};
+			class Object18 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {-14.239,-4.22949,0}; dir = 0;};
+			class Object19 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {9.63599,-4.47949,0}; dir = 0;};
+			class Object20 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {6.14575,-1.01123,0}; dir = 90;};
+			class Object21 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {-10.239,-4.22949,0}; dir = 0;};
+			class Object22 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {13.636,-4.47949,0}; dir = 0;};
+			class Object23 {side = 8; vehicle = "Land_Mil_WallBig_Corner_F"; rank = ""; position[] = {17.1328,-4.50537,0}; dir = 270;};
+			class Object24 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {17.1042,3.01123,0}; dir = 270;};
+			class Object25 {side = 8; vehicle = "Land_Mil_WallBig_4m_F"; rank = ""; position[] = {17.1045,-0.98877,0}; dir = 270;};
+		};
 		class CheckpointConcrete {
 			name = $STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointConcrete; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_installation.paa";
@@ -714,46 +743,10 @@
 			class Object43 {side = 8; vehicle = "Land_PaperBox_open_empty_F"; rank = ""; position[] = {11.2504,2,0}; dir = 90;};
 			class Object44 {side = 8; vehicle = "Land_BarrelTrash_grey_F"; rank = ""; position[] = {12.4999,2.25,0}; dir = 359.997;};
 		};
-    };
+	};
     class CheckpointsBarricadesSmall
     {
         name = $STR_ZEC_CheckpointsBarricadesSmall;
-		class CheckpointSandbags2 {
-			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointSandbags2; // Credit: 2600K
-			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
-			class Object0 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {4,0.125,0}; dir = 90.0033;};
-			class Object1 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {4,4.375,0}; dir = 90.0033;};
-			class Object2 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-6,-4.25,0}; dir = 90.0033;};
-			class Object3 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-6,4.125,0}; dir = 90.0033;};
-			class Object4 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-6,-0.125,0}; dir = 90.0033;};
-			class Object5 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {4,-4,0}; dir = 90.0033;};
-			class Object6 {side = 8; vehicle = "RoadBarrier_F"; rank = ""; position[] = {-8.80225,-3.97559,0}; dir = 0.00704445;};
-			class Object7 {side = 8; vehicle = "RoadBarrier_F"; rank = ""; position[] = {7.07275,-3.60059,0}; dir = 359.996;};
-			class Object8 {side = 8; vehicle = "Land_CncBarrier_stripes_F"; rank = ""; position[] = {-7.17725,-1.60156,0}; dir = 180;};
-			class Object9 {side = 8; vehicle = "Land_CncBarrier_stripes_F"; rank = ""; position[] = {5.07275,-1.60156,0}; dir = 180;};
-			class Object10 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {-11.374,0.794922,0}; dir = 45;};
-			class Object11 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {9.70435,0.500977,0}; dir = 315;};
-			class Object12 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {5.177,4.47656,0}; dir = 300;};
-			class Object13 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {-11.8735,5.67627,0}; dir = 255;};
-			class Object14 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {-6.87354,3.67627,0}; dir = 255;};
-			class Object15 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {9.61768,5.29004,0}; dir = 225;};
-			class Object16 {side = 8; vehicle = "Land_BagFence_Short_F"; rank = ""; position[] = {-6.67871,2.00684,0}; dir = 270;};
-			class Object17 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {10.4519,-0.616211,0}; dir = 315;};
-			class Object18 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {7.94971,-1.60156,0}; dir = 180;};
-			class Object19 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-12.5454,-0.605957,0}; dir = 225;};
-			class Object20 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-13.5444,1.88867,0}; dir = 270;};
-			class Object21 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {11.5806,2.26367,0}; dir = 270;};
-			class Object22 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-10.0503,-1.60156,0}; dir = 180;};
-			class Object24 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {10.1821,3.25732,0}; dir = 270;};
-			class Object25 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {4.68213,2.25732,0}; dir = 270;};
-			class Object26 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-8.79395,0.25,0}; dir = 180;};
-			class Object27 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-11.7656,3.49609,0}; dir = 270;};
-			class Object28 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {7.08105,0.125,0}; dir = 180;};
-			class Object29 {side = 8; vehicle = "RoadBarrier_small_F"; rank = ""; position[] = {10.3228,-3.35938,0}; dir = 165.003;};
-			class Object30 {side = 8; vehicle = "RoadBarrier_small_F"; rank = ""; position[] = {-12.5522,-3.60938,0}; dir = 195.037;};
-			class Object31 {side = 8; vehicle = "Land_BagFence_Corner_F"; rank = ""; position[] = {-6.7644,0.364746,0}; dir = 90;};
-			class Object32 {side = 8; vehicle = "Land_BagFence_Corner_F"; rank = ""; position[] = {4.73975,0.140137,0}; dir = 180;};
-		};
 		class CheckpointTower {
 			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointTower; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
@@ -919,6 +912,42 @@
 			class Object23 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-4.75002,8.625,0}; dir = 135;};
 			class Object24 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-4.62502,-3.25,0}; dir = 135;};
 		};
+		class CheckpointSandbags2 {
+			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointSandbags2; // Credit: 2600K
+			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
+			class Object0 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {4,0.125,0}; dir = 90.0033;};
+			class Object1 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {4,4.375,0}; dir = 90.0033;};
+			class Object2 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-6,-4.25,0}; dir = 90.0033;};
+			class Object3 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-6,4.125,0}; dir = 90.0033;};
+			class Object4 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-6,-0.125,0}; dir = 90.0033;};
+			class Object5 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {4,-4,0}; dir = 90.0033;};
+			class Object6 {side = 8; vehicle = "RoadBarrier_F"; rank = ""; position[] = {-8.80225,-3.97559,0}; dir = 0.00704445;};
+			class Object7 {side = 8; vehicle = "RoadBarrier_F"; rank = ""; position[] = {7.07275,-3.60059,0}; dir = 359.996;};
+			class Object8 {side = 8; vehicle = "Land_CncBarrier_stripes_F"; rank = ""; position[] = {-7.17725,-1.60156,0}; dir = 180;};
+			class Object9 {side = 8; vehicle = "Land_CncBarrier_stripes_F"; rank = ""; position[] = {5.07275,-1.60156,0}; dir = 180;};
+			class Object10 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {-11.374,0.794922,0}; dir = 45;};
+			class Object11 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {9.70435,0.500977,0}; dir = 315;};
+			class Object12 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {5.177,4.47656,0}; dir = 300;};
+			class Object13 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {-11.8735,5.67627,0}; dir = 255;};
+			class Object14 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {-6.87354,3.67627,0}; dir = 255;};
+			class Object15 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {9.61768,5.29004,0}; dir = 225;};
+			class Object16 {side = 8; vehicle = "Land_BagFence_Short_F"; rank = ""; position[] = {-6.67871,2.00684,0}; dir = 270;};
+			class Object17 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {10.4519,-0.616211,0}; dir = 315;};
+			class Object18 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {7.94971,-1.60156,0}; dir = 180;};
+			class Object19 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-12.5454,-0.605957,0}; dir = 225;};
+			class Object20 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-13.5444,1.88867,0}; dir = 270;};
+			class Object21 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {11.5806,2.26367,0}; dir = 270;};
+			class Object22 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-10.0503,-1.60156,0}; dir = 180;};
+			class Object24 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {10.1821,3.25732,0}; dir = 270;};
+			class Object25 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {4.68213,2.25732,0}; dir = 270;};
+			class Object26 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-8.79395,0.25,0}; dir = 180;};
+			class Object27 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-11.7656,3.49609,0}; dir = 270;};
+			class Object28 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {7.08105,0.125,0}; dir = 180;};
+			class Object29 {side = 8; vehicle = "RoadBarrier_small_F"; rank = ""; position[] = {10.3228,-3.35938,0}; dir = 165.003;};
+			class Object30 {side = 8; vehicle = "RoadBarrier_small_F"; rank = ""; position[] = {-12.5522,-3.60938,0}; dir = 195.037;};
+			class Object31 {side = 8; vehicle = "Land_BagFence_Corner_F"; rank = ""; position[] = {-6.7644,0.364746,0}; dir = 90;};
+			class Object32 {side = 8; vehicle = "Land_BagFence_Corner_F"; rank = ""; position[] = {4.73975,0.140137,0}; dir = 180;};
+		};
 		class Checkpoint_BLU_F {
 			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_Checkpoint_BLU_F; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\Flags\nato_ca.paa";
@@ -1012,4 +1041,63 @@
 			class Object21 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {9.24612,-4.38184,0}; dir = 15;};
 			class Object22 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {9.37282,5.75757,0}; dir = 150;};
 		};
-    };
+		class CheckpointConcretePost {
+			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointConcretePost; // Credit: 2600K
+			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
+			class Object0 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {-16.407,1.08496,0}; dir = 75;};
+			class Object1 {side = 8; vehicle = "Land_CncWall4_F"; rank = ""; position[] = {-16.5198,4.21826,0}; dir = 90;};
+			class Object2 {side = 8; vehicle = "Land_CncBarrier_stripes_F"; rank = ""; position[] = {-17.4945,-2.61963,0}; dir = 225;};
+			class Object3 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {-15.2419,-1.14697,0}; dir = 45;};
+			class Object4 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {-14.1956,-1.95459,0}; dir = 30;};
+			class Object5 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {-13.011,-2.49805,0}; dir = 15;};
+			class Object6 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {-16.0217,-0.0786133,0}; dir = 60;};
+			class Object7 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {10.665,-2.65674,0}; dir = 345;};
+			class Object8 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {4.23901,-2.62305,0}; dir = 15;};
+			class Object9 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {-6.61865,-2.53271,0}; dir = 345;};
+			class Object10 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {13.7749,9.80762,0}; dir = 270;};
+			class Object11 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {-16.2045,7.4458,0}; dir = 120;};
+			class Object12 {side = 8; vehicle = "Land_CncWall1_F"; rank = ""; position[] = {13.748,1.11377,0}; dir = 285;};
+			class Object13 {side = 8; vehicle = "Land_CncWall4_F"; rank = ""; position[] = {-9.71826,-2.64502,0}; dir = 0;};
+			class Object14 {side = 8; vehicle = "Land_GarbageContainer_open_F"; rank = ""; position[] = {-10.125,-1,0}; dir = 359;};
+			class Object15 {side = 8; vehicle = "Land_CncBarrierMedium4_F"; rank = ""; position[] = {13.7676,5.52393,0}; dir = 90;};
+			class Object16 {side = 8; vehicle = "Land_CncBarrier_stripes_F"; rank = ""; position[] = {-6.50195,-5.36768,0}; dir = 165;};
+			class Object17 {side = 8; vehicle = "Land_CncBarrier_stripes_F"; rank = ""; position[] = {5.375,-5.99219,0}; dir = 180;};
+			class Object18 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-12.3711,-5.36816,0}; dir = 195;};
+			class Object19 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {14.8708,-2.49316,0}; dir = 135;};
+			class Object20 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {10.6248,-5.36719,0}; dir = 165;};
+			class Object21 {side = 8; vehicle = "Land_Garbage_square3_F"; rank = ""; position[] = {-10.5142,-0.665039,0}; dir = 179;};
+			class Object22 {side = 8; vehicle = "Land_Garbage_square3_F"; rank = ""; position[] = {-9.47021,-1.05908,0}; dir = 105;};
+			class Object23 {side = 8; vehicle = "Land_PaperBox_closed_F"; rank = ""; position[] = {-8.62427,4.2627,0}; dir = 15;};
+			class Object24 {side = 8; vehicle = "Land_Pallets_F"; rank = ""; position[] = {4.09619,-1.521,0}; dir = 15;};
+			class Object26 {side = 8; vehicle = "Land_CncBarrierMedium_F"; rank = ""; position[] = {13.0154,-0.258789,0}; dir = 120;};
+			class Object27 {side = 8; vehicle = "Land_CncBarrierMedium_F"; rank = ""; position[] = {9.5,-2.85742,0}; dir = 0;};
+			class Object28 {side = 8; vehicle = "Land_CncBarrierMedium_F"; rank = ""; position[] = {5.75,-2.85742,0}; dir = 0;};
+			class Object29 {side = 8; vehicle = "Land_CncBarrierMedium_F"; rank = ""; position[] = {7.625,-2.85742,0}; dir = 0;};
+			class Object30 {side = 8; vehicle = "Land_CncBarrierMedium_F"; rank = ""; position[] = {11.8875,-1.7627,0}; dir = 135;};
+			class Object31 {side = 8; vehicle = "Land_Cargo_Patrol_V2_F"; rank = ""; position[] = {-10.5027,1.75342,0}; dir = 0;};
+		};
+		class CheckpointSmallBunker {
+			name = $STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointSmallBunker; // Credit: 2600K
+			icon = "\a3\Ui_f\data\Map\Markers\NATO\n_unknown.paa";
+			class Object0 {side = 8; vehicle = "Land_CncBarrierMedium4_F"; rank = ""; position[] = {6.14258,3.77393,0}; dir = 90;};
+			class Object1 {side = 8; vehicle = "Land_CncBarrier_stripes_F"; rank = ""; position[] = {6.625,-2.61719,0}; dir = 180;};
+			class Object2 {side = 8; vehicle = "Land_CncBarrier_stripes_F"; rank = ""; position[] = {-7.125,-2.99219,0}; dir = 180;};
+			class Object3 {side = 8; vehicle = "Land_BagBunker_Small_F"; rank = ""; position[] = {-7.625,2.31934,0}; dir = 0;};
+			class Object4 {side = 8; vehicle = "Land_BagFence_Short_F"; rank = ""; position[] = {-13.7605,4.87646,0}; dir = 2.04906e-005;};
+			class Object5 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {-13.6289,-1.25684,0}; dir = 15;};
+			class Object6 {side = 8; vehicle = "Land_CncBarrier_F"; rank = ""; position[] = {11.5002,-2.38281,0}; dir = 345;};
+			class Object7 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {13.2043,0.500977,0}; dir = 315;};
+			class Object8 {side = 8; vehicle = "Land_PaperBox_closed_F"; rank = ""; position[] = {7.62744,3.4873,0}; dir = 180;};
+			class Object10 {side = 8; vehicle = "Land_CratesWooden_F"; rank = ""; position[] = {7.5,6,0}; dir = 90;};
+			class Object11 {side = 8; vehicle = "Land_CncBarrierMedium_F"; rank = ""; position[] = {-12.2588,4.23486,0}; dir = 210;};
+			class Object12 {side = 8; vehicle = "Land_CncBarrierMedium_F"; rank = ""; position[] = {13.7676,2.625,0}; dir = 90;};
+			class Object13 {side = 8; vehicle = "Land_CncBarrierMedium_F"; rank = ""; position[] = {-10.5,3.76758,0}; dir = 0;};
+			class Object14 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {12.9927,7.04004,0}; dir = 225;};
+			class Object15 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {-14.948,9.35156,0}; dir = 300;};
+			class Object16 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {-15.3905,7.12109,0}; dir = 270;};
+			class Object17 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {10.5039,0.109375,0}; dir = 180;};
+			class Object18 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {7.70605,0.125,0}; dir = 180;};
+			class Object19 {side = 8; vehicle = "Land_BagFence_Long_F"; rank = ""; position[] = {13.6094,4.99609,0}; dir = 270;};
+			class Object20 {side = 8; vehicle = "Land_BagFence_Corner_F"; rank = ""; position[] = {-15.4028,4.9624,0}; dir = 180;};
+		};
+	};

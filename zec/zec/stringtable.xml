@@ -2012,6 +2012,7 @@
 <Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesLarge_Checkpoint_OPF_T_F">
     <Original>Checkpoint [OFP]</Original>
 </Key>
+
 <Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesMedium_CheckpointBunker">
     <Original>Checkpoint (Bunker)</Original>
 </Key>
@@ -2036,6 +2037,10 @@
 <Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesMedium_CheckpointWatchtower">
     <Original>Checkpoint (Watchtower)</Original>
 </Key>
+<Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesMedium_CheckpointCargoPosts">
+    <Original>Checkpoint (Cargo Posts)</Original>
+</Key>
+
 <Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesSmall_CheckpointSandbags1">
     <Original>Checkpoint (Sandbags) #1</Original>
 </Key>
@@ -2056,6 +2061,12 @@
 </Key>
 <Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesSmall_Checkpoint_OPF_T_F">
     <Original>Checkpoint [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesSmall_CheckpointConcretePost">
+    <Original>Checkpoint (Concrete Post)</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesSmall_CheckpointSmallBunker">
+    <Original>Checkpoint (Small Bunker)</Original>
 </Key>
 
 
@@ -2719,6 +2730,9 @@
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesMedium_Checkpoint_IND_F">
     <Original>Checkpoint [IND]</Original>
 </Key>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointCargoPosts">
+    <Original>Checkpoint Cargo Posts</Original>
+</Key>
 
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointSandbags1">
     <Original>Checkpoint Sandbags #1</Original>
@@ -2743,6 +2757,12 @@
 </Key>
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesSmall_Checkpoint_IND_F">
     <Original>Checkpoint [IND]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointConcretePost">
+    <Original>Checkpoint Concrete Post</Original>
+</Key>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointSmallBunker">
+    <Original>Checkpoint Bunker (Small)</Original>
 </Key>
 
 <Key ID="STR_ZEC_Military_CampsSmall_CampSite1_OPF_F">
