@@ -249,6 +249,15 @@
 <Key ID="STR_ZEC_SupportsSmall">
     <Original>Support (Small)</Original>
 </Key>
+<Key ID="STR_ZEC_TrainingLarge">
+    <Original>Training (Large)</Original>
+</Key>
+<Key ID="STR_ZEC_TrainingMedium">
+    <Original>Training (Medium)</Original>
+</Key>
+<Key ID="STR_ZEC_TrainingSmall">
+    <Original>Training (Small)</Original>
+</Key>
 <!-- COMPOSITION - Names -->
 <!-- Civilian Pacific - Names -->
 <Key ID="STR_ZEC_CivilianPacific_ConstructionLarge_BuildingSite1">
@@ -4204,6 +4213,90 @@
 </Key>
 <Key ID="STR_ZEC_Military_FuelSmall_FuelDepot_IND_F">
     <Original>Fuel Depot [IND]</Original>
+</Key>
+
+<Key ID="STR_ZEC_Military_TrainingLarge_ShootHouse01">
+    <Original>Shoot House</Original>
+</Key>
+
+<Key ID="STR_ZEC_Military_TrainingMedium_ShootHouse01">
+    <Original>Shoot House #01</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingMedium_ShootHouse02">
+    <Original>Shoot House #02</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingMedium_ShootHouse03">
+    <Original>Shoot House #03</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingMedium_ShootHouse04">
+    <Original>Shoot House #04</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingMedium_ShootHouse05">
+    <Original>Shoot House #05</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingMedium_ShootHouse06">
+    <Original>Shoot House #06</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingMedium_ShootHouse07">
+    <Original>Shoot House #07</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingMedium_ShootHouse08">
+    <Original>Shoot House #08</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingMedium_ShootHouse09">
+    <Original>Shoot House #09</Original>
+</Key>
+
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse01">
+    <Original>Shoot House #01</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse02">
+    <Original>Shoot House #02</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse03">
+    <Original>Shoot House #03</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse04">
+    <Original>Shoot House #04</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse05">
+    <Original>Shoot House #05</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse06">
+    <Original>Shoot House #06</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse07">
+    <Original>Shoot House #07</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse08">
+    <Original>Shoot House #08</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse09">
+    <Original>Shoot House #09</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse10">
+    <Original>Shoot House #10</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse11">
+    <Original>Shoot House #11</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse12">
+    <Original>Shoot House #12</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse13">
+    <Original>Shoot House #13</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse14">
+    <Original>Shoot House #14</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse15">
+    <Original>Shoot House #15</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse16">
+    <Original>Shoot House #16</Original>
+</Key>
+<Key ID="STR_ZEC_Military_TrainingSmall_ShootHouse17">
+    <Original>Shoot House #17</Original>
 </Key>
 
 </Container></Package></Project>

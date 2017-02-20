@@ -16,6 +16,15 @@ Author: 2600K/LSD
 http://zeus-community.net/
 
 Changelog:
+V.1.0.7
+* Checkpoints now have consistent orientation.
+* Kill House Templates added (Military > Training).
+
+V.1.0.6
+* Missing string references corrected.
+* Camps and Field HQ Compositions added.
+* Synkidat icon location updated for v1.65.
+
 V.1.0.5
 * Side tags re-added to texts.
 
