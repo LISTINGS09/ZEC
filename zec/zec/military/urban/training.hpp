@@ -4,6 +4,7 @@
 		class ShootHouse01 {
 			name = $STR_ZEC_Military_TrainingLarge_ShootHouse01; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-23.9998,-20.0127,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-13.9998,-20.0127,0}; dir = 180;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-28.0002,-6.00391,0}; dir = 0;};
@@ -361,6 +362,7 @@
 		class ShootHouse01 {
 			name = $STR_ZEC_Military_TrainingMedium_ShootHouse01; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-2.99976,-6.8877,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-12.0129,-6.00049,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-6.00378,-7.99951,0}; dir = 90;};
@@ -496,6 +498,7 @@
 		class ShootHouse02 {
 			name = $STR_ZEC_Military_TrainingMedium_ShootHouse02; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-4.98706,-13.9995,0}; dir = 90;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-14.0002,-2.9873,0}; dir = 360;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-8.00024,-2.9873,0}; dir = 360;};
@@ -737,6 +740,7 @@
 		class ShootHouse03 {
 			name = $STR_ZEC_Military_TrainingMedium_ShootHouse03; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-12.9998,-15.0127,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-19,-10,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-6.99976,-14.9961,0}; dir = 180;};
@@ -914,6 +918,7 @@
 		class ShootHouse04 {
 			name = $STR_ZEC_Military_TrainingMedium_ShootHouse04; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-20.0129,-7.00049,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-20.0129,-1.00049,0}; dir = 270;};
 			class Object3 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-3.00024,-3.00391,0}; dir = 0;};
@@ -1050,6 +1055,7 @@
 		class ShootHouse05 {
 			name = $STR_ZEC_Military_TrainingMedium_ShootHouse05; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-10.0002,-3.9873,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-1.99976,5.9873,0}; dir = 180;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-2.00024,-5.9873,0}; dir = 0;};
@@ -1210,6 +1216,7 @@
 		class ShootHouse06 {
 			name = $STR_ZEC_Military_TrainingMedium_ShootHouse06; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-11.0129,-4.00049,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-11.0129,-10.0005,0}; dir = 270;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-2,-16.5,0}; dir = 0;};
@@ -1361,6 +1368,7 @@
 		class ShootHouse07 {
 			name = $STR_ZEC_Military_TrainingMedium_ShootHouse07; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-15.8879,-9.00049,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-12.8752,-3.9873,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-9.86206,-12.9995,0}; dir = 90;};
@@ -1532,6 +1540,7 @@
 		class ShootHouse08 {
 			name = $STR_ZEC_Military_TrainingMedium_ShootHouse08; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-14.7629,-4.12549,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-1.74976,-2.1377,0}; dir = 180;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-14.7629,-0.125488,0}; dir = 270;};
@@ -1633,6 +1642,7 @@
 		class ShootHouse09 {
 			name = $STR_ZEC_Military_TrainingMedium_ShootHouse09; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-8.76294,-1.12549,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-7.74976,-16.1377,0}; dir = 180;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-15.75,-17.125,0}; dir = 0;};
@@ -1766,6 +1776,7 @@
 		class ShootHouse01 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse01; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-9,-8,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-1.00024,-11.0039,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-7.00024,-11.0039,0}; dir = 0;};
@@ -1828,6 +1839,7 @@
 		class ShootHouse02 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse02; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-9,-10,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-8.00378,-3.99951,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-8.00378,-5.99951,0}; dir = 90;};
@@ -1908,6 +1920,7 @@
 		class ShootHouse03 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse03; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-8.01294,-3.00049,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-3.00024,-6.00391,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-8.99976,0.00390625,0}; dir = 180;};
@@ -1971,6 +1984,7 @@
 		class ShootHouse04 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse04; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-9.07397,-3.98096,0}; dir = 90;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-8.07776,-9.98047,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-7.07422,-4.98486,0}; dir = 0;};
@@ -2040,6 +2054,7 @@
 		class ShootHouse05 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse05; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-12,-4,0}; dir = 90;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-11.0038,-5.99951,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-11.0038,0.000488281,0}; dir = 90;};
@@ -2096,6 +2111,7 @@
 		class ShootHouse06 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse06; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-8.59998,0.32959,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-5.58704,-3.66992,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-9.58679,1.33398,0}; dir = 180;};
@@ -2159,6 +2175,7 @@
 		class ShootHouse07 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse07; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-6.42603,-10.4141,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Corner_F"; rank = ""; position[] = {-5.61072,-2.87061,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Corner_F"; rank = ""; position[] = {-5.4696,-0.973633,0}; dir = 0;};
@@ -2245,6 +2262,7 @@
 		class ShootHouse08 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse08; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-6.00879,-5.29883,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-8.00928,-5.29004,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-5.01282,-6.28564,0}; dir = 90;};
@@ -2318,6 +2336,7 @@
 		class ShootHouse09 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse09; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-13.349,-5.5459,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-12.3528,-7.54541,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-7.34924,-8.5498,0}; dir = 0;};
@@ -2386,6 +2405,7 @@
 		class ShootHouse10 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse10; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-3.99976,-6.2627,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-7.00378,-3.24951,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-4.00024,-0.378906,0}; dir = 0;};
@@ -2447,6 +2467,7 @@
 		class ShootHouse11 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse11; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-2.99976,-7.5127,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-8.00378,-4.49951,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-5.00024,-7.50391,0}; dir = 0;};
@@ -2515,6 +2536,7 @@
 		class ShootHouse12 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse12; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-7.01294,0.499512,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-7.00378,-3.49951,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-7.00378,-5.49951,0}; dir = 90;};
@@ -2576,6 +2598,7 @@
 		class ShootHouse13 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse13; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-7.07776,-5.98047,0}; dir = 90;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-6.07422,-8.98486,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-7.07776,-1.98047,0}; dir = 90;};
@@ -2638,6 +2661,7 @@
 		class ShootHouse14 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse14; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-6,-7,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-7.00378,-2.99951,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-4.00378,-2.99951,0}; dir = 90;};
@@ -2708,6 +2732,7 @@
 		class ShootHouse15 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse15; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-8.22498,1.57959,0}; dir = 270;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-5.21204,-4.41992,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-7.21228,-3.42383,0}; dir = 0;};
@@ -2774,6 +2799,7 @@
 		class ShootHouse16 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse16; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Panels_Window_F"; rank = ""; position[] = {-3.17578,-6.17676,0}; dir = 180;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-8.17981,-3.16357,0}; dir = 90;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-8.17981,-1.16357,0}; dir = 90;};
@@ -2853,6 +2879,7 @@
 		class ShootHouse17 {
 			name = $STR_ZEC_Military_TrainingSmall_ShootHouse17; // Credit: 2600K
 			icon = "\a3\Ui_f\data\Map\Markers\NATO\o_unknown.paa";
+			side = 8;
 			class Object0 {side = 8; vehicle = "Land_Shoot_House_Tunnel_F"; rank = ""; position[] = {-6.00903,-8.91113,0}; dir = 0;};
 			class Object1 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-4.00928,-7.41504,0}; dir = 0;};
 			class Object2 {side = 8; vehicle = "Land_Shoot_House_Wall_F"; rank = ""; position[] = {-7.01282,-6.41064,0}; dir = 90;};
