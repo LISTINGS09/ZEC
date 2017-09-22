@@ -287,6 +287,27 @@
     class FuelSmall
     {
         name = $STR_ZEC_FuelSmall;
+		class VehicleRepair {
+			name = $STR_ZEC_Civilian_FuelSmall_VehicleRepair; // Credit: 2600K
+			icon = "\a3\Ui_f\data\Map\MapControl\fuelstation_ca.paa";
+			side = 8;
+			class Object0 {side = 8; vehicle = "Land_CanisterFuel_F"; rank = ""; position[] = {0.625,-2.125,0}; dir = 164.988;};
+			class Object1 {side = 8; vehicle = "Land_CanisterPlastic_F"; rank = ""; position[] = {0.125,-2.625,0}; dir = 150.006;};
+			class Object2 {side = 8; vehicle = "Land_Wrench_F"; rank = ""; position[] = {-0.5,-2.375,0}; dir = 14.9992;};
+			class Object3 {side = 8; vehicle = "Land_DuctTape_F"; rank = ""; position[] = {-0.468079,-2.05591,0}; dir = 180.002;};
+			class Object6 {side = 8; vehicle = "Oil_Spill_F"; rank = ""; position[] = {-4.03796,0.262207,0}; dir = 180;};
+			class Object7 {side = 8; vehicle = "Land_MetalWire_F"; rank = ""; position[] = {-2.25,2.125,0}; dir = 315;};
+			class Object8 {side = 8; vehicle = "Land_Rope_01_F"; rank = ""; position[] = {-1.125,1.75024,0}; dir = 135.003;};
+			class Object9 {side = 8; vehicle = "Land_ToolTrolley_02_F"; rank = ""; position[] = {-1.625,2.25,0}; dir = 284.998;};
+			class Object10 {side = 8; vehicle = "Land_MetalCase_01_small_F"; rank = ""; position[] = {-3,-1.125,0}; dir = 45.0005;};
+			class Object11 {side = 8; vehicle = "Land_Hammer_F"; rank = ""; position[] = {-0.130493,-1.99512,0}; dir = 134.951;};
+			class Object12 {side = 8; vehicle = "Land_Bucket_clean_F"; rank = ""; position[] = {0.25,-1.625,0}; dir = 179.957;};
+			class Object13 {side = 8; vehicle = "C_Van_02_service_F"; rank = ""; position[] = {4.8924,0.75,0}; dir = 90.0005;};
+			class Object14 {side = 8; vehicle = "Land_CanisterFuel_F"; rank = ""; position[] = {-2,2.875,0}; dir = 344.998;};
+			class Object15 {side = 8; vehicle = "Land_Wrench_F"; rank = ""; position[] = {-1.82007,1.77222,0}; dir = 59.9996;};
+			class Object16 {side = 8; vehicle = "C_Offroad_01_F"; rank = ""; position[] = {-5.73859,-0.465088,0}; dir = 75.0025;};
+			class Object18 {side = 8; vehicle = "Land_PlasticBucket_01_open_F"; rank = ""; position[] = {-0.75,2.125,0}; dir = 179.998;};
+		};
     };
 
 

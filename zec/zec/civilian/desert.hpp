@@ -16,6 +16,8 @@
 
 #include "desert\marine.hpp"
 
+#include "desert\medical.hpp"
+
 #include "desert\mining.hpp"
 
 #include "desert\power.hpp"

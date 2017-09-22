@@ -32,10 +32,11 @@ _nearObjects = _keyObj nearObjects _radius;
 diag_log text format["class Export%1 {",var_compCount];
 diag_log text format["    name = ""%1""; // Credit: %2",_className,profileName];
 diag_log text "    icon = ""\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa"";";
+diag_log text "    side = 8;";
 
 for "_i" from 0 to (count _nearObjects) -1 do {
 	_tmpObj = _nearObjects select _i;
-	if (typeOf _tmpObj != _ignoreClass) then {
+	if (typeOf _tmpObj != _ignoreClass && _tempObj != _keyObj) then {
 		_relPos = _keyObj worldToModel (position _tmpObj);	
 		diag_log text format["    class Object%1 {side = 8; vehicle = ""%2""; rank = """"; position[] = {%3,%4,0}; dir = %5;};",
 		_i,

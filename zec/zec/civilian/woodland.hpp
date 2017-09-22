@@ -16,6 +16,8 @@
 
 #include "woodland\marine.hpp"
 
+#include "woodland\medical.hpp"
+
 #include "woodland\mining.hpp"
 
 #include "woodland\power.hpp"

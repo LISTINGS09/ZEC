@@ -232,4 +232,24 @@
 			class Object19 {side = 8; vehicle = "Land_GarbageBags_F"; rank = ""; position[] = {6.83496,-1.51489,0}; dir = 0;};
 			class Object20 {side = 8; vehicle = "Land_Garbage_square3_F"; rank = ""; position[] = {8.74121,1.51196,0}; dir = 0;};
 		};
+		class EODBunker {
+			name = $STR_ZEC_Civilian_GeneralSmall_EODBunker; // Credit: 2600K
+			icon = "\a3\ui_f\data\map\MapControl\watertower_ca.paa";
+			side = 8;
+			class Object0 {side = 8; vehicle = "Headgear_H_PASGT_basic_white_F"; rank = ""; position[] = {-1.48102,0.61792,0}; dir = 133.361;};
+			class Object1 {side = 8; vehicle = "Vest_V_EOD_coyote_F"; rank = ""; position[] = {-2.26648,0.738281,0}; dir = 257.273;};
+			class Object2 {side = 8; vehicle = "Item_ToolKit"; rank = ""; position[] = {-1.38763,-0.0158691,0}; dir = 241.436;};
+			class Object3 {side = 8; vehicle = "Land_BagFence_End_F"; rank = ""; position[] = {-2.21832,0.645264,0}; dir = 244.883;};
+			class Object4 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {-1.44312,-1.44824,0}; dir = 45;};
+			class Object5 {side = 8; vehicle = "RoadCone_F"; rank = ""; position[] = {-6.625,0.25,0}; dir = 333.549;};
+			class Object6 {side = 8; vehicle = "TapeSign_F"; rank = ""; position[] = {-8.25439,-1.00659,0}; dir = 315;};
+			class Object7 {side = 8; vehicle = "TapeSign_F"; rank = ""; position[] = {-4.50781,0.248535,0}; dir = 0;};
+			class Object8 {side = 8; vehicle = "Item_MineDetector"; rank = ""; position[] = {-1.50806,0.231445,0}; dir = 226.336;};
+			class Object10 {side = 8; vehicle = "Land_BagFence_Round_F"; rank = ""; position[] = {1.20441,-1.49902,0}; dir = 315;};
+			class Object11 {side = 8; vehicle = "RoadCone_L_F"; rank = ""; position[] = {6.375,0.25,0}; dir = 332.752;};
+			class Object12 {side = 8; vehicle = "Land_FireExtinguisher_F"; rank = ""; position[] = {0.875,-1.24976,0}; dir = 301.954;};
+			class Object13 {side = 8; vehicle = "TapeSign_F"; rank = ""; position[] = {7.86841,-1.12061,0}; dir = 45;};
+			class Object14 {side = 8; vehicle = "TapeSign_F"; rank = ""; position[] = {4.11719,0.248535,0}; dir = 0;};
+			class Object15 {side = 8; vehicle = "Box_IDAP_AmmoOrd_F"; rank = ""; position[] = {1.75,0.25,0}; dir = 267.445;};
+		};
 	};

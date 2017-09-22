@@ -443,6 +443,10 @@
     <Original>Fuel Depot</Original>
 </Key>
 
+<Key ID="STR_ZEC_Civilian_FuelSmall_VehicleRepair">
+    <Original>Repair Vehicle (Van)</Original>
+</Key>
+
 
 
 <Key ID="STR_ZEC_Civilian_GeneralLarge_SportsGround">
@@ -468,9 +472,15 @@
 <Key ID="STR_ZEC_Civilian_GeneralSmall_MarketStall3">
     <Original>Market Stall #3</Original>
 </Key>
+<Key ID="STR_ZEC_Civilian_GeneralSmall_EODBunker">
+    <Original>EOD Bunker</Original>
+</Key>
 
 <Key ID="STR_ZEC_Civilian_HeliportsMedium_Heliport">
     <Original>Heliport</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_HeliportsMedium_HeliportIDAP">
+    <Original>Heliport (IDAP)</Original>
 </Key>
 
 
@@ -517,8 +527,91 @@
 <Key ID="STR_ZEC_Civilian_MedicalLarge_Hospital">
     <Original>Hospital</Original>
 </Key>
+
 <Key ID="STR_ZEC_Civilian_MedicalMedium_MedicalCenter">
-    <Original>Medical Center</Original>
+    <Original>Medical Centre</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalMedium_IDAPShedIndustrial1">
+    <Original>IDAP Industrial Shed #1</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalMedium_IDAPShedIndustrial2">
+    <Original>IDAP Industrial Shed #2</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalMedium_IDAPShedSmall1">
+    <Original>IDAP Shed (Small) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalMedium_IDAPShedSmall2">
+    <Original>IDAP Shed (Small) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalMedium_IDAPShedLarge1">
+    <Original>IDAP Shed (Large) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalMedium_IDAPShedLarge2">
+    <Original>IDAP Shed (Large) #2</Original>
+</Key>
+
+<Key ID="STR_ZEC_Civilian_MedicalSmall_TentOperations1">
+    <Original>Tent (Operations) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_TentOperations2">
+    <Original>Tent (Operations) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_TentSupply1">
+    <Original>Tent (Supply) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_TentSupply2">
+    <Original>Tent (Supply) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_TentSupply3">
+    <Original>Tent (Supply) #3</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_TentSupply4">
+    <Original>Tent (Supply) #4</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_TentMedical1">
+    <Original>Tent (Medical) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_TentMedical2">
+    <Original>Tent (Medical) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_TentMedical3">
+    <Original>Tent (Medical) #3</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_TentMedical4">
+    <Original>Tent (Medical) #4</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_TentMorgue">
+    <Original>Tent (Morgue)</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_TentRefugee">
+    <Original>Tent (Refugee)</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_AidTent">
+    <Original>Aid Tent</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_VehicleAmbulance">
+    <Original>Ambulance Van</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_VehicleIDAPTransport">
+    <Original>IDAP Van (Transport)</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_VehicleIDAPCargo">
+    <Original>IDAP Van (Cargo)</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_VehicleIDAPTruck">
+    <Original>IDAP Van (Truck)</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_AidStationWater">
+    <Original>Aid Station (Water)</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_AidStationGrain">
+    <Original>Aid Station (Grain)</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_AidStationRice">
+    <Original>Aid Station (Rice)</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_AidStationBoxes">
+    <Original>Aid Station (Boxes)</Original>
 </Key>
 
 
@@ -661,6 +754,17 @@
     <Original>Road Barricade #5</Original>
 </Key>
 
+<Key ID="STR_ZEC_GuerrillaPacific_CheckpointsBarricadesSmall_Barricade1">
+    <Original>Road Barricade #1</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_CheckpointsBarricadesSmall_Barricade2">
+    <Original>Road Barricade #2</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_CheckpointsBarricadesSmall_Barricade3">
+    <Original>Road Barricade #3</Original>
+</Key>
+
+
 <Key ID="STR_ZEC_GuerrillaPacific_CommunicationsLarge_FortifiedCommsTower">
     <Original>Fortified Comms Tower</Original>
 </Key>
@@ -781,6 +885,8 @@
     <Original>Observation Post</Original>
 </Key>
 
+
+
 <Key ID="STR_ZEC_GuerrillaPacific_FortLarge_OldWarBunker">
     <Original>Old War Bunker</Original>
 </Key>
@@ -821,7 +927,67 @@
 <Key ID="STR_ZEC_GuerrillaPacific_FortMedium_BunkerLarge4">
     <Original>Bunker (Large) #4</Original>
 </Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortMedium_BunkerLarge5">
+    <Original>Bunker (Large) #5</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortMedium_BunkerLarge6">
+    <Original>Bunker (Large) #6</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortMedium_BunkerLarge7">
+    <Original>Bunker (Large) #7</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortMedium_BunkerLarge8">
+    <Original>Bunker (Large) #8</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortMedium_CargoTower1">
+    <Original>Cargo Tower #1</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortMedium_CargoTower2">
+    <Original>Cargo Tower #2</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortMedium_CargoTower3">
+    <Original>Cargo Tower #3</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortMedium_CargoTower4">
+    <Original>Cargo Tower #4</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortMedium_ConcreteBunkerCargoTower1">
+    <Original>Concrete Bunker (Cargo Tower)</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortMedium_ConcreteBunkerLarge1">
+    <Original>Concrete Bunker (Large)</Original>
+</Key>
 
+<Key ID="STR_ZEC_GuerrillaPacific_FortSmall_ConcreteBunkerSmall1">
+    <Original>Concrete Bunker (Small)</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortSmall_ConcreteBunkerTower1">
+    <Original>Concrete Bunker (Tower)</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortSmall_BunkerSmall1">
+    <Original>Bunker (Small) #1</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortSmall_BunkerSmall2">
+    <Original>Bunker (Small) #2</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortSmall_BunkerSmall3">
+    <Original>Bunker (Small) #3</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortSmall_BunkerSmall4">
+    <Original>Bunker (Small) #4</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortSmall_BunkerTower1">
+    <Original>Bunker (Tower) #1</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortSmall_BunkerTower2">
+    <Original>Bunker (Tower) #2</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortSmall_BunkerTower3">
+    <Original>Bunker (Tower) #3</Original>
+</Key>
+<Key ID="STR_ZEC_GuerrillaPacific_FortSmall_BunkerTower4">
+    <Original>Bunker (Tower) #4</Original>
+</Key>
 <Key ID="STR_ZEC_GuerrillaPacific_FortSmall_StaticAANet">
     <Original>Static AA (Net)</Original>
 </Key>
@@ -852,6 +1018,8 @@
 <Key ID="STR_ZEC_GuerrillaPacific_FortSmall_OldWarBunker">
     <Original>Old War Bunker</Original>
 </Key>
+
+
 
 <Key ID="STR_ZEC_GuerrillaPacific_FuelSmall_StorageArea">
     <Original>Storage Area</Original>
@@ -1075,19 +1243,6 @@
 <Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesMedium_Checkpoint">
     <Original>Checkpoint (Basic)</Original>
 </Key>
-<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesSmall_CheckpointLight">
-    <Original>Checkpoint (Light)</Original>
-</Key>
-<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesSmall_RoadblockImprov1sed1">
-    <Original>Roadblock Improv1sed #1</Original>
-</Key>
-<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesSmall_RoadblockImprov1sed2">
-    <Original>Roadblock Improv1sed #2</Original>
-</Key>
-<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesSmall_RoadblockImprov1sed3">
-    <Original>Roadblock Improv1sed #3</Original>
-</Key>
-
 <Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesMedium_Barricade1">
     <Original>Road Barricade #1</Original>
 </Key>
@@ -1100,15 +1255,33 @@
 <Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesMedium_Barricade4">
     <Original>Road Barricade #4</Original>
 </Key>
-<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesMedium_Barricade5">
-    <Original>Road Barricade #5</Original>
+<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesMedium_Roadblock">
+    <Original>Roadblock</Original>
 </Key>
-<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesMedium_Barricade6">
-    <Original>Road Barricade #6</Original>
+
+<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesSmall_CheckpointLight">
+    <Original>Checkpoint (Light)</Original>
 </Key>
-<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesMedium_Barricade7">
-    <Original>Road Barricade #7</Original>
+<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesSmall_RoadblockImprovised1">
+    <Original>Roadblock Improvised #1</Original>
 </Key>
+<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesSmall_RoadblockImprovised2">
+    <Original>Roadblock Improvised #2</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesSmall_RoadblockImprovised3">
+    <Original>Roadblock Improvised #3</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesSmall_Barricade1">
+    <Original>Road Barricade #1</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesSmall_Barricade2">
+    <Original>Road Barricade #2</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_CheckpointsBarricadesSmall_Barricade3">
+    <Original>Road Barricade #3</Original>
+</Key>
+
+
 <Key ID="STR_ZEC_Guerrilla_ConstructionMedium_ConstructionFortified1">
     <Original>Construction (Fortified) #1</Original>
 </Key>
@@ -1185,15 +1358,55 @@
 <Key ID="STR_ZEC_Guerrilla_FortLarge_MortarBunker">
     <Original>Mortar Bunker</Original>
 </Key>
+
 <Key ID="STR_ZEC_Guerrilla_FortMedium_BunkerLarge">
     <Original>Bunker (Large)</Original>
 </Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_CargoTowerSandbags">
+    <Original>Cargo Tower (Sandbags)</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_CargoTower1">
+    <Original>Cargo Tower #1</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_CargoTower2">
+    <Original>Cargo Tower #2</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_CargoTower3">
+    <Original>Cargo Tower #3</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_CargoTower4">
+    <Original>Cargo Tower #4</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_ConcreteBunkerCargoTower1">
+    <Original>Concrete Bunker (Cargo Tower)</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_BunkerLargeSandbag">
+    <Original>Bunker (Large) (Sandbags)</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_ConcreteBunkerLarge1">
+    <Original>Concrete Bunker (Large) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_ConcreteBunkerLarge2">
+    <Original>Concrete Bunker (Large) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_BunkerLarge1">
+    <Original>Bunker (Large) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_BunkerLarge2">
+    <Original>Bunker (Large) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_BunkerLarge3">
+    <Original>Bunker (Large) #3</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortMedium_BunkerLarge4">
+    <Original>Bunker (Large) #4</Original>
+</Key>
 
 <Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerConcrete">
-    <Original>Bunker (Concrete)</Original>
+    <Original>Bunker (Small) (Concrete)</Original>
 </Key>
 <Key ID="STR_ZEC_Guerrilla_FortSmall_Bunkerx2">
-    <Original>Bunker (Concrete)</Original>
+    <Original>Bunker (Small) x2 (Concrete)</Original>
 </Key>
 <Key ID="STR_ZEC_Guerrilla_FortSmall_Bunker1">
     <Original>Bunker #1</Original>
@@ -1216,14 +1429,35 @@
 <Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerHBarrier4">
     <Original>Bunker H-Barrier #4</Original>
 </Key>
-<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerUrban">
-    <Original>Bunker (Urban)</Original>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerUrban1">
+    <Original>Bunker (Urban) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerUrban2">
+    <Original>Bunker (Urban) #2</Original>
 </Key>
 <Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerSandbags1">
     <Original>Bunker (Sandbags) #1</Original>
 </Key>
 <Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerSandbags2">
     <Original>Bunker (Sandbags) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerSmallSandbag">
+    <Original>Bunker (Sandbags) (Small)</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerTowerSandbag">
+    <Original>Bunker (Sandbags) (Tower)</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_ConcreteBunkerSmall1">
+    <Original>Concrete Bunker (Small) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_ConcreteBunkerSmall2">
+    <Original>Concrete Bunker (Small) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_ConcreteBunkerTower1">
+    <Original>Concrete Bunker (Tower) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_ConcreteBunkerTower2">
+    <Original>Concrete Bunker (Tower) #2</Original>
 </Key>
 <Key ID="STR_ZEC_Guerrilla_FortSmall_Sandbags1">
     <Original>Sandbags #1</Original>
@@ -1237,9 +1471,39 @@
 <Key ID="STR_ZEC_Guerrilla_FortSmall_MortarSandbag">
     <Original>Mortar (Sandbag)</Original>
 </Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerSmall1">
+    <Original>Bunker (Small) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerSmall2">
+    <Original>Bunker (Small) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerSmall3">
+    <Original>Bunker (Small) #3</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerSmall4">
+    <Original>Bunker (Small) #4</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerTower1">
+    <Original>Bunker (Tower) #1</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerTower2">
+    <Original>Bunker (Tower) #2</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerTower3">
+    <Original>Bunker (Tower) #3</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_FortSmall_BunkerTower4">
+    <Original>Bunker (Tower) #4</Original>
+</Key>
 
 <Key ID="STR_ZEC_Guerrilla_HeliportsMedium_SupplyDropPoint">
     <Original>Supply Drop Point</Original>
+</Key>
+
+
+
+<Key ID="STR_ZEC_Guerrilla_HQLarge_MilitaryBase">
+    <Original>Military Base</Original>
 </Key>
 
 <Key ID="STR_ZEC_Guerrilla_HQMedium_RuinFortified">
@@ -1251,6 +1515,20 @@
 <Key ID="STR_ZEC_Guerrilla_HQMedium_ShedSandbags">
     <Original>Shed (Sandbags)</Original>
 </Key>
+<Key ID="STR_ZEC_Guerrilla_HQMedium_ConcreteBunker1">
+    <Original>Concrete Bunker #1</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_HQMedium_ConcreteBunker2">
+    <Original>Concrete Bunker #2</Original>
+</Key>
+
+<Key ID="STR_ZEC_Guerrilla_HQSmall_ConcreteBunker1">
+    <Original>Concrete Bunker #1</Original>
+</Key>
+<Key ID="STR_ZEC_Guerrilla_HQSmall_ConcreteBunker2">
+    <Original>Concrete Bunker #2</Original>
+</Key>
+
 
 
 <Key ID="STR_ZEC_Guerrilla_MedicalLarge_AirAmbulance">
@@ -1293,6 +1571,10 @@
 </Key>
 
 
+<Key ID="STR_ZEC_Guerrilla_OutpostsLarge_ConcreteBunker">
+    <Original>Concrete Bunker</Original>
+</Key>
+
 <Key ID="STR_ZEC_Guerrilla_OutpostsMedium_DestroyedHouse">
     <Original>Destroyed House</Original>
 </Key>
@@ -1302,10 +1584,18 @@
 <Key ID="STR_ZEC_Guerrilla_OutpostsMedium_HouseFortified">
     <Original>Fortified House</Original>
 </Key>
+<Key ID="STR_ZEC_Guerrilla_OutpostsMedium_ConcreteBunker">
+    <Original>Concrete Bunker</Original>
+</Key>
 
 <Key ID="STR_ZEC_Guerrilla_OutpostsSmall_SmallHouse">
     <Original>Small House</Original>
 </Key>
+<Key ID="STR_ZEC_Guerrilla_OutpostsSmall_ConcreteBunker">
+    <Original>Concrete Bunker</Original>
+</Key>
+
+
 <Key ID="STR_ZEC_Guerrilla_SupportsSmall_Workshop">
     <Original>Workshop</Original>
 </Key>
@@ -1726,6 +2016,12 @@
 <Key ID="STR_ZEC_MilitaryPacific_MedicalMedium_FieldHospital2_OPF_T_F">
 	<Original>Field Hospital #2 [OPF]</Original>
 </Key>
+<Key ID="STR_ZEC_MilitaryPacific_MedicalMedium_HospitalTent_OPF_T_F">
+	<Original>Hospital Tent [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_MedicalMedium_HospitalTent_BLU_T_F">
+	<Original>Hospital Tent [BLU]</Original>
+</Key>
 
 <Key ID="STR_ZEC_MilitaryPacific_MedicalSmall_UrbanEvacPoint1">
 	<Original>Urban Evac Point #1</Original>
@@ -1744,6 +2040,12 @@
 </Key>
 <Key ID="STR_ZEC_MilitaryPacific_MedicalSmall_CollectionStation_OPF_T_F">
 	<Original>Collection Station [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_MedicalSmall_CCP_BLU_T_F">
+	<Original>CCP [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_MedicalSmall_CCP_OPF_T_F">
+	<Original>CCP [OPF]</Original>
 </Key>
 
 <Key ID="STR_ZEC_MilitaryPacific_HQLarge_HQSquare">
@@ -2037,8 +2339,11 @@
 <Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesMedium_CheckpointConcrete2">
     <Original>Checkpoint (Concrete) #2</Original>
 </Key>
-<Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesMedium_CheckpointTowers">
-    <Original>Checkpoint (Towers)</Original>
+<Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesMedium_CheckpointTowers1">
+    <Original>Checkpoint (Towers) #1</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesMedium_CheckpointTowers2">
+    <Original>Checkpoint (Towers) #2</Original>
 </Key>
 <Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesMedium_CheckpointVehicle">
     <Original>Checkpoint (Vehicle Bunker)</Original>
@@ -2055,6 +2360,9 @@
 </Key>
 <Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesSmall_CheckpointSandbags2">
     <Original>Checkpoint (Sandbags) #2</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesSmall_CheckpointSandbags3">
+    <Original>Checkpoint (Sandbags) #3</Original>
 </Key>
 <Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesSmall_CheckpointBunkers1">
     <Original>Checkpoint (Bunkers) #1</Original>
@@ -2090,6 +2398,9 @@
 </Key>
 <Key ID="STR_ZEC_MilitaryPacific_FortLarge_WatchtowerLine">
     <Original>Watchtower Line</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_FortLarge_BunkerSystem">
+    <Original>Bunker System</Original>
 </Key>
 
 
@@ -2515,6 +2826,9 @@
 <Key ID="STR_ZEC_Military_ConstructionSuppliesLarge_FillerBox2">
     <Original>Filler - Boxes #2</Original>
 </Key>
+<Key ID="STR_ZEC_Military_ConstructionSuppliesLarge_BunkerFortifications">
+    <Original>Bunker Fortifications</Original>
+</Key>
 
 <Key ID="STR_ZEC_Military_CommunicationsMedium_RadarDome_OPF_F">
     <Original>Radar Dome [OPF]</Original>
@@ -2630,6 +2944,9 @@
 <Key ID="STR_ZEC_Military_MedicalMedium_Surgery_BLU_F">
 	<Original>Surgery [BLU]</Original>
 </Key>
+<Key ID="STR_ZEC_Military_MedicalMedium_HospitalTent_BLU_F">
+	<Original>Hospital Tent [BLU]</Original>
+</Key>
 <Key ID="STR_ZEC_Military_MedicalMedium_FieldHospital_OPF_F">
 	<Original>Field Hospital [OPF]</Original>
 </Key>
@@ -2638,6 +2955,9 @@
 </Key>
 <Key ID="STR_ZEC_Military_MedicalMedium_Surgery_OPF_F">
 	<Original>Surgery [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalMedium_HospitalTent_OPF_F">
+	<Original>Hospital Tent [OPF]</Original>
 </Key>
 <Key ID="STR_ZEC_Military_MedicalMedium_FieldHospital_IND_F">
 	<Original>Field Hospital [IND]</Original>
@@ -2648,6 +2968,10 @@
 <Key ID="STR_ZEC_Military_MedicalMedium_Surgery_IND_F">
 	<Original>Surgery [IND]</Original>
 </Key>
+<Key ID="STR_ZEC_Military_MedicalMedium_HospitalTent_IND_F">
+	<Original>Hospital Tent [IND]</Original>
+</Key>
+
 
 <Key ID="STR_ZEC_Military_MedicalSmall_MedicalCentre">
     <Original>Medical Centre</Original>
@@ -2667,6 +2991,9 @@
 <Key ID="STR_ZEC_Military_MedicalSmall_Surgery2_BLU_F">
 	<Original>Surgery [BLU] #2</Original>
 </Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_CCP_BLU_F">
+	<Original>CCP [BLU]</Original>
+</Key>
 <Key ID="STR_ZEC_Military_MedicalSmall_UrbanSurgery_OPF_F">
 	<Original>Urban Surgery [OPF]</Original>
 </Key>
@@ -2681,6 +3008,9 @@
 </Key>
 <Key ID="STR_ZEC_Military_MedicalSmall_Surgery2_OPF_F">
 	<Original>Surgery [OPF] #2</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_CCP_OPF_F">
+	<Original>CCP [OPF]</Original>
 </Key>
 <Key ID="STR_ZEC_Military_MedicalSmall_UrbanSurgery_IND_F">
 	<Original>Urban Surgery [IND]</Original>
@@ -2697,7 +3027,9 @@
 <Key ID="STR_ZEC_Military_MedicalSmall_Surgery2_IND_F">
 	<Original>Surgery [IND] #2</Original>
 </Key>
-
+<Key ID="STR_ZEC_Military_MedicalSmall_CCP_IND_F">
+	<Original>CCP [IND]</Original>
+</Key>
 
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_CheckpointWatchtower">
     <Original>Checkpoint Watchtower</Original>
@@ -2721,8 +3053,11 @@
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointConcrete">
     <Original>Checkpoint Concrete</Original>
 </Key>
-<Key ID="STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointTowers">
-    <Original>Checkpoint Towers</Original>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointTowers1">
+    <Original>Checkpoint Towers #1</Original>
+</Key>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointTowers2">
+    <Original>Checkpoint Towers #2</Original>
 </Key>
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointBunker">
     <Original>Checkpoint Bunker</Original>
@@ -2742,12 +3077,18 @@
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointCargoPosts">
     <Original>Checkpoint Cargo Posts</Original>
 </Key>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesMedium_VehicleBunker">
+    <Original>Vehicle Bunker</Original>
+</Key>
 
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointSandbags1">
     <Original>Checkpoint Sandbags #1</Original>
 </Key>
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointSandbags2">
     <Original>Checkpoint Sandbags #2</Original>
+</Key>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointSandbags3">
+    <Original>Checkpoint Sandbags #3</Original>
 </Key>
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesSmall_CheckpointTower">
     <Original>Checkpoint Tower</Original>
@@ -3313,6 +3654,9 @@
 </Key>
 <Key ID="STR_ZEC_Military_HQMedium_OfficersHQ_IND_F">
     <Original>Officers HQ [IND]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_HQMedium_WalledHQ">
+    <Original>Walled HQ</Original>
 </Key>
 
 

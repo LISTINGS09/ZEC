@@ -16,6 +16,9 @@ Author: 2600K/LSD
 http://zeus-community.net/
 
 Changelog:
+V.1.0.8
+* LoW DLC Compositions Added
+
 V.1.0.7
 * Checkpoints now have consistent orientation.
 * Kill House Templates added (Military > Training).
