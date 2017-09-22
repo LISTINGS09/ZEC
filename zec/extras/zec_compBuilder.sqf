@@ -16,10 +16,13 @@
 		4 (Optional): 
 			STRING - The name of a class you wish to ignore (I use 'Land_Garbage_line_F' as I put this script in that item);
 			
-	Example:
-	_nul = [this,25,1,"My Export"] execVM "zec_compBuilder.sqf";
+	Example Object Init:
+	_nul = [this, 25, 1, "My Export"] execVM "zec_compBuilder.sqf";
+	
+	Example Trigger Init:
+	_nul = [thisTrigger,(triggerArea thisTrigger select 0), 1, "Aid Station (Water)"] execVM "extras\zec_compBuilder.sqf";
 */
-params [["_keyObj",nil],["_radius",25,[0]],["_delay",1,[0]],["_className","Unknown"],["_ignoreClass","Land_Garbage_line_F"]];
+params [["_keyObj",nil],["_radius",25,[0]],["_delay",1,[0]],["_className","Unknown"],["_ignoreClass",typeOf (_this select 0)]];
 
 if (isNil "_keyObj") exitWith {};
 
@@ -36,7 +39,7 @@ diag_log text "    side = 8;";
 
 for "_i" from 0 to (count _nearObjects) -1 do {
 	_tmpObj = _nearObjects select _i;
-	if (typeOf _tmpObj != _ignoreClass && _tempObj != _keyObj) then {
+	if (typeOf _tmpObj != _ignoreClass) then {
 		_relPos = _keyObj worldToModel (position _tmpObj);	
 		diag_log text format["    class Object%1 {side = 8; vehicle = ""%2""; rank = """"; position[] = {%3,%4,0}; dir = %5;};",
 		_i,

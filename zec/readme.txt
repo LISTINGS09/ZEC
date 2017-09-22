@@ -16,8 +16,13 @@ Author: 2600K/LSD
 http://zeus-community.net/
 
 Changelog:
+V.1.0.9
+* LOW Compositions Added
+* Malden Compositons Added
+* Compositons now have consistent orientation (North is 'Front')
+
 V.1.0.8
-* LoW DLC Compositions Added
+* Minor Fixes
 
 V.1.0.7
 * Checkpoints now have consistent orientation.
