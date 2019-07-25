@@ -16,10 +16,14 @@ Author: 2600K/LSD
 http://zeus-community.net/
 
 Changelog:
+V.1.1
+* Contact Compositions Added
+* Eden Export Script Added
+
 V.1.0.9
 * LOW Compositions Added
-* Malden Compositons Added
-* Compositons now have consistent orientation (North is 'Front')
+* Malden Compositions Added
+* Compositions now have consistent orientation (North is 'Front')
 
 V.1.0.8
 * Minor Fixes

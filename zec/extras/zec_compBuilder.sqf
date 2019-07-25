@@ -22,13 +22,10 @@
 	Example Trigger Init:
 	_nul = [thisTrigger,(triggerArea thisTrigger select 0), 1, "Aid Station (Water)"] execVM "extras\zec_compBuilder.sqf";
 */
-params [["_keyObj",nil],["_radius",25,[0]],["_delay",1,[0]],["_className","Unknown"],["_ignoreClass",typeOf (_this select 0)]];
+params [["_keyObj",(get3DENSelected "Object") select 0],["_radius",25,[0]],["_delay",0,[0]],["_className","Unknown"],["_ignoreClass",typeOf ((get3DENSelected "Object") select 0)]];
 
 if (isNil "_keyObj") exitWith {};
-
 if (isNil "var_compCount") then {var_compCount = 0};
-
-sleep _delay;
 
 _nearObjects = _keyObj nearObjects _radius;
 
@@ -37,20 +34,20 @@ diag_log text format["    name = ""%1""; // Credit: %2",_className,profileName];
 diag_log text "    icon = ""\a3\Ui_f\data\Map\Markers\Military\unknown_ca.paa"";";
 diag_log text "    side = 8;";
 
-for "_i" from 0 to (count _nearObjects) -1 do {
-	_tmpObj = _nearObjects select _i;
-	if (typeOf _tmpObj != _ignoreClass) then {
-		_relPos = _keyObj worldToModel (position _tmpObj);	
-		diag_log text format["    class Object%1 {side = 8; vehicle = ""%2""; rank = """"; position[] = {%3,%4,0}; dir = %5;};",
-		_i,
-		typeOf _tmpObj,
+{
+	if (typeOf _x != _ignoreClass) then {
+		_relPos = getPosATL _x vectorDiff getPosATL _keyObj;
+		diag_log text format["    class Object%1 {side = 8; vehicle = ""%2""; rank = """"; position[] = {%3,%4,%5}; dir = %6;};",
+		_forEachIndex,
+		typeOf _x,
 		_relPos select 0,
 		_relPos select 1,
-		round (getDir _tmpObj) - (getDir _keyObj)
+		_relPos select 2,
+		round (getDir _x) - (getDir _keyObj)
 		];
 	};
-}; 
+} forEach _nearObjects;
 
-diag_log text format["};",var_compCount];
+diag_log text "};";
 
 var_compCount = var_compCount + 1;

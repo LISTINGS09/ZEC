@@ -403,6 +403,9 @@
 <Key ID="STR_ZEC_Civilian_ConstructionSuppliesLarge_FillerConstruction">
     <Original>Filler - Construction</Original>
 </Key>
+<Key ID="STR_ZEC_Civilian_ConstructionSuppliesLarge_FillerTables">
+    <Original>Filler - Tables (Decorated)</Original>
+</Key>
 <Key ID="STR_ZEC_Civilian_ConstructionSuppliesLarge_EdenJunkWrecks">
     <Original>Junk and Wrecks</Original>
 </Key>
@@ -462,6 +465,12 @@
 <Key ID="STR_ZEC_Civilian_GeneralMedium_BasketballCourt">
     <Original>Basketball Court</Original>
 </Key>
+<Key ID="STR_ZEC_Civilian_GeneralMedium_CBRNDomeBuild">
+    <Original>CBRN Crater Site (Construction)</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_GeneralMedium_CBRNDome">
+    <Original>CBRN Crater Site (Dome)</Original>
+</Key>
 
 <Key ID="STR_ZEC_Civilian_GeneralSmall_MarketStall1">
     <Original>Market Stall #1</Original>
@@ -475,6 +484,10 @@
 <Key ID="STR_ZEC_Civilian_GeneralSmall_EODBunker">
     <Original>EOD Bunker</Original>
 </Key>
+<Key ID="STR_ZEC_Civilian_GeneralSmall_CrashSite">
+    <Original>Crash Site (Helicopter)</Original>
+</Key>
+
 
 <Key ID="STR_ZEC_Civilian_HeliportsMedium_Heliport">
     <Original>Heliport</Original>
@@ -549,6 +562,9 @@
 <Key ID="STR_ZEC_Civilian_MedicalMedium_IDAPShedLarge2">
     <Original>IDAP Shed (Large) #2</Original>
 </Key>
+<Key ID="STR_ZEC_Civilian_MedicalMedium_IDAPCBRNCenter">
+    <Original>IDAP CBRN Research Centre</Original>
+</Key>
 
 <Key ID="STR_ZEC_Civilian_MedicalSmall_TentOperations1">
     <Original>Tent (Operations) #1</Original>
@@ -612,6 +628,12 @@
 </Key>
 <Key ID="STR_ZEC_Civilian_MedicalSmall_AidStationBoxes">
     <Original>Aid Station (Boxes)</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_CBRNDeconVehicle">
+    <Original>CBRN Decontamination (Vehicle)</Original>
+</Key>
+<Key ID="STR_ZEC_Civilian_MedicalSmall_CBRNDeconPerson">
+    <Original>CBRN Decontamination (Personnel)</Original>
 </Key>
 
 
@@ -1985,6 +2007,18 @@
 <Key ID="STR_ZEC_MilitaryPacific_MedicalLarge_EvacHospital_OPF_T_F">
 	<Original>Evacuation Hospital [OPF]</Original>
 </Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_CBRNFacility_BLU_T_F">
+	<Original>CBRN Facility [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_CBRNFacility_OPF_T_F">
+	<Original>CBRN Facility [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_CBRNDome_BLU_T_F">
+	<Original>CBRN Dome [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_CBRNDome_OPF_T_F">
+	<Original>CBRN Dome [OPF]</Original>
+</Key>
 
 <Key ID="STR_ZEC_MilitaryPacific_MedicalMedium_FieldHospital_BLU_T_F">
 	<Original>Field Hospital [BLU]</Original>
@@ -2046,6 +2080,12 @@
 </Key>
 <Key ID="STR_ZEC_MilitaryPacific_MedicalSmall_CCP_OPF_T_F">
 	<Original>CCP [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_MedicalSmall_CBRNTent_BLU_T_F">
+	<Original>CBRN Tent [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_MedicalSmall_CBRNTent_OPF_T_F">
+	<Original>CBRN Tent [OPF]</Original>
 </Key>
 
 <Key ID="STR_ZEC_MilitaryPacific_HQLarge_HQSquare">
@@ -2322,6 +2362,21 @@
 </Key>
 <Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesLarge_Checkpoint_OPF_T_F">
     <Original>Checkpoint [OFP]</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesLarge_CBRNCheckpoint_BLU_T_F">
+    <Original>CBRN Checkpoint [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesLarge_CBRNCheckpoint_OPF_T_F">
+    <Original>CBRN Checkpoint [OFP]</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesLarge_CBRNCheckpointWatchtower">
+    <Original>CBRN Checkpoint (Watchtower)</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesLarge_CBRNCheckpointBunker">
+    <Original>CBRN Checkpoint (Bunker)</Original>
+</Key>
+<Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesLarge_CBRNCheckpointCargoPost">
+    <Original>CBRN Checkpoint (Cargo Post)</Original>
 </Key>
 
 <Key ID="STR_ZEC_MilitaryPacific_CheckpointsBarricadesMedium_CheckpointBunker">
@@ -2799,8 +2854,8 @@
 <!-- Military - Names -->
 
 
-<Key ID="STR_ZEC_Military_ConstructionSuppliesLarge_MilitaryItems">
-    <Original>Military Items</Original>
+<Key ID="STR_ZEC_Military_ConstructionSuppliesLarge_MilitaryItemsLarge">
+    <Original>Military Items (Large)</Original>
 </Key>
 <Key ID="STR_ZEC_Military_ConstructionSuppliesLarge_MilitaryFortifications">
     <Original>Military Fortifications</Original>
@@ -2829,6 +2884,32 @@
 <Key ID="STR_ZEC_Military_ConstructionSuppliesLarge_BunkerFortifications">
     <Original>Bunker Fortifications</Original>
 </Key>
+<Key ID="STR_ZEC_Military_ConstructionSuppliesLarge_MilitaryItemsSmall">
+    <Original>Military Items (Small)</Original>
+</Key>
+<Key ID="STR_ZEC_Military_ConstructionSuppliesLarge_MilitaryFiller">
+    <Original>Military Filler</Original>
+</Key>
+
+<Key ID="STR_ZEC_Military_ConstructionSuppliesSmall_DesksResearch">
+    <Original>Desks - Research</Original>
+</Key>
+<Key ID="STR_ZEC_Military_ConstructionSuppliesSmall_DesksMedical">
+    <Original>Desks - Medical</Original>
+</Key>
+<Key ID="STR_ZEC_Military_ConstructionSuppliesSmall_DesksOffice">
+    <Original>Desks - Office</Original>
+</Key>
+<Key ID="STR_ZEC_Military_ConstructionSuppliesSmall_TablesWoodenSmall">
+    <Original>Desks - Wooden (Small)</Original>
+</Key>
+<Key ID="STR_ZEC_Military_ConstructionSuppliesSmall_TablesCamping">
+    <Original>Tables - Camping</Original>
+</Key>
+<Key ID="STR_ZEC_Military_ConstructionSuppliesSmall_CablesHoses">
+    <Original>Cables &amp; Hoses</Original>
+</Key>
+
 
 <Key ID="STR_ZEC_Military_CommunicationsMedium_RadarDome_OPF_F">
     <Original>Radar Dome [OPF]</Original>
@@ -2931,6 +3012,21 @@
 <Key ID="STR_ZEC_Military_MedicalLarge_EvacHospital_IND_F">
 	<Original>Evacuation Hospital [IND]</Original>
 </Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_CBRNFacility_BLU_F">
+	<Original>CBRN Decontamination Site [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_CBRNFacility_OPF_F">
+	<Original>CBRN Decontamination Site [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_CBRNDome_BLU_F">
+	<Original>CBRN Dome [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_CBRNDome_OPF_F">
+	<Original>CBRN Dome [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalLarge_CBRNDome_IND_F">
+	<Original>CBRN Dome [IND]</Original>
+</Key>
 
 <Key ID="STR_ZEC_Military_MedicalMedium_MedicalCompound">
     <Original>Medical Compound</Original>
@@ -3030,15 +3126,24 @@
 <Key ID="STR_ZEC_Military_MedicalSmall_CCP_IND_F">
 	<Original>CCP [IND]</Original>
 </Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_CBRNTent_BLU_F">
+	<Original>CBRN Tent [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_CBRNTent_OPF_F">
+	<Original>CBRN Tent [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_MedicalSmall_CBRNTent_IND_F">
+	<Original>CBRN Tent [IND]</Original>
+</Key>
 
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_CheckpointWatchtower">
-    <Original>Checkpoint Watchtower</Original>
+    <Original>Checkpoint (Watchtower)</Original>
 </Key>
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_CheckpointBunker">
-    <Original>Checkpoint Bunker</Original>
+    <Original>Checkpoint (Bunker)</Original>
 </Key>
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_CheckpointHBarrier">
-    <Original>Checkpoint H-Barrier</Original>
+    <Original>Checkpoint (H-Barrier)</Original>
 </Key>
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_Checkpoint_BLU_F">
     <Original>Checkpoint [BLU]</Original>
@@ -3049,6 +3154,25 @@
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_Checkpoint_IND_F">
     <Original>Checkpoint [IND]</Original>
 </Key>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_CBRNCheckpoint_BLU_F">
+    <Original>CBRN Checkpoint [BLU]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_CBRNCheckpoint_OPF_F">
+    <Original>CBRN Checkpoint [OPF]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_CBRNCheckpoint_IND_F">
+    <Original>CBRN Checkpoint [IND]</Original>
+</Key>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_CBRNCheckpointWatchtower">
+    <Original>CBRN Checkpoint (Watchtower)</Original>
+</Key>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_CBRNCheckpointBunker">
+    <Original>CBRN Checkpoint (Bunker)</Original>
+</Key>
+<Key ID="STR_ZEC_Military_CheckpointsBarricadesLarge_CBRNCheckpointCargoPost">
+    <Original>CBRN Checkpoint (Cargo Post)</Original>
+</Key>
+
 
 <Key ID="STR_ZEC_Military_CheckpointsBarricadesMedium_CheckpointConcrete">
     <Original>Checkpoint Concrete</Original>
